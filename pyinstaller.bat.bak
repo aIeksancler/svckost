@@ -1,0 +1,1 @@
+start pyinstaller --onefile --add-data "press.wav;." --add-data "release.wav;." --noconsole svckost.py --icon=ico3.ico
