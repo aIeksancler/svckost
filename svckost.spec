@@ -5,7 +5,7 @@ a = Analysis(
     ['svckost.py'],
     pathex=[],
     binaries=[],
-    datas=[('press.wav', '.'), ('release.wav', '.')],
+    datas=[('press.wav', '.'), ('release.wav', '.'), ('shoot.mp3', '.'), ('reload.mp3', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
