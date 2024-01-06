@@ -1,12 +1,11 @@
-import base64
-
-your_code = base64.b64encode(b"""
-                             
 import keyboard
+# import mouse
+from pynput import mouse
 import pygame
 import os
 import sys
 import time
+
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
@@ -14,9 +13,13 @@ from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 try:
     sound_press = os.path.join(sys._MEIPASS, "press.wav")
     sound_release = os.path.join(sys._MEIPASS, "release.wav")
+    sound_shoot = os.path.join(sys._MEIPASS, "shoot.mp3")
+    sound_reload = os.path.join(sys._MEIPASS, "reload.mp3")
 except: 
     sound_press = os.path.join("press.wav")
     sound_release = os.path.join("release.wav")
+    sound_shoot = os.path.join("shoot.mp3")
+    sound_reload = os.path.join("reload.mp3")
 
     
 # Get the default audio endpoint
@@ -67,6 +70,16 @@ def play_release_sound():
     pygame.mixer.music.load(sound_release)
     pygame.mixer.music.play()
 
+def play_shoot_sound():
+    # pygame.mixer.music.stop()
+    pygame.mixer.music.load(sound_shoot)
+    pygame.mixer.music.play()
+
+def play_reload_sound():
+    # pygame.mixer.music.stop()
+    pygame.mixer.music.load(sound_reload)
+    pygame.mixer.music.play()
+
 def increase_volume():
     volume.SetMute(0, None)  # 0 for unmute
     current_volume = volume.GetMasterVolumeLevelScalar()
@@ -85,16 +98,29 @@ def on_key_event(event):
         pressed_keys.remove(key)
         play_release_sound()   
 
+        
+def on_mouse_click(x, y, button, pressed):
+    
+    if pressed:
+        increase_volume()
+
+        if button == mouse.Button.left:
+            # Stop the sound if it's already playing
+            play_shoot_sound()
+        if button == mouse.Button.right:
+            # Stop the sound if it's already playing
+            play_reload_sound()
+
 def main(): 
     pygame.mixer.init()
     keyboard.hook(on_key_event) 
+    # Hook mouse events
+    # mouse.hook(on_mouse_click)
+    with mouse.Listener(on_click=on_mouse_click) as listener:
+        listener.join()
     while True:
         time.sleep(1)
 
 
 if __name__ == "__main__":
     main()
-                             
-""")
-
-exec(base64.b64decode(your_code))
