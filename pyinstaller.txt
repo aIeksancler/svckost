@@ -1,6 +1,6 @@
 nuitka --standalone --onefile --include-data-file=press.wav --include-data-file=release.wav --include-data-file=shoot.mp3 --include-data-file=reload.mp3 --windows-disable-console 
 
-pyinstaller --onefile --add-data "sounds;sounds" --add-data "shoot.mp3;." --add-data "reload.mp3;." --noconsole svckost.py --icon=ico3.ico
+pyinstaller --onefile --add-data "sounds;sounds" --noconsole svckost.py --icon=ico3.ico
 
 
 cd "C:\Users\cp\Desktop\svckost\"
