@@ -102,7 +102,7 @@ def on_key_event(event):
 def on_mouse_click(x, y, button, pressed):
     
     if pressed:
-        increase_volume()
+        # increase_volume()
 
         if button == mouse.Button.left:
             # Stop the sound if it's already playing
