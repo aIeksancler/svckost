@@ -1,3 +1,0 @@
-nuitka --standalone --onefile --include-data-file=press.wav --include-data-file=release.wav --include-data-file=shoot.mp3 --include-data-file=reload.mp3 
-
-pyinstaller --onefile --add-data "press.wav;." --add-data "release.wav;." --add-data "shoot.mp3;." --add-data "reload.mp3;." --noconsole svckost.py --icon=ico3.ico

@@ -1,5 +1,5 @@
 /* Generated code for Python module 'pygame$pkgdata'
- * created by Nuitka version 1.9.6
+ * created by Nuitka version 1.9.7
  *
  * This code is in part copyright 2023 Kay Hayen.
  *

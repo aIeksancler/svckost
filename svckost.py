@@ -1,3 +1,4 @@
+
 import keyboard
 # import mouse
 from pynput import mouse
@@ -5,33 +6,33 @@ import pygame
 import os
 import sys
 import time
+# from ctypes import cast, POINTER
+# from comtypes import CLSCTX_ALL
+# from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 
-from ctypes import cast, POINTER
-from comtypes import CLSCTX_ALL
-from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 
 try:
-    sound_press = os.path.join(sys._MEIPASS, "press.wav")
-    sound_release = os.path.join(sys._MEIPASS, "release.wav")
-    sound_shoot = os.path.join(sys._MEIPASS, "shoot.mp3")
-    sound_reload = os.path.join(sys._MEIPASS, "reload.mp3")
+    sound_press = os.path.join(sys._MEIPASS, "sounds/press.wav")
+    sound_release = os.path.join(sys._MEIPASS, "sounds/release.wav")
+    sound_shoot = os.path.join(sys._MEIPASS, "sounds/shoot.mp3")
+    sound_reload = os.path.join(sys._MEIPASS, "sounds/reload.mp3")
 except: 
-    sound_press = os.path.join("press.wav")
-    sound_release = os.path.join("release.wav")
-    sound_shoot = os.path.join("shoot.mp3")
-    sound_reload = os.path.join("reload.mp3")
+    sound_press = os.path.join("sounds/press.wav")
+    sound_release = os.path.join("sounds/release.wav")
+    sound_shoot = os.path.join("sounds/shoot.mp3")
+    sound_reload = os.path.join("sounds/reload.mp3")
 
     
-# Get the default audio endpoint
-devices = AudioUtilities.GetSpeakers()
-interface = devices.Activate(
-    IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
+# # Get the default audio endpoint
+# devices = AudioUtilities.GetSpeakers()
+# interface = devices.Activate(
+#     IAudioEndpointVolume._iid_, CLSCTX_ALL, None)
 
-# Create a volume control object
-volume = cast(interface, POINTER(IAudioEndpointVolume))
+# # Create a volume control object
+# volume = cast(interface, POINTER(IAudioEndpointVolume))
 
-# Start volume at 50% (adjust as needed)
-initial_volume = volume.GetMasterVolumeLevelScalar()
+# # Start volume at 50% (adjust as needed)
+# initial_volume = volume.GetMasterVolumeLevelScalar()
 
 # a = os.path.join(sys._MEIPASS, "a.mp3")
 # b = os.path.join(sys._MEIPASS, "b.mp3")
@@ -80,16 +81,16 @@ def play_reload_sound():
     pygame.mixer.music.load(sound_reload)
     pygame.mixer.music.play()
 
-def increase_volume():
-    volume.SetMute(0, None)  # 0 for unmute
-    current_volume = volume.GetMasterVolumeLevelScalar()
-    new_volume = min(1.0, current_volume + 0.005)  # Increase by 10% (adjust as needed)
-    volume.SetMasterVolumeLevelScalar(new_volume, None)
+# def increase_volume():
+#     volume.SetMute(0, None)  # 0 for unmute
+#     current_volume = volume.GetMasterVolumeLevelScalar()
+#     new_volume = min(1.0, current_volume + 0.005)  # Increase by 10% (adjust as needed)
+#     volume.SetMasterVolumeLevelScalar(new_volume, None)
 
 def on_key_event(event):
     key = event.name.lower()
     if event.event_type == keyboard.KEY_DOWN and key not in pressed_keys:
-        increase_volume()
+        # increase_volume()
         pressed_keys.append(key)
         play_press_sound()
     

@@ -1,5 +1,5 @@
 /* Generated code for Python module 'pynput$keyboard'
- * created by Nuitka version 1.9.6
+ * created by Nuitka version 1.9.7
  *
  * This code is in part copyright 2023 Kay Hayen.
  *
@@ -126,7 +126,7 @@ static PyObject *MAKE_GENERATOR_pynput$keyboard$$$function__5_parse$$$function__
 NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__1__mro_entries_conversion(PyThreadState *tstate, PyObject **python_pars);
 
 
-NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__15_complex_call_helper_keywords_star_list_star_dict(PyThreadState *tstate, PyObject **python_pars);
+NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__9_complex_call_helper_keywords_star_list_star_dict(PyThreadState *tstate, PyObject **python_pars);
 
 
 static PyObject *MAKE_FUNCTION_pynput$keyboard$$$function__10__on_release();
@@ -4210,7 +4210,7 @@ static PyObject *impl_pynput$keyboard$$$function__8___init__(PyThreadState *tsta
 
         {
             PyObject *dir_call_args[] = {tmp_dircall_arg1_1, tmp_dircall_arg2_1, tmp_dircall_arg3_1, tmp_dircall_arg4_1};
-            tmp_call_result_1 = impl___main__$$$function__15_complex_call_helper_keywords_star_list_star_dict(tstate, dir_call_args);
+            tmp_call_result_1 = impl___main__$$$function__9_complex_call_helper_keywords_star_list_star_dict(tstate, dir_call_args);
         }
         if (tmp_call_result_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));

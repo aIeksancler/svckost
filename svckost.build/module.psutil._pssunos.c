@@ -1,5 +1,5 @@
 /* Generated code for Python module 'psutil$_pssunos'
- * created by Nuitka version 1.9.6
+ * created by Nuitka version 1.9.7
  *
  * This code is in part copyright 2023 Kay Hayen.
  *
@@ -78,113 +78,113 @@ void checkModuleConstants_psutil$_pssunos(PyThreadState *tstate) {
 #endif
 
 // The module code objects.
-static PyCodeObject *codeobj_41898d6545dac99be18dd4b076d9594a;
+static PyCodeObject *codeobj_932218ea4d919b4de8e2598c459bd2d0;
 static PyCodeObject *codeobj_2e8ce0ddbf58a61d236cd7ae25a6ca3c;
-static PyCodeObject *codeobj_4fae01a9e38901f88fa98e702522d65b;
-static PyCodeObject *codeobj_e0e0555bd3ec9857008423fbe8586f57;
-static PyCodeObject *codeobj_30a34450e18d76c388bc6b37c50503a0;
-static PyCodeObject *codeobj_8f37899c18d1b2104e043d5c4ec2d028;
-static PyCodeObject *codeobj_7fb60b5430bb29d2c60f04330d29e465;
-static PyCodeObject *codeobj_09a4d5f2263d020f0c85be2abd744c06;
-static PyCodeObject *codeobj_1cc217bd1812d94d6853d8d43efc30c4;
-static PyCodeObject *codeobj_e7bf45503ff91ff44824d8e6002e1ae0;
-static PyCodeObject *codeobj_ba8662640dfc521b7ee8470c21141338;
-static PyCodeObject *codeobj_84868f3939e76211b9442b2deb8b6841;
-static PyCodeObject *codeobj_688a220b46cd8ece58d648940cee6c7b;
-static PyCodeObject *codeobj_2214914e5e2d7dbe6c8f84df437bb0f2;
-static PyCodeObject *codeobj_401a935459c1f348ce81688b8e9b8065;
-static PyCodeObject *codeobj_9c515c0f62398e7596505c673b7e1b47;
-static PyCodeObject *codeobj_37eb4932fec00db9635e8848e7471ddb;
-static PyCodeObject *codeobj_f4f9dfd44e90817a21d95ceaaa1abbdd;
-static PyCodeObject *codeobj_b9098b8a864723cfa072df1502674798;
-static PyCodeObject *codeobj_4d5e86138d93278a1339552d29819e7a;
-static PyCodeObject *codeobj_fa51d0cdd089b34f03099b48496a6419;
-static PyCodeObject *codeobj_ba1d4c0dd1c5c0777cba58a2c5f62d8c;
-static PyCodeObject *codeobj_ce397c0ea09024ffb5e77a08d49ad00e;
-static PyCodeObject *codeobj_05ea36a55a6759ce2ed14909b1c0de1f;
-static PyCodeObject *codeobj_8ee908c9710a172531e029f307419ae6;
-static PyCodeObject *codeobj_e7e897978e785cdf2fb7388cf8c4b8f0;
-static PyCodeObject *codeobj_9ae311f86f7e0dc2682ac1b52246c090;
-static PyCodeObject *codeobj_0b2e333b8ffeebc478e39238f2f2b7d7;
-static PyCodeObject *codeobj_ac64e73ce9fd8d555cb5e488f06411cc;
-static PyCodeObject *codeobj_213d44dca8b4e5598787cc3a589e6ff9;
-static PyCodeObject *codeobj_9bc7f8f462e3c94075ad05f3a2778683;
-static PyCodeObject *codeobj_fc58ae7c1db01a685d88cc687ebe7279;
-static PyCodeObject *codeobj_3dd3648ff191ffbe90c7eb0dc07949bb;
-static PyCodeObject *codeobj_037784cdcef637e5fc51d92e19fa720a;
-static PyCodeObject *codeobj_961e60ef4fd8ad2d9865ca84bca44939;
-static PyCodeObject *codeobj_54ed274d7985372492813cd3505e999a;
-static PyCodeObject *codeobj_c0ff44a188b51147ce15b47bfd25f089;
-static PyCodeObject *codeobj_70bc4a541f8eac08154ba423079ff5c8;
-static PyCodeObject *codeobj_bd59ec509c3a8db1af9622fbb4eb16d6;
-static PyCodeObject *codeobj_b38130ca184ba469aa5cbcda2bf48fc5;
-static PyCodeObject *codeobj_412f2e87176f47c0dada538deec377dc;
-static PyCodeObject *codeobj_e9bb54db393c3018d7c05b364ac2b3c2;
-static PyCodeObject *codeobj_a476bbed8fdd73762c901309455e881f;
-static PyCodeObject *codeobj_0f406780b93400fdb870d96f37c40b38;
-static PyCodeObject *codeobj_79988fa6c0468337be881cf56567c488;
-static PyCodeObject *codeobj_073de4b23d42b85d1a8fdfde9ce56b40;
-static PyCodeObject *codeobj_669ef695f972ab953d7fe7898ed0e7ee;
-static PyCodeObject *codeobj_14675a4b1f026c5f7ce1ae17b6177545;
-static PyCodeObject *codeobj_ac4a27e8c4d8837a28fbd2557cbf6160;
-static PyCodeObject *codeobj_3c79f8d97db847293d9ce2226232e876;
-static PyCodeObject *codeobj_d317547b4dcb132440ba4ba320d9a6f0;
-static PyCodeObject *codeobj_177fb5526a1ef92728282dbb1c5c0a29;
+static PyCodeObject *codeobj_2f8ca13bab2a127e540f8b2fe00aec1c;
+static PyCodeObject *codeobj_f250d9965f1ee33d519894e2bf1be7f1;
+static PyCodeObject *codeobj_8cfe7a877b2161028b8b6c6caf9efe99;
+static PyCodeObject *codeobj_ddf3986baba37adb6f3a1003221ec780;
+static PyCodeObject *codeobj_13d1e9e122940c03e732ecf831da001e;
+static PyCodeObject *codeobj_d08df6a25c4973f03d396129b5f7ecd2;
+static PyCodeObject *codeobj_bac279a8624b815d2497380dd029da45;
+static PyCodeObject *codeobj_9510cf340b52d666717f8da4ef7b6dc5;
+static PyCodeObject *codeobj_7135a20500bba001896a3f9052727be8;
+static PyCodeObject *codeobj_a12fa97730e15e9497080c31276c7cd3;
+static PyCodeObject *codeobj_e3b15664d0c42f3b3863d3479162c68a;
+static PyCodeObject *codeobj_e03734726b070aaae53d6549c3c215b9;
+static PyCodeObject *codeobj_82db513a99ad7d540ececf3a94fa3c2b;
+static PyCodeObject *codeobj_f1b84e041d2044e9efb0b8b509dbbf27;
+static PyCodeObject *codeobj_ed79a413d92211c6571b78b8dce9ef3b;
+static PyCodeObject *codeobj_aec0473e48b1faf5f4964f09235d9c97;
+static PyCodeObject *codeobj_7a97f4837842de343df3c0db2de20f43;
+static PyCodeObject *codeobj_9b9986a92f42b00c1815b674dc361283;
+static PyCodeObject *codeobj_bcaedd9cc226e916c6aa20269a02d6af;
+static PyCodeObject *codeobj_ee885307799e4f0bc9deab5403c04aa4;
+static PyCodeObject *codeobj_665fc2ee3b05178059351e5fba36bc5c;
+static PyCodeObject *codeobj_7be5c9e8d3783528b7a527851b0b643f;
+static PyCodeObject *codeobj_a8da812569bb670b8509cd41a97b54c1;
+static PyCodeObject *codeobj_3d73398a5b7137922308a827f69a9eb3;
+static PyCodeObject *codeobj_ae2c5750e835120ebfd50abc70f5742c;
+static PyCodeObject *codeobj_728a8a0bc9682e716fef472c8bebad29;
+static PyCodeObject *codeobj_ef4ba9b82cf132369c40b411a75db369;
+static PyCodeObject *codeobj_07cba1cd7fe6b51afa77bb5af6273aa4;
+static PyCodeObject *codeobj_cd31de1c02449f22994bb60fb234b201;
+static PyCodeObject *codeobj_ebbf4092cbe2b16eb0ca602fb5508be6;
+static PyCodeObject *codeobj_f2f7ef4acee3cd9657069a2fdedbc50d;
+static PyCodeObject *codeobj_4710f5cb11f0b888135b34396328af84;
+static PyCodeObject *codeobj_9e99b2dc39edf7dcc060d46f4e64e6bd;
+static PyCodeObject *codeobj_b3030616ee2e73df8928ea92c0622e78;
+static PyCodeObject *codeobj_1195bc6d2b48251180302d60420528e1;
+static PyCodeObject *codeobj_c55725ede457ff74c6b0bf54c0f25dbb;
+static PyCodeObject *codeobj_1c900aed76b3104d65edeed2a758c1bf;
+static PyCodeObject *codeobj_a4007c869f8af086c5daa03d933c312d;
+static PyCodeObject *codeobj_376189636c587e3d62e2b3d5180bb5d3;
+static PyCodeObject *codeobj_80446e79408330aa559ca453606ad41b;
+static PyCodeObject *codeobj_44742a1b01bcea30a15d7eb50c7bd3a7;
+static PyCodeObject *codeobj_35271d63e2a88dc94796bf32ca3cf3bd;
+static PyCodeObject *codeobj_2aadc8a41477c52cae3ea62518c3d367;
+static PyCodeObject *codeobj_c957f35f8e4f432ba0f0914cdeffeb99;
+static PyCodeObject *codeobj_285bdab126217a2d373c881ff19841c0;
+static PyCodeObject *codeobj_482dc889a4a2b5fa56eab1a3ec714d53;
+static PyCodeObject *codeobj_a1a76d18cb9dea48ff5942a7e5fe4390;
+static PyCodeObject *codeobj_fc4459a46f4fac49c70276460d95b165;
+static PyCodeObject *codeobj_ae42d6a95a97b3271cfc0b2aeae968e5;
+static PyCodeObject *codeobj_6e96b0089268266ff4e98b5678cb789b;
 
 static void createModuleCodeObjects(void) {
     module_filename_obj = MAKE_RELATIVE_PATH(mod_consts[395]); CHECK_OBJECT(module_filename_obj);
-    codeobj_41898d6545dac99be18dd4b076d9594a = MAKE_CODE_OBJECT(module_filename_obj, 626, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[212], mod_consts[212], mod_consts[396], NULL, 1, 0, 0);
+    codeobj_932218ea4d919b4de8e2598c459bd2d0 = MAKE_CODE_OBJECT(module_filename_obj, 647, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[212], mod_consts[212], mod_consts[396], NULL, 1, 0, 0);
     codeobj_2e8ce0ddbf58a61d236cd7ae25a6ca3c = MAKE_CODE_OBJECT(module_filename_obj, 1, 0, mod_consts[397], mod_consts[397], NULL, NULL, 0, 0, 0);
-    codeobj_4fae01a9e38901f88fa98e702522d65b = MAKE_CODE_OBJECT(module_filename_obj, 373, 0, mod_consts[333], mod_consts[333], mod_consts[398], NULL, 0, 0, 0);
-    codeobj_e0e0555bd3ec9857008423fbe8586f57 = MAKE_CODE_OBJECT(module_filename_obj, 378, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[337], mod_consts[337], mod_consts[399], NULL, 2, 0, 0);
-    codeobj_30a34450e18d76c388bc6b37c50503a0 = MAKE_CODE_OBJECT(module_filename_obj, 384, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[167], mod_consts[167], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_8f37899c18d1b2104e043d5c4ec2d028 = MAKE_CODE_OBJECT(module_filename_obj, 617, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[208], mod_consts[208], mod_consts[401], NULL, 2, 0, 0);
-    codeobj_7fb60b5430bb29d2c60f04330d29e465 = MAKE_CODE_OBJECT(module_filename_obj, 407, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[127], mod_consts[127], mod_consts[402], NULL, 1, 0, 0);
-    codeobj_09a4d5f2263d020f0c85be2abd744c06 = MAKE_CODE_OBJECT(module_filename_obj, 417, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[128], mod_consts[128], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_1cc217bd1812d94d6853d8d43efc30c4 = MAKE_CODE_OBJECT(module_filename_obj, 402, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[125], mod_consts[125], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_e7bf45503ff91ff44824d8e6002e1ae0 = MAKE_CODE_OBJECT(module_filename_obj, 306, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[90], mod_consts[90], NULL, NULL, 0, 0, 0);
-    codeobj_ba8662640dfc521b7ee8470c21141338 = MAKE_CODE_OBJECT(module_filename_obj, 439, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[137], mod_consts[137], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_84868f3939e76211b9442b2deb8b6841 = MAKE_CODE_OBJECT(module_filename_obj, 650, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[379], mod_consts[379], mod_consts[403], NULL, 2, 0, 0);
-    codeobj_688a220b46cd8ece58d648940cee6c7b = MAKE_CODE_OBJECT(module_filename_obj, 194, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[47], mod_consts[47], NULL, NULL, 0, 0, 0);
-    codeobj_2214914e5e2d7dbe6c8f84df437bb0f2 = MAKE_CODE_OBJECT(module_filename_obj, 185, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[324], mod_consts[324], NULL, NULL, 0, 0, 0);
-    codeobj_401a935459c1f348ce81688b8e9b8065 = MAKE_CODE_OBJECT(module_filename_obj, 515, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[364], mod_consts[364], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_9c515c0f62398e7596505c673b7e1b47 = MAKE_CODE_OBJECT(module_filename_obj, 199, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[49], mod_consts[49], mod_consts[404], NULL, 0, 0, 0);
-    codeobj_37eb4932fec00db9635e8848e7471ddb = MAKE_CODE_OBJECT(module_filename_obj, 173, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[323], mod_consts[323], mod_consts[405], NULL, 0, 0, 0);
-    codeobj_f4f9dfd44e90817a21d95ceaaa1abbdd = MAKE_CODE_OBJECT(module_filename_obj, 497, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[323], mod_consts[323], mod_consts[406], NULL, 1, 0, 0);
-    codeobj_b9098b8a864723cfa072df1502674798 = MAKE_CODE_OBJECT(module_filename_obj, 447, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[141], mod_consts[141], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_4d5e86138d93278a1339552d29819e7a = MAKE_CODE_OBJECT(module_filename_obj, 536, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[368], mod_consts[368], mod_consts[407], NULL, 1, 0, 0);
-    codeobj_fa51d0cdd089b34f03099b48496a6419 = MAKE_CODE_OBJECT(module_filename_obj, 216, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[53], mod_consts[53], mod_consts[408], NULL, 1, 0, 0);
-    codeobj_ba1d4c0dd1c5c0777cba58a2c5f62d8c = MAKE_CODE_OBJECT(module_filename_obj, 443, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[16], mod_consts[16], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_ce397c0ea09024ffb5e77a08d49ad00e = MAKE_CODE_OBJECT(module_filename_obj, 426, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[348], mod_consts[348], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_05ea36a55a6759ce2ed14909b1c0de1f = MAKE_CODE_OBJECT(module_filename_obj, 487, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[361], mod_consts[361], mod_consts[409], NULL, 1, 0, 0);
-    codeobj_8ee908c9710a172531e029f307419ae6 = MAKE_CODE_OBJECT(module_filename_obj, 549, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[370], mod_consts[370], mod_consts[410], NULL, 1, 0, 0);
-    codeobj_e7e897978e785cdf2fb7388cf8c4b8f0 = MAKE_CODE_OBJECT(module_filename_obj, 671, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[385], mod_consts[385], mod_consts[411], NULL, 1, 0, 0);
-    codeobj_9ae311f86f7e0dc2682ac1b52246c090 = MAKE_CODE_OBJECT(module_filename_obj, 421, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[222], mod_consts[222], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_0b2e333b8ffeebc478e39238f2f2b7d7 = MAKE_CODE_OBJECT(module_filename_obj, 253, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[72], mod_consts[72], mod_consts[412], NULL, 2, 0, 0);
-    codeobj_ac64e73ce9fd8d555cb5e488f06411cc = MAKE_CODE_OBJECT(module_filename_obj, 290, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[85], mod_consts[85], mod_consts[413], NULL, 0, 0, 0);
-    codeobj_213d44dca8b4e5598787cc3a589e6ff9 = MAKE_CODE_OBJECT(module_filename_obj, 455, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[354], mod_consts[354], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_9bc7f8f462e3c94075ad05f3a2778683 = MAKE_CODE_OBJECT(module_filename_obj, 462, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[356], mod_consts[356], mod_consts[414], NULL, 2, 0, 0);
-    codeobj_fc58ae7c1db01a685d88cc687ebe7279 = MAKE_CODE_OBJECT(module_filename_obj, 722, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[389], mod_consts[389], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_3dd3648ff191ffbe90c7eb0dc07949bb = MAKE_CODE_OBJECT(module_filename_obj, 718, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[387], mod_consts[387], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_037784cdcef637e5fc51d92e19fa720a = MAKE_CODE_OBJECT(module_filename_obj, 451, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[142], mod_consts[142], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_961e60ef4fd8ad2d9865ca84bca44939 = MAKE_CODE_OBJECT(module_filename_obj, 390, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[340], mod_consts[340], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_54ed274d7985372492813cd3505e999a = MAKE_CODE_OBJECT(module_filename_obj, 395, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[342], mod_consts[342], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_c0ff44a188b51147ce15b47bfd25f089 = MAKE_CODE_OBJECT(module_filename_obj, 597, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[376], mod_consts[376], mod_consts[415], NULL, 1, 0, 0);
-    codeobj_70bc4a541f8eac08154ba423079ff5c8 = MAKE_CODE_OBJECT(module_filename_obj, 179, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[41], mod_consts[41], mod_consts[405], NULL, 0, 0, 0);
-    codeobj_bd59ec509c3a8db1af9622fbb4eb16d6 = MAKE_CODE_OBJECT(module_filename_obj, 340, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[103], mod_consts[103], mod_consts[416], NULL, 1, 0, 0);
-    codeobj_b38130ca184ba469aa5cbcda2bf48fc5 = MAKE_CODE_OBJECT(module_filename_obj, 335, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[120], mod_consts[120], NULL, NULL, 0, 0, 0);
-    codeobj_412f2e87176f47c0dada538deec377dc = MAKE_CODE_OBJECT(module_filename_obj, 472, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[147], mod_consts[147], mod_consts[400], NULL, 1, 0, 0);
-    codeobj_e9bb54db393c3018d7c05b364ac2b3c2 = MAKE_CODE_OBJECT(module_filename_obj, 558, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[173], mod_consts[173], mod_consts[417], NULL, 1, 0, 0);
-    codeobj_a476bbed8fdd73762c901309455e881f = MAKE_CODE_OBJECT(module_filename_obj, 134, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[322], mod_consts[322], mod_consts[418], NULL, 0, 0, 0);
-    codeobj_0f406780b93400fdb870d96f37c40b38 = MAKE_CODE_OBJECT(module_filename_obj, 519, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[366], mod_consts[366], mod_consts[419], NULL, 1, 0, 0);
-    codeobj_79988fa6c0468337be881cf56567c488 = MAKE_CODE_OBJECT(module_filename_obj, 564, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[374], mod_consts[374], mod_consts[420], NULL, 1, 0, 0);
-    codeobj_073de4b23d42b85d1a8fdfde9ce56b40 = MAKE_CODE_OBJECT(module_filename_obj, 672, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[217], mod_consts[217], mod_consts[421], NULL, 2, 0, 0);
-    codeobj_669ef695f972ab953d7fe7898ed0e7ee = MAKE_CODE_OBJECT(module_filename_obj, 477, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[359], mod_consts[359], mod_consts[422], NULL, 1, 0, 0);
-    codeobj_14675a4b1f026c5f7ce1ae17b6177545 = MAKE_CODE_OBJECT(module_filename_obj, 311, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[92], mod_consts[92], mod_consts[423], NULL, 0, 0, 0);
-    codeobj_ac4a27e8c4d8837a28fbd2557cbf6160 = MAKE_CODE_OBJECT(module_filename_obj, 123, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[321], mod_consts[321], mod_consts[424], NULL, 0, 0, 0);
-    codeobj_3c79f8d97db847293d9ce2226232e876 = MAKE_CODE_OBJECT(module_filename_obj, 727, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[392], mod_consts[392], mod_consts[425], NULL, 2, 0, 0);
-    codeobj_d317547b4dcb132440ba4ba320d9a6f0 = MAKE_CODE_OBJECT(module_filename_obj, 345, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[160], mod_consts[160], mod_consts[426], NULL, 1, 0, 0);
-    codeobj_177fb5526a1ef92728282dbb1c5c0a29 = MAKE_CODE_OBJECT(module_filename_obj, 350, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[107], mod_consts[107], mod_consts[427], mod_consts[428], 1, 0, 0);
+    codeobj_2f8ca13bab2a127e540f8b2fe00aec1c = MAKE_CODE_OBJECT(module_filename_obj, 390, 0, mod_consts[333], mod_consts[333], mod_consts[398], NULL, 0, 0, 0);
+    codeobj_f250d9965f1ee33d519894e2bf1be7f1 = MAKE_CODE_OBJECT(module_filename_obj, 395, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[337], mod_consts[337], mod_consts[399], NULL, 2, 0, 0);
+    codeobj_8cfe7a877b2161028b8b6c6caf9efe99 = MAKE_CODE_OBJECT(module_filename_obj, 401, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[167], mod_consts[167], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_ddf3986baba37adb6f3a1003221ec780 = MAKE_CODE_OBJECT(module_filename_obj, 637, CO_GENERATOR | CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[208], mod_consts[208], mod_consts[401], NULL, 2, 0, 0);
+    codeobj_13d1e9e122940c03e732ecf831da001e = MAKE_CODE_OBJECT(module_filename_obj, 424, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[127], mod_consts[127], mod_consts[402], NULL, 1, 0, 0);
+    codeobj_d08df6a25c4973f03d396129b5f7ecd2 = MAKE_CODE_OBJECT(module_filename_obj, 435, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[128], mod_consts[128], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_bac279a8624b815d2497380dd029da45 = MAKE_CODE_OBJECT(module_filename_obj, 419, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[125], mod_consts[125], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_9510cf340b52d666717f8da4ef7b6dc5 = MAKE_CODE_OBJECT(module_filename_obj, 321, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[90], mod_consts[90], NULL, NULL, 0, 0, 0);
+    codeobj_7135a20500bba001896a3f9052727be8 = MAKE_CODE_OBJECT(module_filename_obj, 458, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[137], mod_consts[137], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_a12fa97730e15e9497080c31276c7cd3 = MAKE_CODE_OBJECT(module_filename_obj, 672, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[379], mod_consts[379], mod_consts[403], NULL, 2, 0, 0);
+    codeobj_e3b15664d0c42f3b3863d3479162c68a = MAKE_CODE_OBJECT(module_filename_obj, 205, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[47], mod_consts[47], NULL, NULL, 0, 0, 0);
+    codeobj_e03734726b070aaae53d6549c3c215b9 = MAKE_CODE_OBJECT(module_filename_obj, 196, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[324], mod_consts[324], NULL, NULL, 0, 0, 0);
+    codeobj_82db513a99ad7d540ececf3a94fa3c2b = MAKE_CODE_OBJECT(module_filename_obj, 534, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[364], mod_consts[364], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_f1b84e041d2044e9efb0b8b509dbbf27 = MAKE_CODE_OBJECT(module_filename_obj, 210, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[49], mod_consts[49], mod_consts[404], NULL, 0, 0, 0);
+    codeobj_ed79a413d92211c6571b78b8dce9ef3b = MAKE_CODE_OBJECT(module_filename_obj, 184, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[323], mod_consts[323], mod_consts[405], NULL, 0, 0, 0);
+    codeobj_aec0473e48b1faf5f4964f09235d9c97 = MAKE_CODE_OBJECT(module_filename_obj, 516, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[323], mod_consts[323], mod_consts[406], NULL, 1, 0, 0);
+    codeobj_7a97f4837842de343df3c0db2de20f43 = MAKE_CODE_OBJECT(module_filename_obj, 466, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[141], mod_consts[141], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_9b9986a92f42b00c1815b674dc361283 = MAKE_CODE_OBJECT(module_filename_obj, 555, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[368], mod_consts[368], mod_consts[407], NULL, 1, 0, 0);
+    codeobj_bcaedd9cc226e916c6aa20269a02d6af = MAKE_CODE_OBJECT(module_filename_obj, 228, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[53], mod_consts[53], mod_consts[408], NULL, 1, 0, 0);
+    codeobj_ee885307799e4f0bc9deab5403c04aa4 = MAKE_CODE_OBJECT(module_filename_obj, 462, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[16], mod_consts[16], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_665fc2ee3b05178059351e5fba36bc5c = MAKE_CODE_OBJECT(module_filename_obj, 444, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[348], mod_consts[348], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_7be5c9e8d3783528b7a527851b0b643f = MAKE_CODE_OBJECT(module_filename_obj, 506, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[361], mod_consts[361], mod_consts[409], NULL, 1, 0, 0);
+    codeobj_a8da812569bb670b8509cd41a97b54c1 = MAKE_CODE_OBJECT(module_filename_obj, 568, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[370], mod_consts[370], mod_consts[410], NULL, 1, 0, 0);
+    codeobj_3d73398a5b7137922308a827f69a9eb3 = MAKE_CODE_OBJECT(module_filename_obj, 695, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[385], mod_consts[385], mod_consts[411], NULL, 1, 0, 0);
+    codeobj_ae2c5750e835120ebfd50abc70f5742c = MAKE_CODE_OBJECT(module_filename_obj, 439, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[222], mod_consts[222], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_728a8a0bc9682e716fef472c8bebad29 = MAKE_CODE_OBJECT(module_filename_obj, 266, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[72], mod_consts[72], mod_consts[412], NULL, 2, 0, 0);
+    codeobj_ef4ba9b82cf132369c40b411a75db369 = MAKE_CODE_OBJECT(module_filename_obj, 305, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[85], mod_consts[85], mod_consts[413], NULL, 0, 0, 0);
+    codeobj_07cba1cd7fe6b51afa77bb5af6273aa4 = MAKE_CODE_OBJECT(module_filename_obj, 474, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[354], mod_consts[354], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_cd31de1c02449f22994bb60fb234b201 = MAKE_CODE_OBJECT(module_filename_obj, 481, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[356], mod_consts[356], mod_consts[414], NULL, 2, 0, 0);
+    codeobj_ebbf4092cbe2b16eb0ca602fb5508be6 = MAKE_CODE_OBJECT(module_filename_obj, 749, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[389], mod_consts[389], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_f2f7ef4acee3cd9657069a2fdedbc50d = MAKE_CODE_OBJECT(module_filename_obj, 745, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[387], mod_consts[387], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_4710f5cb11f0b888135b34396328af84 = MAKE_CODE_OBJECT(module_filename_obj, 470, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[142], mod_consts[142], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_9e99b2dc39edf7dcc060d46f4e64e6bd = MAKE_CODE_OBJECT(module_filename_obj, 407, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[340], mod_consts[340], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_b3030616ee2e73df8928ea92c0622e78 = MAKE_CODE_OBJECT(module_filename_obj, 412, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[342], mod_consts[342], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_1195bc6d2b48251180302d60420528e1 = MAKE_CODE_OBJECT(module_filename_obj, 617, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[376], mod_consts[376], mod_consts[415], NULL, 1, 0, 0);
+    codeobj_c55725ede457ff74c6b0bf54c0f25dbb = MAKE_CODE_OBJECT(module_filename_obj, 190, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[41], mod_consts[41], mod_consts[405], NULL, 0, 0, 0);
+    codeobj_1c900aed76b3104d65edeed2a758c1bf = MAKE_CODE_OBJECT(module_filename_obj, 355, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[103], mod_consts[103], mod_consts[416], NULL, 1, 0, 0);
+    codeobj_a4007c869f8af086c5daa03d933c312d = MAKE_CODE_OBJECT(module_filename_obj, 350, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[120], mod_consts[120], NULL, NULL, 0, 0, 0);
+    codeobj_376189636c587e3d62e2b3d5180bb5d3 = MAKE_CODE_OBJECT(module_filename_obj, 491, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[147], mod_consts[147], mod_consts[400], NULL, 1, 0, 0);
+    codeobj_80446e79408330aa559ca453606ad41b = MAKE_CODE_OBJECT(module_filename_obj, 577, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[173], mod_consts[173], mod_consts[417], NULL, 1, 0, 0);
+    codeobj_44742a1b01bcea30a15d7eb50c7bd3a7 = MAKE_CODE_OBJECT(module_filename_obj, 138, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[322], mod_consts[322], mod_consts[418], NULL, 0, 0, 0);
+    codeobj_35271d63e2a88dc94796bf32ca3cf3bd = MAKE_CODE_OBJECT(module_filename_obj, 538, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[366], mod_consts[366], mod_consts[419], NULL, 1, 0, 0);
+    codeobj_2aadc8a41477c52cae3ea62518c3d367 = MAKE_CODE_OBJECT(module_filename_obj, 583, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[374], mod_consts[374], mod_consts[420], NULL, 1, 0, 0);
+    codeobj_c957f35f8e4f432ba0f0914cdeffeb99 = MAKE_CODE_OBJECT(module_filename_obj, 696, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[217], mod_consts[217], mod_consts[421], NULL, 2, 0, 0);
+    codeobj_285bdab126217a2d373c881ff19841c0 = MAKE_CODE_OBJECT(module_filename_obj, 496, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[359], mod_consts[359], mod_consts[422], NULL, 1, 0, 0);
+    codeobj_482dc889a4a2b5fa56eab1a3ec714d53 = MAKE_CODE_OBJECT(module_filename_obj, 326, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[92], mod_consts[92], mod_consts[423], NULL, 0, 0, 0);
+    codeobj_a1a76d18cb9dea48ff5942a7e5fe4390 = MAKE_CODE_OBJECT(module_filename_obj, 127, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[321], mod_consts[321], mod_consts[424], NULL, 0, 0, 0);
+    codeobj_fc4459a46f4fac49c70276460d95b165 = MAKE_CODE_OBJECT(module_filename_obj, 755, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[392], mod_consts[392], mod_consts[425], NULL, 2, 0, 0);
+    codeobj_ae42d6a95a97b3271cfc0b2aeae968e5 = MAKE_CODE_OBJECT(module_filename_obj, 360, CO_OPTIMIZED | CO_NEWLOCALS, mod_consts[160], mod_consts[160], mod_consts[426], NULL, 1, 0, 0);
+    codeobj_6e96b0089268266ff4e98b5678cb789b = MAKE_CODE_OBJECT(module_filename_obj, 366, CO_OPTIMIZED | CO_NEWLOCALS | CO_VARARGS | CO_VARKEYWORDS, mod_consts[107], mod_consts[107], mod_consts[427], mod_consts[428], 1, 0, 0);
 }
 
 // The module function declarations.
@@ -197,7 +197,7 @@ static PyObject *MAKE_GENERATOR_psutil$_pssunos$$$function__42__get_unix_sockets
 NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__2_complex_call_helper_star_list(PyThreadState *tstate, PyObject **python_pars);
 
 
-NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__5_complex_call_helper_pos_star_list_star_dict(PyThreadState *tstate, PyObject **python_pars);
+NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__7_complex_call_helper_pos_star_list_star_dict(PyThreadState *tstate, PyObject **python_pars);
 
 
 static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__10_net_if_stats();
@@ -361,14 +361,14 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
     PyObject *var_used = NULL;
     PyObject *var_percent = NULL;
     PyObject *tmp_assign_unpack_1__assign_source = NULL;
-    struct Nuitka_FrameObject *frame_ac4a27e8c4d8837a28fbd2557cbf6160;
+    struct Nuitka_FrameObject *frame_a1a76d18cb9dea48ff5942a7e5fe4390;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -376,31 +376,31 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160)) {
-        Py_XDECREF(cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160);
+    if (isFrameUnusable(cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390)) {
+        Py_XDECREF(cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160 == NULL) {
+        if (cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160 = MAKE_FUNCTION_FRAME(tstate, codeobj_ac4a27e8c4d8837a28fbd2557cbf6160, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390 = MAKE_FUNCTION_FRAME(tstate, codeobj_a1a76d18cb9dea48ff5942a7e5fe4390, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_type_description == NULL);
-    frame_ac4a27e8c4d8837a28fbd2557cbf6160 = cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160;
+    assert(cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_type_description == NULL);
+    frame_a1a76d18cb9dea48ff5942a7e5fe4390 = cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_ac4a27e8c4d8837a28fbd2557cbf6160);
-    assert(Py_REFCNT(frame_ac4a27e8c4d8837a28fbd2557cbf6160) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_a1a76d18cb9dea48ff5942a7e5fe4390);
+    assert(Py_REFCNT(frame_a1a76d18cb9dea48ff5942a7e5fe4390) == 2);
 
     // Framed code:
     {
@@ -415,7 +415,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
         }
 
         assert(!(tmp_called_instance_1 == NULL));
-        frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_frame.f_lineno = 126;
+        frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_frame.f_lineno = 130;
         tmp_mult_expr_left_1 = CALL_METHOD_WITH_SINGLE_ARG(
             tstate,
             tmp_called_instance_1,
@@ -429,7 +429,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 126;
+            exception_lineno = 130;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -445,7 +445,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_mult_expr_left_1);
 
-            exception_lineno = 126;
+            exception_lineno = 130;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -457,7 +457,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 126;
+            exception_lineno = 130;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -481,11 +481,11 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 128;
+            exception_lineno = 132;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_frame.f_lineno = 128;
+        frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_frame.f_lineno = 132;
         tmp_mult_expr_left_2 = CALL_METHOD_WITH_SINGLE_ARG(
             tstate,
             tmp_called_instance_2,
@@ -499,7 +499,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 128;
+            exception_lineno = 132;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -515,7 +515,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_mult_expr_left_2);
 
-            exception_lineno = 128;
+            exception_lineno = 132;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -527,7 +527,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 128;
+            exception_lineno = 132;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -568,7 +568,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 129;
+            exception_lineno = 133;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -593,7 +593,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 130;
+            exception_lineno = 134;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -605,7 +605,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
         tmp_tuple_element_1 = var_total;
         PyTuple_SET_ITEM0(tmp_args_value_1, 1, tmp_tuple_element_1);
         tmp_kwargs_value_1 = DICT_COPY(mod_consts[6]);
-        frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_frame.f_lineno = 130;
+        frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_frame.f_lineno = 134;
         tmp_assign_source_6 = CALL_FUNCTION(tstate, tmp_called_value_1, tmp_args_value_1, tmp_kwargs_value_1);
         Py_DECREF(tmp_args_value_1);
         Py_DECREF(tmp_kwargs_value_1);
@@ -615,7 +615,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 130;
+            exception_lineno = 134;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -641,7 +641,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 131;
+            exception_lineno = 135;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -655,7 +655,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
         tmp_args_element_value_4 = var_used;
         CHECK_OBJECT(var_free);
         tmp_args_element_value_5 = var_free;
-        frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_frame.f_lineno = 131;
+        frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_frame.f_lineno = 135;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3, tmp_args_element_value_4, tmp_args_element_value_5};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS5(tstate, tmp_called_value_2, call_args);
@@ -667,7 +667,7 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 131;
+            exception_lineno = 135;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -689,14 +689,14 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ac4a27e8c4d8837a28fbd2557cbf6160, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ac4a27e8c4d8837a28fbd2557cbf6160->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ac4a27e8c4d8837a28fbd2557cbf6160, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a1a76d18cb9dea48ff5942a7e5fe4390, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a1a76d18cb9dea48ff5942a7e5fe4390->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a1a76d18cb9dea48ff5942a7e5fe4390, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ac4a27e8c4d8837a28fbd2557cbf6160,
+        frame_a1a76d18cb9dea48ff5942a7e5fe4390,
         type_description_1,
         var_total,
         var_free,
@@ -707,16 +707,16 @@ static PyObject *impl_psutil$_pssunos$$$function__1_virtual_memory(PyThreadState
 
 
     // Release cached frame if used for exception.
-    if (frame_ac4a27e8c4d8837a28fbd2557cbf6160 == cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160) {
+    if (frame_a1a76d18cb9dea48ff5942a7e5fe4390 == cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160);
-        cache_frame_ac4a27e8c4d8837a28fbd2557cbf6160 = NULL;
+        Py_DECREF(cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390);
+        cache_frame_a1a76d18cb9dea48ff5942a7e5fe4390 = NULL;
     }
 
-    assertFrameObject(frame_ac4a27e8c4d8837a28fbd2557cbf6160);
+    assertFrameObject(frame_a1a76d18cb9dea48ff5942a7e5fe4390);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -827,7 +827,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
     PyObject *tmp_tuple_unpack_3__element_1 = NULL;
     PyObject *tmp_tuple_unpack_3__element_2 = NULL;
     PyObject *tmp_tuple_unpack_3__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_a476bbed8fdd73762c901309455e881f;
+    struct Nuitka_FrameObject *frame_44742a1b01bcea30a15d7eb50c7bd3a7;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -865,7 +865,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_a476bbed8fdd73762c901309455e881f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -873,31 +873,31 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_a476bbed8fdd73762c901309455e881f)) {
-        Py_XDECREF(cache_frame_a476bbed8fdd73762c901309455e881f);
+    if (isFrameUnusable(cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7)) {
+        Py_XDECREF(cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_a476bbed8fdd73762c901309455e881f == NULL) {
+        if (cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_a476bbed8fdd73762c901309455e881f = MAKE_FUNCTION_FRAME(tstate, codeobj_a476bbed8fdd73762c901309455e881f, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7 = MAKE_FUNCTION_FRAME(tstate, codeobj_44742a1b01bcea30a15d7eb50c7bd3a7, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_a476bbed8fdd73762c901309455e881f->m_type_description == NULL);
-    frame_a476bbed8fdd73762c901309455e881f = cache_frame_a476bbed8fdd73762c901309455e881f;
+    assert(cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_type_description == NULL);
+    frame_44742a1b01bcea30a15d7eb50c7bd3a7 = cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_a476bbed8fdd73762c901309455e881f);
-    assert(Py_REFCNT(frame_a476bbed8fdd73762c901309455e881f) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_44742a1b01bcea30a15d7eb50c7bd3a7);
+    assert(Py_REFCNT(frame_44742a1b01bcea30a15d7eb50c7bd3a7) == 2);
 
     // Framed code:
     // Tried code:
@@ -917,11 +917,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 136;
+            exception_lineno = 140;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_2;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 136;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 140;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[10]);
         if (tmp_iter_arg_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -929,7 +929,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 136;
+            exception_lineno = 140;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_2;
         }
@@ -941,7 +941,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 136;
+            exception_lineno = 140;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_2;
         }
@@ -967,7 +967,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 136;
+            exception_lineno = 140;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_1 == NULL);
@@ -991,7 +991,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 136;
+            exception_lineno = 140;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_2 == NULL);
@@ -1016,7 +1016,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooNooooooo";
-                    exception_lineno = 136;
+                    exception_lineno = 140;
                     goto try_except_handler_3;
                 }
             }
@@ -1030,7 +1030,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             exception_tb = NULL;
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 136;
+            exception_lineno = 140;
             goto try_except_handler_3;
         }
     }
@@ -1128,7 +1128,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 143;
+            exception_lineno = 147;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1139,7 +1139,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 143;
+            exception_lineno = 147;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1167,7 +1167,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 144;
+                exception_lineno = 150;
                 type_description_1 = "ooooooNooooooo";
                 goto list_build_exception_1;
             }
@@ -1180,7 +1180,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 144;
+                exception_lineno = 150;
                 type_description_1 = "ooooooNooooooo";
                 goto list_build_exception_1;
             }
@@ -1192,7 +1192,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 144;
+                exception_lineno = 150;
                 type_description_1 = "ooooooNooooooo";
                 goto list_build_exception_1;
             }
@@ -1223,7 +1223,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_kw_call_arg_value_0_1);
 
-            exception_lineno = 145;
+            exception_lineno = 154;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1235,11 +1235,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_kw_call_arg_value_0_1);
 
-            exception_lineno = 145;
+            exception_lineno = 154;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 143;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 147;
         {
             PyObject *args[] = {tmp_kw_call_arg_value_0_1};
             PyObject *kw_values[1] = {tmp_kw_call_dict_value_0_1};
@@ -1255,7 +1255,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 143;
+            exception_lineno = 147;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1269,7 +1269,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
         PyObject *tmp_called_instance_2;
         CHECK_OBJECT(var_p);
         tmp_called_instance_2 = var_p;
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 146;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 156;
         tmp_iter_arg_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_2, mod_consts[22]);
         if (tmp_iter_arg_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -1277,7 +1277,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 146;
+            exception_lineno = 156;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_4;
         }
@@ -1289,7 +1289,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 146;
+            exception_lineno = 156;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_4;
         }
@@ -1315,7 +1315,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 146;
+            exception_lineno = 156;
             goto try_except_handler_5;
         }
         assert(tmp_tuple_unpack_2__element_1 == NULL);
@@ -1339,7 +1339,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 146;
+            exception_lineno = 156;
             goto try_except_handler_5;
         }
         assert(tmp_tuple_unpack_2__element_2 == NULL);
@@ -1364,7 +1364,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooNooooooo";
-                    exception_lineno = 146;
+                    exception_lineno = 156;
                     goto try_except_handler_5;
                 }
             }
@@ -1378,7 +1378,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             exception_tb = NULL;
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 146;
+            exception_lineno = 156;
             goto try_except_handler_5;
         }
     }
@@ -1472,7 +1472,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 147;
+            exception_lineno = 157;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1483,7 +1483,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 147;
+            exception_lineno = 157;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1510,7 +1510,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 148;
+            exception_lineno = 158;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1523,11 +1523,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 148;
+            exception_lineno = 158;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 148;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 158;
         tmp_assign_source_12 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_2);
         Py_DECREF(tmp_args_element_value_1);
@@ -1537,7 +1537,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 148;
+            exception_lineno = 158;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1564,7 +1564,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 149;
+            exception_lineno = 159;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1577,7 +1577,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 149;
+            exception_lineno = 159;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1604,7 +1604,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 150;
+            exception_lineno = 160;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1616,16 +1616,16 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 150;
+            exception_lineno = 160;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 150;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 160;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, PyExc_RuntimeError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
-        exception_lineno = 150;
+        exception_lineno = 160;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "ooooooNooooooo";
         goto frame_exception_exit_1;
@@ -1648,11 +1648,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 152;
+            exception_lineno = 162;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 152;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 162;
         tmp_expression_value_10 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_4);
         Py_DECREF(tmp_called_value_4);
         if (tmp_expression_value_10 == NULL) {
@@ -1661,7 +1661,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 152;
+            exception_lineno = 162;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1673,11 +1673,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 152;
+            exception_lineno = 162;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 152;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 162;
         tmp_expression_value_9 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_3, mod_consts[31]);
 
         Py_DECREF(tmp_called_value_3);
@@ -1687,7 +1687,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 152;
+            exception_lineno = 162;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1700,7 +1700,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 152;
+            exception_lineno = 162;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1719,7 +1719,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 153;
+            exception_lineno = 163;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1735,11 +1735,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
         PyObject *tmp_raise_type_2;
         PyObject *tmp_make_exception_arg_2;
         tmp_make_exception_arg_2 = mod_consts[33];
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 155;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 165;
         tmp_raise_type_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, PyExc_RuntimeError, tmp_make_exception_arg_2);
         assert(!(tmp_raise_type_2 == NULL));
         exception_type = tmp_raise_type_2;
-        exception_lineno = 155;
+        exception_lineno = 165;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "ooooooNooooooo";
         goto frame_exception_exit_1;
@@ -1771,7 +1771,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 157;
+            exception_lineno = 167;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -1794,7 +1794,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "ooooooNooooooo";
-                exception_lineno = 157;
+                exception_lineno = 167;
                 goto try_except_handler_6;
             }
         }
@@ -1831,11 +1831,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 158;
+            exception_lineno = 168;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 158;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 168;
         tmp_assign_source_19 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_5);
         Py_DECREF(tmp_called_value_5);
         if (tmp_assign_source_19 == NULL) {
@@ -1844,7 +1844,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 158;
+            exception_lineno = 168;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -1872,7 +1872,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 159;
+            exception_lineno = 169;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_7;
         }
@@ -1884,7 +1884,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 159;
+            exception_lineno = 169;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_7;
         }
@@ -1914,7 +1914,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 159;
+            exception_lineno = 169;
             goto try_except_handler_8;
         }
         {
@@ -1942,7 +1942,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 159;
+            exception_lineno = 169;
             goto try_except_handler_8;
         }
         {
@@ -1971,7 +1971,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooNooooooo";
-                    exception_lineno = 159;
+                    exception_lineno = 169;
                     goto try_except_handler_8;
                 }
             }
@@ -1985,7 +1985,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             exception_tb = NULL;
 
             type_description_1 = "ooooooNooooooo";
-            exception_lineno = 159;
+            exception_lineno = 169;
             goto try_except_handler_8;
         }
     }
@@ -2086,7 +2086,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 160;
+            exception_lineno = 170;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2101,7 +2101,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 160;
+            exception_lineno = 170;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2114,7 +2114,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 160;
+            exception_lineno = 170;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2126,7 +2126,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 160;
+            exception_lineno = 170;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2138,7 +2138,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 160;
+            exception_lineno = 170;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2161,7 +2161,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 161;
+            exception_lineno = 171;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2176,7 +2176,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 161;
+            exception_lineno = 171;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2189,7 +2189,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 161;
+            exception_lineno = 171;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2201,7 +2201,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 161;
+            exception_lineno = 171;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2213,7 +2213,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 161;
+            exception_lineno = 171;
             type_description_1 = "ooooooNooooooo";
             goto try_except_handler_6;
         }
@@ -2227,7 +2227,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 157;
+        exception_lineno = 167;
         type_description_1 = "ooooooNooooooo";
         goto try_except_handler_6;
     }
@@ -2275,7 +2275,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 162;
+            exception_lineno = 172;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2288,7 +2288,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 162;
+            exception_lineno = 172;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2301,7 +2301,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 162;
+            exception_lineno = 172;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2326,7 +2326,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 163;
+            exception_lineno = 173;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2341,7 +2341,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 163;
+            exception_lineno = 173;
             type_description_1 = "ooooooNooooooo";
             goto tuple_build_exception_1;
         }
@@ -2356,7 +2356,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
         // Finished with no exception for tuple_build:
         tuple_build_noexception_1:;
         tmp_kwargs_value_1 = DICT_COPY(mod_consts[6]);
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 163;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 173;
         tmp_assign_source_28 = CALL_FUNCTION(tstate, tmp_called_value_6, tmp_args_value_1, tmp_kwargs_value_1);
         Py_DECREF(tmp_args_value_1);
         Py_DECREF(tmp_kwargs_value_1);
@@ -2366,7 +2366,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 163;
+            exception_lineno = 173;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2398,7 +2398,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 164;
+            exception_lineno = 174;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2409,7 +2409,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 164;
+            exception_lineno = 174;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2420,7 +2420,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 164;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2435,7 +2435,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 164;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2457,7 +2457,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_7);
 
-            exception_lineno = 165;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2468,7 +2468,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_7);
 
-            exception_lineno = 165;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2487,7 +2487,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             Py_DECREF(tmp_called_value_7);
             Py_DECREF(tmp_args_element_value_6);
 
-            exception_lineno = 165;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2499,11 +2499,11 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             Py_DECREF(tmp_called_value_7);
             Py_DECREF(tmp_args_element_value_6);
 
-            exception_lineno = 165;
+            exception_lineno = 175;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
-        frame_a476bbed8fdd73762c901309455e881f->m_frame.f_lineno = 164;
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame.f_lineno = 174;
         {
             PyObject *call_args[] = {tmp_args_element_value_2, tmp_args_element_value_3, tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6, tmp_args_element_value_7};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS6(tstate, tmp_called_value_7, call_args);
@@ -2518,7 +2518,7 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 164;
+            exception_lineno = 174;
             type_description_1 = "ooooooNooooooo";
             goto frame_exception_exit_1;
         }
@@ -2540,14 +2540,14 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_a476bbed8fdd73762c901309455e881f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_a476bbed8fdd73762c901309455e881f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_a476bbed8fdd73762c901309455e881f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_44742a1b01bcea30a15d7eb50c7bd3a7, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_44742a1b01bcea30a15d7eb50c7bd3a7->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_44742a1b01bcea30a15d7eb50c7bd3a7, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_a476bbed8fdd73762c901309455e881f,
+        frame_44742a1b01bcea30a15d7eb50c7bd3a7,
         type_description_1,
         var_sin,
         var_sout,
@@ -2567,16 +2567,16 @@ static PyObject *impl_psutil$_pssunos$$$function__2_swap_memory(PyThreadState *t
 
 
     // Release cached frame if used for exception.
-    if (frame_a476bbed8fdd73762c901309455e881f == cache_frame_a476bbed8fdd73762c901309455e881f) {
+    if (frame_44742a1b01bcea30a15d7eb50c7bd3a7 == cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_a476bbed8fdd73762c901309455e881f);
-        cache_frame_a476bbed8fdd73762c901309455e881f = NULL;
+        Py_DECREF(cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7);
+        cache_frame_44742a1b01bcea30a15d7eb50c7bd3a7 = NULL;
     }
 
-    assertFrameObject(frame_a476bbed8fdd73762c901309455e881f);
+    assertFrameObject(frame_44742a1b01bcea30a15d7eb50c7bd3a7);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -2703,7 +2703,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_37eb4932fec00db9635e8848e7471ddb;
+    struct Nuitka_FrameObject *frame_ed79a413d92211c6571b78b8dce9ef3b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -2719,7 +2719,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_37eb4932fec00db9635e8848e7471ddb = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ed79a413d92211c6571b78b8dce9ef3b = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -2727,31 +2727,31 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_37eb4932fec00db9635e8848e7471ddb)) {
-        Py_XDECREF(cache_frame_37eb4932fec00db9635e8848e7471ddb);
+    if (isFrameUnusable(cache_frame_ed79a413d92211c6571b78b8dce9ef3b)) {
+        Py_XDECREF(cache_frame_ed79a413d92211c6571b78b8dce9ef3b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_37eb4932fec00db9635e8848e7471ddb == NULL) {
+        if (cache_frame_ed79a413d92211c6571b78b8dce9ef3b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_37eb4932fec00db9635e8848e7471ddb = MAKE_FUNCTION_FRAME(tstate, codeobj_37eb4932fec00db9635e8848e7471ddb, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_ed79a413d92211c6571b78b8dce9ef3b = MAKE_FUNCTION_FRAME(tstate, codeobj_ed79a413d92211c6571b78b8dce9ef3b, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_37eb4932fec00db9635e8848e7471ddb->m_type_description == NULL);
-    frame_37eb4932fec00db9635e8848e7471ddb = cache_frame_37eb4932fec00db9635e8848e7471ddb;
+    assert(cache_frame_ed79a413d92211c6571b78b8dce9ef3b->m_type_description == NULL);
+    frame_ed79a413d92211c6571b78b8dce9ef3b = cache_frame_ed79a413d92211c6571b78b8dce9ef3b;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_37eb4932fec00db9635e8848e7471ddb);
-    assert(Py_REFCNT(frame_37eb4932fec00db9635e8848e7471ddb) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ed79a413d92211c6571b78b8dce9ef3b);
+    assert(Py_REFCNT(frame_ed79a413d92211c6571b78b8dce9ef3b) == 2);
 
     // Framed code:
     {
@@ -2769,11 +2769,11 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 175;
+            exception_lineno = 186;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_37eb4932fec00db9635e8848e7471ddb->m_frame.f_lineno = 175;
+        frame_ed79a413d92211c6571b78b8dce9ef3b->m_frame.f_lineno = 186;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[41]);
         if (tmp_assign_source_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -2781,7 +2781,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 175;
+            exception_lineno = 186;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -2803,7 +2803,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 176;
+            exception_lineno = 187;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -2829,7 +2829,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 176;
+                exception_lineno = 187;
                 type_description_1 = "o";
                 goto try_except_handler_2;
             }
@@ -2841,7 +2841,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 176;
+                exception_lineno = 187;
                 type_description_1 = "o";
                 goto try_except_handler_2;
             }
@@ -2870,7 +2870,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
 
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                     type_description_1 = "o";
-                    exception_lineno = 176;
+                    exception_lineno = 187;
                     goto try_except_handler_3;
                 }
             }
@@ -2909,7 +2909,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 176;
+                exception_lineno = 187;
                 type_description_1 = "o";
                 goto try_except_handler_3;
             }
@@ -2920,7 +2920,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 176;
+                exception_lineno = 187;
                 type_description_1 = "o";
                 goto try_except_handler_3;
             }
@@ -2931,7 +2931,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 176;
+            exception_lineno = 187;
             type_description_1 = "o";
             goto try_except_handler_3;
         }
@@ -3012,7 +3012,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
         NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
         return NULL;
         outline_exception_1:;
-        exception_lineno = 176;
+        exception_lineno = 187;
         goto frame_exception_exit_1;
         outline_result_1:;
         Py_INCREF(tmp_dircall_arg1_1);
@@ -3027,7 +3027,7 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 176;
+            exception_lineno = 187;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -3049,30 +3049,30 @@ static PyObject *impl_psutil$_pssunos$$$function__3_cpu_times(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_37eb4932fec00db9635e8848e7471ddb, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_37eb4932fec00db9635e8848e7471ddb->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_37eb4932fec00db9635e8848e7471ddb, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ed79a413d92211c6571b78b8dce9ef3b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ed79a413d92211c6571b78b8dce9ef3b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ed79a413d92211c6571b78b8dce9ef3b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_37eb4932fec00db9635e8848e7471ddb,
+        frame_ed79a413d92211c6571b78b8dce9ef3b,
         type_description_1,
         var_ret
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_37eb4932fec00db9635e8848e7471ddb == cache_frame_37eb4932fec00db9635e8848e7471ddb) {
+    if (frame_ed79a413d92211c6571b78b8dce9ef3b == cache_frame_ed79a413d92211c6571b78b8dce9ef3b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_37eb4932fec00db9635e8848e7471ddb);
-        cache_frame_37eb4932fec00db9635e8848e7471ddb = NULL;
+        Py_DECREF(cache_frame_ed79a413d92211c6571b78b8dce9ef3b);
+        cache_frame_ed79a413d92211c6571b78b8dce9ef3b = NULL;
     }
 
-    assertFrameObject(frame_37eb4932fec00db9635e8848e7471ddb);
+    assertFrameObject(frame_ed79a413d92211c6571b78b8dce9ef3b);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -3144,7 +3144,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_70bc4a541f8eac08154ba423079ff5c8;
+    struct Nuitka_FrameObject *frame_c55725ede457ff74c6b0bf54c0f25dbb;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3160,7 +3160,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_70bc4a541f8eac08154ba423079ff5c8 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c55725ede457ff74c6b0bf54c0f25dbb = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -3168,31 +3168,31 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_70bc4a541f8eac08154ba423079ff5c8)) {
-        Py_XDECREF(cache_frame_70bc4a541f8eac08154ba423079ff5c8);
+    if (isFrameUnusable(cache_frame_c55725ede457ff74c6b0bf54c0f25dbb)) {
+        Py_XDECREF(cache_frame_c55725ede457ff74c6b0bf54c0f25dbb);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_70bc4a541f8eac08154ba423079ff5c8 == NULL) {
+        if (cache_frame_c55725ede457ff74c6b0bf54c0f25dbb == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_70bc4a541f8eac08154ba423079ff5c8 = MAKE_FUNCTION_FRAME(tstate, codeobj_70bc4a541f8eac08154ba423079ff5c8, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_c55725ede457ff74c6b0bf54c0f25dbb = MAKE_FUNCTION_FRAME(tstate, codeobj_c55725ede457ff74c6b0bf54c0f25dbb, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_70bc4a541f8eac08154ba423079ff5c8->m_type_description == NULL);
-    frame_70bc4a541f8eac08154ba423079ff5c8 = cache_frame_70bc4a541f8eac08154ba423079ff5c8;
+    assert(cache_frame_c55725ede457ff74c6b0bf54c0f25dbb->m_type_description == NULL);
+    frame_c55725ede457ff74c6b0bf54c0f25dbb = cache_frame_c55725ede457ff74c6b0bf54c0f25dbb;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_70bc4a541f8eac08154ba423079ff5c8);
-    assert(Py_REFCNT(frame_70bc4a541f8eac08154ba423079ff5c8) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_c55725ede457ff74c6b0bf54c0f25dbb);
+    assert(Py_REFCNT(frame_c55725ede457ff74c6b0bf54c0f25dbb) == 2);
 
     // Framed code:
     {
@@ -3210,11 +3210,11 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 181;
+            exception_lineno = 192;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_70bc4a541f8eac08154ba423079ff5c8->m_frame.f_lineno = 181;
+        frame_c55725ede457ff74c6b0bf54c0f25dbb->m_frame.f_lineno = 192;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[41]);
         if (tmp_assign_source_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -3222,7 +3222,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 181;
+            exception_lineno = 192;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -3242,7 +3242,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 182;
+            exception_lineno = 193;
             type_description_1 = "o";
             goto try_except_handler_2;
         }
@@ -3271,7 +3271,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "o";
-                exception_lineno = 182;
+                exception_lineno = 193;
                 goto try_except_handler_3;
             }
         }
@@ -3314,7 +3314,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 182;
+            exception_lineno = 193;
             type_description_1 = "o";
             goto try_except_handler_3;
         }
@@ -3333,7 +3333,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 182;
+            exception_lineno = 193;
             type_description_1 = "o";
             goto try_except_handler_3;
         }
@@ -3344,7 +3344,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 182;
+            exception_lineno = 193;
             type_description_1 = "o";
             goto try_except_handler_3;
         }
@@ -3355,7 +3355,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 182;
+        exception_lineno = 193;
         type_description_1 = "o";
         goto try_except_handler_3;
     }
@@ -3436,7 +3436,7 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
     NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
     return NULL;
     outline_exception_1:;
-    exception_lineno = 182;
+    exception_lineno = 193;
     goto frame_exception_exit_1;
     outline_result_1:;
     goto frame_return_exit_1;
@@ -3456,30 +3456,30 @@ static PyObject *impl_psutil$_pssunos$$$function__4_per_cpu_times(PyThreadState 
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_70bc4a541f8eac08154ba423079ff5c8, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_70bc4a541f8eac08154ba423079ff5c8->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_70bc4a541f8eac08154ba423079ff5c8, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c55725ede457ff74c6b0bf54c0f25dbb, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c55725ede457ff74c6b0bf54c0f25dbb->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c55725ede457ff74c6b0bf54c0f25dbb, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_70bc4a541f8eac08154ba423079ff5c8,
+        frame_c55725ede457ff74c6b0bf54c0f25dbb,
         type_description_1,
         var_ret
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_70bc4a541f8eac08154ba423079ff5c8 == cache_frame_70bc4a541f8eac08154ba423079ff5c8) {
+    if (frame_c55725ede457ff74c6b0bf54c0f25dbb == cache_frame_c55725ede457ff74c6b0bf54c0f25dbb) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_70bc4a541f8eac08154ba423079ff5c8);
-        cache_frame_70bc4a541f8eac08154ba423079ff5c8 = NULL;
+        Py_DECREF(cache_frame_c55725ede457ff74c6b0bf54c0f25dbb);
+        cache_frame_c55725ede457ff74c6b0bf54c0f25dbb = NULL;
     }
 
-    assertFrameObject(frame_70bc4a541f8eac08154ba423079ff5c8);
+    assertFrameObject(frame_c55725ede457ff74c6b0bf54c0f25dbb);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -3546,7 +3546,7 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
 #endif
 
     // Local variable declarations.
-    struct Nuitka_FrameObject *frame_2214914e5e2d7dbe6c8f84df437bb0f2;
+    struct Nuitka_FrameObject *frame_e03734726b070aaae53d6549c3c215b9;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -3564,34 +3564,34 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e03734726b070aaae53d6549c3c215b9 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2)) {
-        Py_XDECREF(cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2);
+    if (isFrameUnusable(cache_frame_e03734726b070aaae53d6549c3c215b9)) {
+        Py_XDECREF(cache_frame_e03734726b070aaae53d6549c3c215b9);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2 == NULL) {
+        if (cache_frame_e03734726b070aaae53d6549c3c215b9 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2 = MAKE_FUNCTION_FRAME(tstate, codeobj_2214914e5e2d7dbe6c8f84df437bb0f2, module_psutil$_pssunos, 0);
+        cache_frame_e03734726b070aaae53d6549c3c215b9 = MAKE_FUNCTION_FRAME(tstate, codeobj_e03734726b070aaae53d6549c3c215b9, module_psutil$_pssunos, 0);
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2->m_type_description == NULL);
-    frame_2214914e5e2d7dbe6c8f84df437bb0f2 = cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2;
+    assert(cache_frame_e03734726b070aaae53d6549c3c215b9->m_type_description == NULL);
+    frame_e03734726b070aaae53d6549c3c215b9 = cache_frame_e03734726b070aaae53d6549c3c215b9;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_2214914e5e2d7dbe6c8f84df437bb0f2);
-    assert(Py_REFCNT(frame_2214914e5e2d7dbe6c8f84df437bb0f2) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_e03734726b070aaae53d6549c3c215b9);
+    assert(Py_REFCNT(frame_e03734726b070aaae53d6549c3c215b9) == 2);
 
     // Framed code:
     // Tried code:
@@ -3604,7 +3604,7 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
         }
 
         assert(!(tmp_called_instance_1 == NULL));
-        frame_2214914e5e2d7dbe6c8f84df437bb0f2->m_frame.f_lineno = 188;
+        frame_e03734726b070aaae53d6549c3c215b9->m_frame.f_lineno = 199;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(
             tstate,
             tmp_called_instance_1,
@@ -3618,7 +3618,7 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 188;
+            exception_lineno = 199;
 
             goto try_except_handler_1;
         }
@@ -3641,9 +3641,9 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_2214914e5e2d7dbe6c8f84df437bb0f2, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_e03734726b070aaae53d6549c3c215b9, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_2214914e5e2d7dbe6c8f84df437bb0f2, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_e03734726b070aaae53d6549c3c215b9, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -3671,10 +3671,10 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 187;
+        exception_lineno = 198;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_2214914e5e2d7dbe6c8f84df437bb0f2->m_frame) frame_2214914e5e2d7dbe6c8f84df437bb0f2->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_e03734726b070aaae53d6549c3c215b9->m_frame) frame_e03734726b070aaae53d6549c3c215b9->m_frame.f_lineno = exception_tb->tb_lineno;
 
     goto try_except_handler_2;
     branch_end_1:;
@@ -3725,29 +3725,29 @@ static PyObject *impl_psutil$_pssunos$$$function__5_cpu_count_logical(PyThreadSt
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_2214914e5e2d7dbe6c8f84df437bb0f2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_2214914e5e2d7dbe6c8f84df437bb0f2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_2214914e5e2d7dbe6c8f84df437bb0f2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e03734726b070aaae53d6549c3c215b9, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e03734726b070aaae53d6549c3c215b9->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e03734726b070aaae53d6549c3c215b9, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_2214914e5e2d7dbe6c8f84df437bb0f2,
+        frame_e03734726b070aaae53d6549c3c215b9,
         type_description_1
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_2214914e5e2d7dbe6c8f84df437bb0f2 == cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2) {
+    if (frame_e03734726b070aaae53d6549c3c215b9 == cache_frame_e03734726b070aaae53d6549c3c215b9) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2);
-        cache_frame_2214914e5e2d7dbe6c8f84df437bb0f2 = NULL;
+        Py_DECREF(cache_frame_e03734726b070aaae53d6549c3c215b9);
+        cache_frame_e03734726b070aaae53d6549c3c215b9 = NULL;
     }
 
-    assertFrameObject(frame_2214914e5e2d7dbe6c8f84df437bb0f2);
+    assertFrameObject(frame_e03734726b070aaae53d6549c3c215b9);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -3785,41 +3785,41 @@ static PyObject *impl_psutil$_pssunos$$$function__6_cpu_count_cores(PyThreadStat
 #endif
 
     // Local variable declarations.
-    struct Nuitka_FrameObject *frame_688a220b46cd8ece58d648940cee6c7b;
+    struct Nuitka_FrameObject *frame_e3b15664d0c42f3b3863d3479162c68a;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_688a220b46cd8ece58d648940cee6c7b = NULL;
+    static struct Nuitka_FrameObject *cache_frame_e3b15664d0c42f3b3863d3479162c68a = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_688a220b46cd8ece58d648940cee6c7b)) {
-        Py_XDECREF(cache_frame_688a220b46cd8ece58d648940cee6c7b);
+    if (isFrameUnusable(cache_frame_e3b15664d0c42f3b3863d3479162c68a)) {
+        Py_XDECREF(cache_frame_e3b15664d0c42f3b3863d3479162c68a);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_688a220b46cd8ece58d648940cee6c7b == NULL) {
+        if (cache_frame_e3b15664d0c42f3b3863d3479162c68a == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_688a220b46cd8ece58d648940cee6c7b = MAKE_FUNCTION_FRAME(tstate, codeobj_688a220b46cd8ece58d648940cee6c7b, module_psutil$_pssunos, 0);
+        cache_frame_e3b15664d0c42f3b3863d3479162c68a = MAKE_FUNCTION_FRAME(tstate, codeobj_e3b15664d0c42f3b3863d3479162c68a, module_psutil$_pssunos, 0);
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_688a220b46cd8ece58d648940cee6c7b->m_type_description == NULL);
-    frame_688a220b46cd8ece58d648940cee6c7b = cache_frame_688a220b46cd8ece58d648940cee6c7b;
+    assert(cache_frame_e3b15664d0c42f3b3863d3479162c68a->m_type_description == NULL);
+    frame_e3b15664d0c42f3b3863d3479162c68a = cache_frame_e3b15664d0c42f3b3863d3479162c68a;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_688a220b46cd8ece58d648940cee6c7b);
-    assert(Py_REFCNT(frame_688a220b46cd8ece58d648940cee6c7b) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_e3b15664d0c42f3b3863d3479162c68a);
+    assert(Py_REFCNT(frame_e3b15664d0c42f3b3863d3479162c68a) == 2);
 
     // Framed code:
     {
@@ -3836,11 +3836,11 @@ static PyObject *impl_psutil$_pssunos$$$function__6_cpu_count_cores(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 196;
+            exception_lineno = 207;
 
             goto frame_exception_exit_1;
         }
-        frame_688a220b46cd8ece58d648940cee6c7b->m_frame.f_lineno = 196;
+        frame_e3b15664d0c42f3b3863d3479162c68a->m_frame.f_lineno = 207;
         tmp_return_value = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[47]);
         if (tmp_return_value == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -3848,7 +3848,7 @@ static PyObject *impl_psutil$_pssunos$$$function__6_cpu_count_cores(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 196;
+            exception_lineno = 207;
 
             goto frame_exception_exit_1;
         }
@@ -3870,29 +3870,29 @@ static PyObject *impl_psutil$_pssunos$$$function__6_cpu_count_cores(PyThreadStat
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_688a220b46cd8ece58d648940cee6c7b, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_688a220b46cd8ece58d648940cee6c7b->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_688a220b46cd8ece58d648940cee6c7b, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_e3b15664d0c42f3b3863d3479162c68a, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_e3b15664d0c42f3b3863d3479162c68a->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_e3b15664d0c42f3b3863d3479162c68a, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_688a220b46cd8ece58d648940cee6c7b,
+        frame_e3b15664d0c42f3b3863d3479162c68a,
         type_description_1
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_688a220b46cd8ece58d648940cee6c7b == cache_frame_688a220b46cd8ece58d648940cee6c7b) {
+    if (frame_e3b15664d0c42f3b3863d3479162c68a == cache_frame_e3b15664d0c42f3b3863d3479162c68a) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_688a220b46cd8ece58d648940cee6c7b);
-        cache_frame_688a220b46cd8ece58d648940cee6c7b = NULL;
+        Py_DECREF(cache_frame_e3b15664d0c42f3b3863d3479162c68a);
+        cache_frame_e3b15664d0c42f3b3863d3479162c68a = NULL;
     }
 
-    assertFrameObject(frame_688a220b46cd8ece58d648940cee6c7b);
+    assertFrameObject(frame_e3b15664d0c42f3b3863d3479162c68a);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -3939,7 +3939,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
     PyObject *tmp_tuple_unpack_1__element_3 = NULL;
     PyObject *tmp_tuple_unpack_1__element_4 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_9c515c0f62398e7596505c673b7e1b47;
+    struct Nuitka_FrameObject *frame_f1b84e041d2044e9efb0b8b509dbbf27;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -3955,7 +3955,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9c515c0f62398e7596505c673b7e1b47 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f1b84e041d2044e9efb0b8b509dbbf27 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -3963,31 +3963,31 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_9c515c0f62398e7596505c673b7e1b47)) {
-        Py_XDECREF(cache_frame_9c515c0f62398e7596505c673b7e1b47);
+    if (isFrameUnusable(cache_frame_f1b84e041d2044e9efb0b8b509dbbf27)) {
+        Py_XDECREF(cache_frame_f1b84e041d2044e9efb0b8b509dbbf27);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9c515c0f62398e7596505c673b7e1b47 == NULL) {
+        if (cache_frame_f1b84e041d2044e9efb0b8b509dbbf27 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9c515c0f62398e7596505c673b7e1b47 = MAKE_FUNCTION_FRAME(tstate, codeobj_9c515c0f62398e7596505c673b7e1b47, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_f1b84e041d2044e9efb0b8b509dbbf27 = MAKE_FUNCTION_FRAME(tstate, codeobj_f1b84e041d2044e9efb0b8b509dbbf27, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_9c515c0f62398e7596505c673b7e1b47->m_type_description == NULL);
-    frame_9c515c0f62398e7596505c673b7e1b47 = cache_frame_9c515c0f62398e7596505c673b7e1b47;
+    assert(cache_frame_f1b84e041d2044e9efb0b8b509dbbf27->m_type_description == NULL);
+    frame_f1b84e041d2044e9efb0b8b509dbbf27 = cache_frame_f1b84e041d2044e9efb0b8b509dbbf27;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_9c515c0f62398e7596505c673b7e1b47);
-    assert(Py_REFCNT(frame_9c515c0f62398e7596505c673b7e1b47) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_f1b84e041d2044e9efb0b8b509dbbf27);
+    assert(Py_REFCNT(frame_f1b84e041d2044e9efb0b8b509dbbf27) == 2);
 
     // Framed code:
     // Tried code:
@@ -4007,11 +4007,11 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 201;
+            exception_lineno = 212;
             type_description_1 = "ooooN";
             goto try_except_handler_2;
         }
-        frame_9c515c0f62398e7596505c673b7e1b47->m_frame.f_lineno = 201;
+        frame_f1b84e041d2044e9efb0b8b509dbbf27->m_frame.f_lineno = 212;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[49]);
         if (tmp_iter_arg_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -4019,7 +4019,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 201;
+            exception_lineno = 212;
             type_description_1 = "ooooN";
             goto try_except_handler_2;
         }
@@ -4031,7 +4031,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 201;
+            exception_lineno = 212;
             type_description_1 = "ooooN";
             goto try_except_handler_2;
         }
@@ -4057,7 +4057,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
             type_description_1 = "ooooN";
-            exception_lineno = 201;
+            exception_lineno = 212;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_1 == NULL);
@@ -4081,7 +4081,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
             type_description_1 = "ooooN";
-            exception_lineno = 201;
+            exception_lineno = 212;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_2 == NULL);
@@ -4105,7 +4105,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
             type_description_1 = "ooooN";
-            exception_lineno = 201;
+            exception_lineno = 212;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_3 == NULL);
@@ -4129,7 +4129,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
             type_description_1 = "ooooN";
-            exception_lineno = 201;
+            exception_lineno = 212;
             goto try_except_handler_3;
         }
         assert(tmp_tuple_unpack_1__element_4 == NULL);
@@ -4154,7 +4154,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooN";
-                    exception_lineno = 201;
+                    exception_lineno = 212;
                     goto try_except_handler_3;
                 }
             }
@@ -4168,7 +4168,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             exception_tb = NULL;
 
             type_description_1 = "ooooN";
-            exception_lineno = 201;
+            exception_lineno = 212;
             goto try_except_handler_3;
         }
     }
@@ -4290,7 +4290,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 203;
+            exception_lineno = 214;
             type_description_1 = "ooooN";
             goto frame_exception_exit_1;
         }
@@ -4301,7 +4301,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
         tmp_args_element_value_3 = mod_consts[27];
         CHECK_OBJECT(var_syscalls);
         tmp_args_element_value_4 = var_syscalls;
-        frame_9c515c0f62398e7596505c673b7e1b47->m_frame.f_lineno = 203;
+        frame_f1b84e041d2044e9efb0b8b509dbbf27->m_frame.f_lineno = 214;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3, tmp_args_element_value_4};
             tmp_return_value = CALL_METHOD_WITH_ARGS4(
@@ -4318,7 +4318,7 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 203;
+            exception_lineno = 214;
             type_description_1 = "ooooN";
             goto frame_exception_exit_1;
         }
@@ -4340,14 +4340,14 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9c515c0f62398e7596505c673b7e1b47, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9c515c0f62398e7596505c673b7e1b47->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9c515c0f62398e7596505c673b7e1b47, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f1b84e041d2044e9efb0b8b509dbbf27, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f1b84e041d2044e9efb0b8b509dbbf27->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f1b84e041d2044e9efb0b8b509dbbf27, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9c515c0f62398e7596505c673b7e1b47,
+        frame_f1b84e041d2044e9efb0b8b509dbbf27,
         type_description_1,
         var_ctx_switches,
         var_interrupts,
@@ -4358,16 +4358,16 @@ static PyObject *impl_psutil$_pssunos$$$function__7_cpu_stats(PyThreadState *tst
 
 
     // Release cached frame if used for exception.
-    if (frame_9c515c0f62398e7596505c673b7e1b47 == cache_frame_9c515c0f62398e7596505c673b7e1b47) {
+    if (frame_f1b84e041d2044e9efb0b8b509dbbf27 == cache_frame_f1b84e041d2044e9efb0b8b509dbbf27) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_9c515c0f62398e7596505c673b7e1b47);
-        cache_frame_9c515c0f62398e7596505c673b7e1b47 = NULL;
+        Py_DECREF(cache_frame_f1b84e041d2044e9efb0b8b509dbbf27);
+        cache_frame_f1b84e041d2044e9efb0b8b509dbbf27 = NULL;
     }
 
-    assertFrameObject(frame_9c515c0f62398e7596505c673b7e1b47);
+    assertFrameObject(frame_f1b84e041d2044e9efb0b8b509dbbf27);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -4469,7 +4469,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
     PyObject *tmp_tuple_unpack_1__element_3 = NULL;
     PyObject *tmp_tuple_unpack_1__element_4 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_fa51d0cdd089b34f03099b48496a6419;
+    struct Nuitka_FrameObject *frame_bcaedd9cc226e916c6aa20269a02d6af;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -4505,7 +4505,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_fa51d0cdd089b34f03099b48496a6419 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bcaedd9cc226e916c6aa20269a02d6af = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
@@ -4519,31 +4519,31 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
         var_retlist = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_fa51d0cdd089b34f03099b48496a6419)) {
-        Py_XDECREF(cache_frame_fa51d0cdd089b34f03099b48496a6419);
+    if (isFrameUnusable(cache_frame_bcaedd9cc226e916c6aa20269a02d6af)) {
+        Py_XDECREF(cache_frame_bcaedd9cc226e916c6aa20269a02d6af);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fa51d0cdd089b34f03099b48496a6419 == NULL) {
+        if (cache_frame_bcaedd9cc226e916c6aa20269a02d6af == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fa51d0cdd089b34f03099b48496a6419 = MAKE_FUNCTION_FRAME(tstate, codeobj_fa51d0cdd089b34f03099b48496a6419, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_bcaedd9cc226e916c6aa20269a02d6af = MAKE_FUNCTION_FRAME(tstate, codeobj_bcaedd9cc226e916c6aa20269a02d6af, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_fa51d0cdd089b34f03099b48496a6419->m_type_description == NULL);
-    frame_fa51d0cdd089b34f03099b48496a6419 = cache_frame_fa51d0cdd089b34f03099b48496a6419;
+    assert(cache_frame_bcaedd9cc226e916c6aa20269a02d6af->m_type_description == NULL);
+    frame_bcaedd9cc226e916c6aa20269a02d6af = cache_frame_bcaedd9cc226e916c6aa20269a02d6af;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_fa51d0cdd089b34f03099b48496a6419);
-    assert(Py_REFCNT(frame_fa51d0cdd089b34f03099b48496a6419) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_bcaedd9cc226e916c6aa20269a02d6af);
+    assert(Py_REFCNT(frame_bcaedd9cc226e916c6aa20269a02d6af) == 2);
 
     // Framed code:
     {
@@ -4561,11 +4561,11 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 221;
+            exception_lineno = 233;
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = 221;
+        frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = 233;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[53]);
         if (tmp_assign_source_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -4573,7 +4573,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 221;
+            exception_lineno = 233;
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -4592,7 +4592,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 222;
+            exception_lineno = 234;
             type_description_1 = "oooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -4615,7 +4615,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "oooooooooooo";
-                exception_lineno = 222;
+                exception_lineno = 234;
                 goto try_except_handler_2;
             }
         }
@@ -4652,7 +4652,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 223;
+            exception_lineno = 235;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_3;
         }
@@ -4682,7 +4682,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
             type_description_1 = "oooooooooooo";
-            exception_lineno = 223;
+            exception_lineno = 235;
             goto try_except_handler_4;
         }
         {
@@ -4710,7 +4710,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
             type_description_1 = "oooooooooooo";
-            exception_lineno = 223;
+            exception_lineno = 235;
             goto try_except_handler_4;
         }
         {
@@ -4738,7 +4738,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
             type_description_1 = "oooooooooooo";
-            exception_lineno = 223;
+            exception_lineno = 235;
             goto try_except_handler_4;
         }
         {
@@ -4766,7 +4766,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
             type_description_1 = "oooooooooooo";
-            exception_lineno = 223;
+            exception_lineno = 235;
             goto try_except_handler_4;
         }
         {
@@ -4795,7 +4795,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "oooooooooooo";
-                    exception_lineno = 223;
+                    exception_lineno = 235;
                     goto try_except_handler_4;
                 }
             }
@@ -4809,7 +4809,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             exception_tb = NULL;
 
             type_description_1 = "oooooooooooo";
-            exception_lineno = 223;
+            exception_lineno = 235;
             goto try_except_handler_4;
         }
     }
@@ -4943,7 +4943,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 224;
+            exception_lineno = 236;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -4979,7 +4979,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 226;
+            exception_lineno = 238;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5010,13 +5010,13 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 231;
+            exception_lineno = 243;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_5;
         }
         CHECK_OBJECT(var_mountpoint);
         tmp_args_element_value_1 = var_mountpoint;
-        frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = 231;
+        frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = 243;
         tmp_expression_value_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -5024,7 +5024,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 231;
+            exception_lineno = 243;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_5;
         }
@@ -5036,7 +5036,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 231;
+            exception_lineno = 243;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_5;
         }
@@ -5048,7 +5048,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 231;
+            exception_lineno = 243;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_5;
         }
@@ -5078,9 +5078,9 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_fa51d0cdd089b34f03099b48496a6419, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_bcaedd9cc226e916c6aa20269a02d6af, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_fa51d0cdd089b34f03099b48496a6419, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_bcaedd9cc226e916c6aa20269a02d6af, exception_keeper_lineno_3);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -5132,7 +5132,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 235;
+            exception_lineno = 247;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_7;
         }
@@ -5152,11 +5152,11 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 235;
+            exception_lineno = 247;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_7;
         }
-        frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = 235;
+        frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = 247;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_2);
         Py_DECREF(tmp_args_element_value_2);
         if (tmp_call_result_1 == NULL) {
@@ -5165,7 +5165,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 235;
+            exception_lineno = 247;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_7;
         }
@@ -5206,10 +5206,10 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
     branch_no_4:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 230;
+        exception_lineno = 242;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_fa51d0cdd089b34f03099b48496a6419->m_frame) frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame) frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooooooooooo";
     goto try_except_handler_6;
     branch_end_4:;
@@ -5306,7 +5306,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 238;
+            exception_lineno = 250;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5317,7 +5317,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 238;
+            exception_lineno = 250;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5330,7 +5330,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 238;
+            exception_lineno = 251;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5344,7 +5344,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
         tmp_args_element_value_7 = var_maxfile;
         CHECK_OBJECT(var_maxpath);
         tmp_args_element_value_8 = var_maxpath;
-        frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = 238;
+        frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = 250;
         {
             PyObject *call_args[] = {tmp_args_element_value_3, tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6, tmp_args_element_value_7, tmp_args_element_value_8};
             tmp_assign_source_20 = CALL_FUNCTION_WITH_ARGS6(tstate, tmp_called_value_3, call_args);
@@ -5357,7 +5357,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 238;
+            exception_lineno = 250;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5380,7 +5380,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 240;
+            exception_lineno = 253;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5393,13 +5393,13 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 240;
+            exception_lineno = 253;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_ntuple);
         tmp_args_element_value_9 = var_ntuple;
-        frame_fa51d0cdd089b34f03099b48496a6419->m_frame.f_lineno = 240;
+        frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame.f_lineno = 253;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_4, tmp_args_element_value_9);
         Py_DECREF(tmp_called_value_4);
         if (tmp_call_result_2 == NULL) {
@@ -5408,7 +5408,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 240;
+            exception_lineno = 253;
             type_description_1 = "oooooooooooo";
             goto try_except_handler_2;
         }
@@ -5420,7 +5420,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 222;
+        exception_lineno = 234;
         type_description_1 = "oooooooooooo";
         goto try_except_handler_2;
     }
@@ -5464,7 +5464,7 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 241;
+        exception_lineno = 254;
         type_description_1 = "oooooooooooo";
         goto frame_exception_exit_1;
     }
@@ -5488,14 +5488,14 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fa51d0cdd089b34f03099b48496a6419, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fa51d0cdd089b34f03099b48496a6419->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fa51d0cdd089b34f03099b48496a6419, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bcaedd9cc226e916c6aa20269a02d6af, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bcaedd9cc226e916c6aa20269a02d6af->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bcaedd9cc226e916c6aa20269a02d6af, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fa51d0cdd089b34f03099b48496a6419,
+        frame_bcaedd9cc226e916c6aa20269a02d6af,
         type_description_1,
         par_all,
         var_retlist,
@@ -5513,16 +5513,16 @@ static PyObject *impl_psutil$_pssunos$$$function__8_disk_partitions(PyThreadStat
 
 
     // Release cached frame if used for exception.
-    if (frame_fa51d0cdd089b34f03099b48496a6419 == cache_frame_fa51d0cdd089b34f03099b48496a6419) {
+    if (frame_bcaedd9cc226e916c6aa20269a02d6af == cache_frame_bcaedd9cc226e916c6aa20269a02d6af) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_fa51d0cdd089b34f03099b48496a6419);
-        cache_frame_fa51d0cdd089b34f03099b48496a6419 = NULL;
+        Py_DECREF(cache_frame_bcaedd9cc226e916c6aa20269a02d6af);
+        cache_frame_bcaedd9cc226e916c6aa20269a02d6af = NULL;
     }
 
-    assertFrameObject(frame_fa51d0cdd089b34f03099b48496a6419);
+    assertFrameObject(frame_bcaedd9cc226e916c6aa20269a02d6af);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -5664,7 +5664,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
     PyObject *tmp_tuple_unpack_2__element_6 = NULL;
     PyObject *tmp_tuple_unpack_2__element_7 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_0b2e333b8ffeebc478e39238f2f2b7d7;
+    struct Nuitka_FrameObject *frame_728a8a0bc9682e716fef472c8bebad29;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -5703,7 +5703,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
     PyTracebackObject *exception_keeper_tb_7;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_7;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_728a8a0bc9682e716fef472c8bebad29 = NULL;
     PyObject *exception_keeper_type_8;
     PyObject *exception_keeper_value_8;
     PyTracebackObject *exception_keeper_tb_8;
@@ -5711,31 +5711,31 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7)) {
-        Py_XDECREF(cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7);
+    if (isFrameUnusable(cache_frame_728a8a0bc9682e716fef472c8bebad29)) {
+        Py_XDECREF(cache_frame_728a8a0bc9682e716fef472c8bebad29);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7 == NULL) {
+        if (cache_frame_728a8a0bc9682e716fef472c8bebad29 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7 = MAKE_FUNCTION_FRAME(tstate, codeobj_0b2e333b8ffeebc478e39238f2f2b7d7, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_728a8a0bc9682e716fef472c8bebad29 = MAKE_FUNCTION_FRAME(tstate, codeobj_728a8a0bc9682e716fef472c8bebad29, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_type_description == NULL);
-    frame_0b2e333b8ffeebc478e39238f2f2b7d7 = cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7;
+    assert(cache_frame_728a8a0bc9682e716fef472c8bebad29->m_type_description == NULL);
+    frame_728a8a0bc9682e716fef472c8bebad29 = cache_frame_728a8a0bc9682e716fef472c8bebad29;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_0b2e333b8ffeebc478e39238f2f2b7d7);
-    assert(Py_REFCNT(frame_0b2e333b8ffeebc478e39238f2f2b7d7) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_728a8a0bc9682e716fef472c8bebad29);
+    assert(Py_REFCNT(frame_728a8a0bc9682e716fef472c8bebad29) == 2);
 
     // Framed code:
     {
@@ -5755,7 +5755,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 258;
+            exception_lineno = 271;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5766,7 +5766,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 258;
+            exception_lineno = 271;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5778,11 +5778,11 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 258;
+            exception_lineno = 271;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 258;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 271;
         tmp_assign_source_1 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_1);
         Py_DECREF(tmp_called_value_1);
         if (tmp_assign_source_1 == NULL) {
@@ -5791,7 +5791,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 258;
+            exception_lineno = 271;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5812,7 +5812,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 259;
+            exception_lineno = 272;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5836,11 +5836,11 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 260;
+            exception_lineno = 273;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 260;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 273;
         tmp_call_result_1 = CALL_FUNCTION_WITH_POSARGS2(tstate, tmp_called_value_2, mod_consts[68]);
 
         Py_DECREF(tmp_called_value_2);
@@ -5850,7 +5850,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 260;
+            exception_lineno = 273;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5870,7 +5870,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 261;
+            exception_lineno = 274;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5883,7 +5883,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 261;
+            exception_lineno = 274;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -5921,7 +5921,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
                     CHAIN_EXCEPTION(tstate, exception_value);
 
-                    exception_lineno = 263;
+                    exception_lineno = 277;
                     type_description_1 = "oooooooooooooooo";
                     goto try_except_handler_2;
                 }
@@ -5934,7 +5934,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                    exception_lineno = 263;
+                    exception_lineno = 277;
                     type_description_1 = "oooooooooooooooo";
                     goto try_except_handler_2;
                 }
@@ -5963,7 +5963,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
                         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                         type_description_1 = "oooooooooooooooo";
-                        exception_lineno = 263;
+                        exception_lineno = 277;
                         goto try_except_handler_3;
                     }
                 }
@@ -6002,7 +6002,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                    exception_lineno = 263;
+                    exception_lineno = 277;
                     type_description_1 = "oooooooooooooooo";
                     goto try_except_handler_3;
                 }
@@ -6013,7 +6013,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                    exception_lineno = 263;
+                    exception_lineno = 277;
                     type_description_1 = "oooooooooooooooo";
                     goto try_except_handler_3;
                 }
@@ -6024,7 +6024,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 263;
+                exception_lineno = 277;
                 type_description_1 = "oooooooooooooooo";
                 goto try_except_handler_3;
             }
@@ -6105,7 +6105,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
             return NULL;
             outline_exception_1:;
-            exception_lineno = 263;
+            exception_lineno = 277;
             goto tuple_build_exception_1;
             outline_result_1:;
             tmp_tuple_element_1 = UNICODE_JOIN(tstate, tmp_str_arg_value_1, tmp_iterable_value_1);
@@ -6116,7 +6116,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 263;
+                exception_lineno = 277;
                 type_description_1 = "oooooooooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -6137,16 +6137,16 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 263;
+            exception_lineno = 277;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 262;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 275;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, PyExc_ValueError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_1 == NULL));
         exception_type = tmp_raise_type_1;
-        exception_lineno = 262;
+        exception_lineno = 275;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oooooooooooooooo";
         goto frame_exception_exit_1;
@@ -6171,7 +6171,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 264;
+            exception_lineno = 279;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -6182,7 +6182,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 264;
+            exception_lineno = 279;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -6196,7 +6196,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 264;
+            exception_lineno = 279;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -6208,7 +6208,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 264;
+            exception_lineno = 279;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -6234,7 +6234,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 264;
+            exception_lineno = 279;
             goto try_except_handler_5;
         }
         assert(tmp_tuple_unpack_1__element_1 == NULL);
@@ -6258,7 +6258,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 264;
+            exception_lineno = 279;
             goto try_except_handler_5;
         }
         assert(tmp_tuple_unpack_1__element_2 == NULL);
@@ -6283,7 +6283,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "oooooooooooooooo";
-                    exception_lineno = 264;
+                    exception_lineno = 279;
                     goto try_except_handler_5;
                 }
             }
@@ -6297,7 +6297,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             exception_tb = NULL;
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 264;
+            exception_lineno = 279;
             goto try_except_handler_5;
         }
     }
@@ -6391,13 +6391,13 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 265;
+            exception_lineno = 280;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par__pid);
         tmp_args_element_value_1 = par__pid;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 265;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 280;
         tmp_assign_source_11 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[72], tmp_args_element_value_1);
         if (tmp_assign_source_11 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -6405,7 +6405,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 265;
+            exception_lineno = 280;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -6430,7 +6430,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 267;
+            exception_lineno = 282;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -6453,7 +6453,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "oooooooooooooooo";
-                exception_lineno = 267;
+                exception_lineno = 282;
                 goto try_except_handler_6;
             }
         }
@@ -6490,7 +6490,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 268;
+            exception_lineno = 283;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_7;
         }
@@ -6520,7 +6520,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6548,7 +6548,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6576,7 +6576,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6604,7 +6604,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6632,7 +6632,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6660,7 +6660,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6688,7 +6688,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
         {
@@ -6717,7 +6717,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "oooooooooooooooo";
-                    exception_lineno = 268;
+                    exception_lineno = 283;
                     goto try_except_handler_8;
                 }
             }
@@ -6731,7 +6731,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             exception_tb = NULL;
 
             type_description_1 = "oooooooooooooooo";
-            exception_lineno = 268;
+            exception_lineno = 283;
             goto try_except_handler_8;
         }
     }
@@ -6917,7 +6917,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 269;
+            exception_lineno = 284;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -6946,7 +6946,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 271;
+            exception_lineno = 286;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -6979,7 +6979,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 274;
+            exception_lineno = 289;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -6997,7 +6997,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 274;
+            exception_lineno = 289;
             type_description_1 = "oooooooooooooooo";
             goto tuple_build_exception_2;
         }
@@ -7017,7 +7017,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 274;
+            exception_lineno = 289;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7040,7 +7040,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 275;
+            exception_lineno = 290;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7069,7 +7069,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 276;
+            exception_lineno = 291;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7080,7 +7080,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 276;
+            exception_lineno = 291;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7098,7 +7098,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 276;
+            exception_lineno = 291;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7122,7 +7122,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 277;
+            exception_lineno = 292;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7151,7 +7151,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 278;
+            exception_lineno = 293;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7162,7 +7162,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 278;
+            exception_lineno = 293;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7180,7 +7180,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 278;
+            exception_lineno = 293;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7210,7 +7210,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 279;
+            exception_lineno = 294;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7223,7 +7223,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 279;
+            exception_lineno = 294;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7251,13 +7251,13 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 280;
+            exception_lineno = 295;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
         CHECK_OBJECT(var_fam);
         tmp_args_element_value_2 = var_fam;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 280;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 295;
         tmp_assign_source_34 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_3, tmp_args_element_value_2);
         if (tmp_assign_source_34 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -7265,7 +7265,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 280;
+            exception_lineno = 295;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7293,13 +7293,13 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 281;
+            exception_lineno = 296;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
         CHECK_OBJECT(var_type_);
         tmp_args_element_value_3 = var_type_;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 281;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 296;
         tmp_assign_source_35 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_4, tmp_args_element_value_3);
         if (tmp_assign_source_35 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -7307,7 +7307,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 281;
+            exception_lineno = 296;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7333,7 +7333,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 282;
+            exception_lineno = 297;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7366,7 +7366,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 283;
+            exception_lineno = 298;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7384,7 +7384,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
         tmp_args_element_value_9 = var_status;
         CHECK_OBJECT(var_pid);
         tmp_args_element_value_10 = var_pid;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 283;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 298;
         {
             PyObject *call_args[] = {tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6, tmp_args_element_value_7, tmp_args_element_value_8, tmp_args_element_value_9, tmp_args_element_value_10};
             tmp_assign_source_36 = CALL_METHOD_WITH_ARGS7(
@@ -7401,7 +7401,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 283;
+            exception_lineno = 298;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7435,7 +7435,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 285;
+            exception_lineno = 300;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7451,7 +7451,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
         tmp_args_element_value_15 = var_raddr;
         CHECK_OBJECT(var_status);
         tmp_args_element_value_16 = var_status;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 285;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 300;
         {
             PyObject *call_args[] = {tmp_args_element_value_11, tmp_args_element_value_12, tmp_args_element_value_13, tmp_args_element_value_14, tmp_args_element_value_15, tmp_args_element_value_16};
             tmp_assign_source_37 = CALL_METHOD_WITH_ARGS6(
@@ -7468,7 +7468,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 285;
+            exception_lineno = 300;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7491,7 +7491,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 286;
+            exception_lineno = 301;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7499,7 +7499,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
         tmp_called_instance_4 = var_ret;
         CHECK_OBJECT(var_nt);
         tmp_args_element_value_17 = var_nt;
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame.f_lineno = 286;
+        frame_728a8a0bc9682e716fef472c8bebad29->m_frame.f_lineno = 301;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_4, mod_consts[83], tmp_args_element_value_17);
         if (tmp_call_result_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -7507,7 +7507,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 286;
+            exception_lineno = 301;
             type_description_1 = "oooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -7519,7 +7519,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 267;
+        exception_lineno = 282;
         type_description_1 = "oooooooooooooooo";
         goto try_except_handler_6;
     }
@@ -7565,7 +7565,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 287;
+            exception_lineno = 302;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -7578,7 +7578,7 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 287;
+            exception_lineno = 302;
             type_description_1 = "oooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -7600,14 +7600,14 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0b2e333b8ffeebc478e39238f2f2b7d7, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0b2e333b8ffeebc478e39238f2f2b7d7->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0b2e333b8ffeebc478e39238f2f2b7d7, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_728a8a0bc9682e716fef472c8bebad29, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_728a8a0bc9682e716fef472c8bebad29->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_728a8a0bc9682e716fef472c8bebad29, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0b2e333b8ffeebc478e39238f2f2b7d7,
+        frame_728a8a0bc9682e716fef472c8bebad29,
         type_description_1,
         par_kind,
         par__pid,
@@ -7629,16 +7629,16 @@ static PyObject *impl_psutil$_pssunos$$$function__9_net_connections(PyThreadStat
 
 
     // Release cached frame if used for exception.
-    if (frame_0b2e333b8ffeebc478e39238f2f2b7d7 == cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7) {
+    if (frame_728a8a0bc9682e716fef472c8bebad29 == cache_frame_728a8a0bc9682e716fef472c8bebad29) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7);
-        cache_frame_0b2e333b8ffeebc478e39238f2f2b7d7 = NULL;
+        Py_DECREF(cache_frame_728a8a0bc9682e716fef472c8bebad29);
+        cache_frame_728a8a0bc9682e716fef472c8bebad29 = NULL;
     }
 
-    assertFrameObject(frame_0b2e333b8ffeebc478e39238f2f2b7d7);
+    assertFrameObject(frame_728a8a0bc9682e716fef472c8bebad29);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -7782,7 +7782,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
     PyObject *tmp_tuple_unpack_2__element_3 = NULL;
     PyObject *tmp_tuple_unpack_2__element_4 = NULL;
     PyObject *tmp_tuple_unpack_2__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_ac64e73ce9fd8d555cb5e488f06411cc;
+    struct Nuitka_FrameObject *frame_ef4ba9b82cf132369c40b411a75db369;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -7812,7 +7812,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
     PyTracebackObject *exception_keeper_tb_5;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_5;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_ac64e73ce9fd8d555cb5e488f06411cc = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ef4ba9b82cf132369c40b411a75db369 = NULL;
     PyObject *exception_keeper_type_6;
     PyObject *exception_keeper_value_6;
     PyTracebackObject *exception_keeper_tb_6;
@@ -7820,31 +7820,31 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_ac64e73ce9fd8d555cb5e488f06411cc)) {
-        Py_XDECREF(cache_frame_ac64e73ce9fd8d555cb5e488f06411cc);
+    if (isFrameUnusable(cache_frame_ef4ba9b82cf132369c40b411a75db369)) {
+        Py_XDECREF(cache_frame_ef4ba9b82cf132369c40b411a75db369);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ac64e73ce9fd8d555cb5e488f06411cc == NULL) {
+        if (cache_frame_ef4ba9b82cf132369c40b411a75db369 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ac64e73ce9fd8d555cb5e488f06411cc = MAKE_FUNCTION_FRAME(tstate, codeobj_ac64e73ce9fd8d555cb5e488f06411cc, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_ef4ba9b82cf132369c40b411a75db369 = MAKE_FUNCTION_FRAME(tstate, codeobj_ef4ba9b82cf132369c40b411a75db369, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_ac64e73ce9fd8d555cb5e488f06411cc->m_type_description == NULL);
-    frame_ac64e73ce9fd8d555cb5e488f06411cc = cache_frame_ac64e73ce9fd8d555cb5e488f06411cc;
+    assert(cache_frame_ef4ba9b82cf132369c40b411a75db369->m_type_description == NULL);
+    frame_ef4ba9b82cf132369c40b411a75db369 = cache_frame_ef4ba9b82cf132369c40b411a75db369;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_ac64e73ce9fd8d555cb5e488f06411cc);
-    assert(Py_REFCNT(frame_ac64e73ce9fd8d555cb5e488f06411cc) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ef4ba9b82cf132369c40b411a75db369);
+    assert(Py_REFCNT(frame_ef4ba9b82cf132369c40b411a75db369) == 2);
 
     // Framed code:
     {
@@ -7862,11 +7862,11 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 292;
+            exception_lineno = 307;
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac64e73ce9fd8d555cb5e488f06411cc->m_frame.f_lineno = 292;
+        frame_ef4ba9b82cf132369c40b411a75db369->m_frame.f_lineno = 307;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[85]);
         if (tmp_assign_source_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -7874,7 +7874,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 292;
+            exception_lineno = 307;
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
@@ -7895,11 +7895,11 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 293;
+            exception_lineno = 308;
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
-        frame_ac64e73ce9fd8d555cb5e488f06411cc->m_frame.f_lineno = 293;
+        frame_ef4ba9b82cf132369c40b411a75db369->m_frame.f_lineno = 308;
         tmp_iter_arg_1 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_1);
         Py_DECREF(tmp_called_value_1);
         if (tmp_iter_arg_1 == NULL) {
@@ -7908,7 +7908,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 293;
+            exception_lineno = 308;
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
@@ -7920,7 +7920,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 293;
+            exception_lineno = 308;
             type_description_1 = "ooooooo";
             goto frame_exception_exit_1;
         }
@@ -7943,7 +7943,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "ooooooo";
-                exception_lineno = 293;
+                exception_lineno = 308;
                 goto try_except_handler_2;
             }
         }
@@ -7968,7 +7968,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 293;
+            exception_lineno = 308;
             type_description_1 = "ooooooo";
             goto try_except_handler_3;
         }
@@ -7998,7 +7998,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 293;
+            exception_lineno = 308;
             goto try_except_handler_4;
         }
         {
@@ -8026,7 +8026,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 293;
+            exception_lineno = 308;
             goto try_except_handler_4;
         }
         {
@@ -8055,7 +8055,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooo";
-                    exception_lineno = 293;
+                    exception_lineno = 308;
                     goto try_except_handler_4;
                 }
             }
@@ -8069,7 +8069,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             exception_tb = NULL;
 
             type_description_1 = "ooooooo";
-            exception_lineno = 293;
+            exception_lineno = 308;
             goto try_except_handler_4;
         }
     }
@@ -8168,7 +8168,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 294;
+            exception_lineno = 309;
             type_description_1 = "ooooooo";
             goto try_except_handler_5;
         }
@@ -8198,7 +8198,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 294;
+            exception_lineno = 309;
             goto try_except_handler_6;
         }
         {
@@ -8226,7 +8226,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 294;
+            exception_lineno = 309;
             goto try_except_handler_6;
         }
         {
@@ -8254,7 +8254,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 294;
+            exception_lineno = 309;
             goto try_except_handler_6;
         }
         {
@@ -8282,7 +8282,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
             type_description_1 = "ooooooo";
-            exception_lineno = 294;
+            exception_lineno = 309;
             goto try_except_handler_6;
         }
         {
@@ -8311,7 +8311,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooo";
-                    exception_lineno = 294;
+                    exception_lineno = 309;
                     goto try_except_handler_6;
                 }
             }
@@ -8325,7 +8325,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             exception_tb = NULL;
 
             type_description_1 = "ooooooo";
-            exception_lineno = 294;
+            exception_lineno = 309;
             goto try_except_handler_6;
         }
     }
@@ -8460,7 +8460,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 295;
+            exception_lineno = 310;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8471,7 +8471,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 295;
+            exception_lineno = 310;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8499,13 +8499,13 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 296;
+            exception_lineno = 311;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_duplex);
         tmp_args_element_value_1 = var_duplex;
-        frame_ac64e73ce9fd8d555cb5e488f06411cc->m_frame.f_lineno = 296;
+        frame_ef4ba9b82cf132369c40b411a75db369->m_frame.f_lineno = 311;
         tmp_assign_source_18 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_2, mod_consts[87], tmp_args_element_value_1);
         if (tmp_assign_source_18 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -8513,7 +8513,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 296;
+            exception_lineno = 311;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8548,7 +8548,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 297;
+            exception_lineno = 312;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8561,7 +8561,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
         CHECK_OBJECT(var_mtu);
         tmp_args_element_value_5 = var_mtu;
         tmp_args_element_value_6 = mod_consts[55];
-        frame_ac64e73ce9fd8d555cb5e488f06411cc->m_frame.f_lineno = 297;
+        frame_ef4ba9b82cf132369c40b411a75db369->m_frame.f_lineno = 312;
         {
             PyObject *call_args[] = {tmp_args_element_value_2, tmp_args_element_value_3, tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6};
             tmp_ass_subvalue_1 = CALL_METHOD_WITH_ARGS5(
@@ -8578,7 +8578,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 297;
+            exception_lineno = 312;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8589,7 +8589,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 297;
+            exception_lineno = 312;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8605,7 +8605,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 297;
+            exception_lineno = 312;
             type_description_1 = "ooooooo";
             goto try_except_handler_2;
         }
@@ -8616,7 +8616,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 293;
+        exception_lineno = 308;
         type_description_1 = "ooooooo";
         goto try_except_handler_2;
     }
@@ -8660,7 +8660,7 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 298;
+        exception_lineno = 313;
         type_description_1 = "ooooooo";
         goto frame_exception_exit_1;
     }
@@ -8684,14 +8684,14 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ac64e73ce9fd8d555cb5e488f06411cc, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ac64e73ce9fd8d555cb5e488f06411cc->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ac64e73ce9fd8d555cb5e488f06411cc, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ef4ba9b82cf132369c40b411a75db369, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ef4ba9b82cf132369c40b411a75db369->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ef4ba9b82cf132369c40b411a75db369, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ac64e73ce9fd8d555cb5e488f06411cc,
+        frame_ef4ba9b82cf132369c40b411a75db369,
         type_description_1,
         var_ret,
         var_name,
@@ -8704,16 +8704,16 @@ static PyObject *impl_psutil$_pssunos$$$function__10_net_if_stats(PyThreadState 
 
 
     // Release cached frame if used for exception.
-    if (frame_ac64e73ce9fd8d555cb5e488f06411cc == cache_frame_ac64e73ce9fd8d555cb5e488f06411cc) {
+    if (frame_ef4ba9b82cf132369c40b411a75db369 == cache_frame_ef4ba9b82cf132369c40b411a75db369) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_ac64e73ce9fd8d555cb5e488f06411cc);
-        cache_frame_ac64e73ce9fd8d555cb5e488f06411cc = NULL;
+        Py_DECREF(cache_frame_ef4ba9b82cf132369c40b411a75db369);
+        cache_frame_ef4ba9b82cf132369c40b411a75db369 = NULL;
     }
 
-    assertFrameObject(frame_ac64e73ce9fd8d555cb5e488f06411cc);
+    assertFrameObject(frame_ef4ba9b82cf132369c40b411a75db369);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -8803,41 +8803,41 @@ static PyObject *impl_psutil$_pssunos$$$function__11_boot_time(PyThreadState *ts
 #endif
 
     // Local variable declarations.
-    struct Nuitka_FrameObject *frame_e7bf45503ff91ff44824d8e6002e1ae0;
+    struct Nuitka_FrameObject *frame_9510cf340b52d666717f8da4ef7b6dc5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_e7bf45503ff91ff44824d8e6002e1ae0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9510cf340b52d666717f8da4ef7b6dc5 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_e7bf45503ff91ff44824d8e6002e1ae0)) {
-        Py_XDECREF(cache_frame_e7bf45503ff91ff44824d8e6002e1ae0);
+    if (isFrameUnusable(cache_frame_9510cf340b52d666717f8da4ef7b6dc5)) {
+        Py_XDECREF(cache_frame_9510cf340b52d666717f8da4ef7b6dc5);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e7bf45503ff91ff44824d8e6002e1ae0 == NULL) {
+        if (cache_frame_9510cf340b52d666717f8da4ef7b6dc5 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e7bf45503ff91ff44824d8e6002e1ae0 = MAKE_FUNCTION_FRAME(tstate, codeobj_e7bf45503ff91ff44824d8e6002e1ae0, module_psutil$_pssunos, 0);
+        cache_frame_9510cf340b52d666717f8da4ef7b6dc5 = MAKE_FUNCTION_FRAME(tstate, codeobj_9510cf340b52d666717f8da4ef7b6dc5, module_psutil$_pssunos, 0);
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_e7bf45503ff91ff44824d8e6002e1ae0->m_type_description == NULL);
-    frame_e7bf45503ff91ff44824d8e6002e1ae0 = cache_frame_e7bf45503ff91ff44824d8e6002e1ae0;
+    assert(cache_frame_9510cf340b52d666717f8da4ef7b6dc5->m_type_description == NULL);
+    frame_9510cf340b52d666717f8da4ef7b6dc5 = cache_frame_9510cf340b52d666717f8da4ef7b6dc5;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_e7bf45503ff91ff44824d8e6002e1ae0);
-    assert(Py_REFCNT(frame_e7bf45503ff91ff44824d8e6002e1ae0) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_9510cf340b52d666717f8da4ef7b6dc5);
+    assert(Py_REFCNT(frame_9510cf340b52d666717f8da4ef7b6dc5) == 2);
 
     // Framed code:
     {
@@ -8854,11 +8854,11 @@ static PyObject *impl_psutil$_pssunos$$$function__11_boot_time(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 308;
+            exception_lineno = 323;
 
             goto frame_exception_exit_1;
         }
-        frame_e7bf45503ff91ff44824d8e6002e1ae0->m_frame.f_lineno = 308;
+        frame_9510cf340b52d666717f8da4ef7b6dc5->m_frame.f_lineno = 323;
         tmp_return_value = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[90]);
         if (tmp_return_value == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -8866,7 +8866,7 @@ static PyObject *impl_psutil$_pssunos$$$function__11_boot_time(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 308;
+            exception_lineno = 323;
 
             goto frame_exception_exit_1;
         }
@@ -8888,29 +8888,29 @@ static PyObject *impl_psutil$_pssunos$$$function__11_boot_time(PyThreadState *ts
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e7bf45503ff91ff44824d8e6002e1ae0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e7bf45503ff91ff44824d8e6002e1ae0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e7bf45503ff91ff44824d8e6002e1ae0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9510cf340b52d666717f8da4ef7b6dc5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9510cf340b52d666717f8da4ef7b6dc5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9510cf340b52d666717f8da4ef7b6dc5, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e7bf45503ff91ff44824d8e6002e1ae0,
+        frame_9510cf340b52d666717f8da4ef7b6dc5,
         type_description_1
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_e7bf45503ff91ff44824d8e6002e1ae0 == cache_frame_e7bf45503ff91ff44824d8e6002e1ae0) {
+    if (frame_9510cf340b52d666717f8da4ef7b6dc5 == cache_frame_9510cf340b52d666717f8da4ef7b6dc5) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_e7bf45503ff91ff44824d8e6002e1ae0);
-        cache_frame_e7bf45503ff91ff44824d8e6002e1ae0 = NULL;
+        Py_DECREF(cache_frame_9510cf340b52d666717f8da4ef7b6dc5);
+        cache_frame_9510cf340b52d666717f8da4ef7b6dc5 = NULL;
     }
 
-    assertFrameObject(frame_e7bf45503ff91ff44824d8e6002e1ae0);
+    assertFrameObject(frame_9510cf340b52d666717f8da4ef7b6dc5);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -8967,7 +8967,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
     PyObject *tmp_tuple_unpack_1__element_5 = NULL;
     PyObject *tmp_tuple_unpack_1__element_6 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_14675a4b1f026c5f7ce1ae17b6177545;
+    struct Nuitka_FrameObject *frame_482dc889a4a2b5fa56eab1a3ec714d53;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -8989,7 +8989,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_14675a4b1f026c5f7ce1ae17b6177545 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_482dc889a4a2b5fa56eab1a3ec714d53 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -9003,31 +9003,31 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
         var_retlist = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_14675a4b1f026c5f7ce1ae17b6177545)) {
-        Py_XDECREF(cache_frame_14675a4b1f026c5f7ce1ae17b6177545);
+    if (isFrameUnusable(cache_frame_482dc889a4a2b5fa56eab1a3ec714d53)) {
+        Py_XDECREF(cache_frame_482dc889a4a2b5fa56eab1a3ec714d53);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_14675a4b1f026c5f7ce1ae17b6177545 == NULL) {
+        if (cache_frame_482dc889a4a2b5fa56eab1a3ec714d53 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_14675a4b1f026c5f7ce1ae17b6177545 = MAKE_FUNCTION_FRAME(tstate, codeobj_14675a4b1f026c5f7ce1ae17b6177545, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_482dc889a4a2b5fa56eab1a3ec714d53 = MAKE_FUNCTION_FRAME(tstate, codeobj_482dc889a4a2b5fa56eab1a3ec714d53, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_14675a4b1f026c5f7ce1ae17b6177545->m_type_description == NULL);
-    frame_14675a4b1f026c5f7ce1ae17b6177545 = cache_frame_14675a4b1f026c5f7ce1ae17b6177545;
+    assert(cache_frame_482dc889a4a2b5fa56eab1a3ec714d53->m_type_description == NULL);
+    frame_482dc889a4a2b5fa56eab1a3ec714d53 = cache_frame_482dc889a4a2b5fa56eab1a3ec714d53;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_14675a4b1f026c5f7ce1ae17b6177545);
-    assert(Py_REFCNT(frame_14675a4b1f026c5f7ce1ae17b6177545) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_482dc889a4a2b5fa56eab1a3ec714d53);
+    assert(Py_REFCNT(frame_482dc889a4a2b5fa56eab1a3ec714d53) == 2);
 
     // Framed code:
     {
@@ -9045,11 +9045,11 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 314;
+            exception_lineno = 329;
             type_description_1 = "ooNoooooooo";
             goto frame_exception_exit_1;
         }
-        frame_14675a4b1f026c5f7ce1ae17b6177545->m_frame.f_lineno = 314;
+        frame_482dc889a4a2b5fa56eab1a3ec714d53->m_frame.f_lineno = 329;
         tmp_assign_source_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[92]);
         if (tmp_assign_source_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -9057,7 +9057,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 314;
+            exception_lineno = 329;
             type_description_1 = "ooNoooooooo";
             goto frame_exception_exit_1;
         }
@@ -9076,7 +9076,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 316;
+            exception_lineno = 331;
             type_description_1 = "ooNoooooooo";
             goto frame_exception_exit_1;
         }
@@ -9099,7 +9099,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "ooNoooooooo";
-                exception_lineno = 316;
+                exception_lineno = 331;
                 goto try_except_handler_2;
             }
         }
@@ -9136,7 +9136,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 317;
+            exception_lineno = 332;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_3;
         }
@@ -9166,7 +9166,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9194,7 +9194,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9222,7 +9222,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9250,7 +9250,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9278,7 +9278,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9306,7 +9306,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
         {
@@ -9335,7 +9335,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooNoooooooo";
-                    exception_lineno = 317;
+                    exception_lineno = 332;
                     goto try_except_handler_4;
                 }
             }
@@ -9349,7 +9349,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             exception_tb = NULL;
 
             type_description_1 = "ooNoooooooo";
-            exception_lineno = 317;
+            exception_lineno = 332;
             goto try_except_handler_4;
         }
     }
@@ -9515,7 +9515,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 321;
+            exception_lineno = 336;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9543,7 +9543,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 315;
+            exception_lineno = 330;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9588,7 +9588,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 325;
+            exception_lineno = 340;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9602,7 +9602,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
         tmp_args_element_value_4 = var_tstamp;
         CHECK_OBJECT(var_pid);
         tmp_args_element_value_5 = var_pid;
-        frame_14675a4b1f026c5f7ce1ae17b6177545->m_frame.f_lineno = 325;
+        frame_482dc889a4a2b5fa56eab1a3ec714d53->m_frame.f_lineno = 340;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3, tmp_args_element_value_4, tmp_args_element_value_5};
             tmp_assign_source_20 = CALL_METHOD_WITH_ARGS5(
@@ -9619,7 +9619,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 325;
+            exception_lineno = 340;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9642,7 +9642,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 326;
+            exception_lineno = 341;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9655,13 +9655,13 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 326;
+            exception_lineno = 341;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_nt);
         tmp_args_element_value_6 = var_nt;
-        frame_14675a4b1f026c5f7ce1ae17b6177545->m_frame.f_lineno = 326;
+        frame_482dc889a4a2b5fa56eab1a3ec714d53->m_frame.f_lineno = 341;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_6);
         Py_DECREF(tmp_called_value_1);
         if (tmp_call_result_1 == NULL) {
@@ -9670,7 +9670,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 326;
+            exception_lineno = 341;
             type_description_1 = "ooNoooooooo";
             goto try_except_handler_2;
         }
@@ -9682,7 +9682,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 316;
+        exception_lineno = 331;
         type_description_1 = "ooNoooooooo";
         goto try_except_handler_2;
     }
@@ -9726,7 +9726,7 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 327;
+        exception_lineno = 342;
         type_description_1 = "ooNoooooooo";
         goto frame_exception_exit_1;
     }
@@ -9750,14 +9750,14 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_14675a4b1f026c5f7ce1ae17b6177545, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_14675a4b1f026c5f7ce1ae17b6177545->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_14675a4b1f026c5f7ce1ae17b6177545, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_482dc889a4a2b5fa56eab1a3ec714d53, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_482dc889a4a2b5fa56eab1a3ec714d53->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_482dc889a4a2b5fa56eab1a3ec714d53, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_14675a4b1f026c5f7ce1ae17b6177545,
+        frame_482dc889a4a2b5fa56eab1a3ec714d53,
         type_description_1,
         var_retlist,
         var_rawlist,
@@ -9774,16 +9774,16 @@ static PyObject *impl_psutil$_pssunos$$$function__12_users(PyThreadState *tstate
 
 
     // Release cached frame if used for exception.
-    if (frame_14675a4b1f026c5f7ce1ae17b6177545 == cache_frame_14675a4b1f026c5f7ce1ae17b6177545) {
+    if (frame_482dc889a4a2b5fa56eab1a3ec714d53 == cache_frame_482dc889a4a2b5fa56eab1a3ec714d53) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_14675a4b1f026c5f7ce1ae17b6177545);
-        cache_frame_14675a4b1f026c5f7ce1ae17b6177545 = NULL;
+        Py_DECREF(cache_frame_482dc889a4a2b5fa56eab1a3ec714d53);
+        cache_frame_482dc889a4a2b5fa56eab1a3ec714d53 = NULL;
     }
 
-    assertFrameObject(frame_14675a4b1f026c5f7ce1ae17b6177545);
+    assertFrameObject(frame_482dc889a4a2b5fa56eab1a3ec714d53);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -9890,7 +9890,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_b38130ca184ba469aa5cbcda2bf48fc5;
+    struct Nuitka_FrameObject *frame_a4007c869f8af086c5daa03d933c312d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -9906,34 +9906,34 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_b38130ca184ba469aa5cbcda2bf48fc5 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a4007c869f8af086c5daa03d933c312d = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_b38130ca184ba469aa5cbcda2bf48fc5)) {
-        Py_XDECREF(cache_frame_b38130ca184ba469aa5cbcda2bf48fc5);
+    if (isFrameUnusable(cache_frame_a4007c869f8af086c5daa03d933c312d)) {
+        Py_XDECREF(cache_frame_a4007c869f8af086c5daa03d933c312d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b38130ca184ba469aa5cbcda2bf48fc5 == NULL) {
+        if (cache_frame_a4007c869f8af086c5daa03d933c312d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b38130ca184ba469aa5cbcda2bf48fc5 = MAKE_FUNCTION_FRAME(tstate, codeobj_b38130ca184ba469aa5cbcda2bf48fc5, module_psutil$_pssunos, 0);
+        cache_frame_a4007c869f8af086c5daa03d933c312d = MAKE_FUNCTION_FRAME(tstate, codeobj_a4007c869f8af086c5daa03d933c312d, module_psutil$_pssunos, 0);
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_b38130ca184ba469aa5cbcda2bf48fc5->m_type_description == NULL);
-    frame_b38130ca184ba469aa5cbcda2bf48fc5 = cache_frame_b38130ca184ba469aa5cbcda2bf48fc5;
+    assert(cache_frame_a4007c869f8af086c5daa03d933c312d->m_type_description == NULL);
+    frame_a4007c869f8af086c5daa03d933c312d = cache_frame_a4007c869f8af086c5daa03d933c312d;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_b38130ca184ba469aa5cbcda2bf48fc5);
-    assert(Py_REFCNT(frame_b38130ca184ba469aa5cbcda2bf48fc5) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_a4007c869f8af086c5daa03d933c312d);
+    assert(Py_REFCNT(frame_a4007c869f8af086c5daa03d933c312d) == 2);
 
     // Framed code:
     // Tried code:
@@ -9956,7 +9956,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
@@ -9972,11 +9972,11 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
-        frame_b38130ca184ba469aa5cbcda2bf48fc5->m_frame.f_lineno = 337;
+        frame_a4007c869f8af086c5daa03d933c312d->m_frame.f_lineno = 352;
         tmp_args_element_value_1 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_2);
         if (tmp_args_element_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -9984,11 +9984,11 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
-        frame_b38130ca184ba469aa5cbcda2bf48fc5->m_frame.f_lineno = 337;
+        frame_a4007c869f8af086c5daa03d933c312d->m_frame.f_lineno = 352;
         tmp_path_arg_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_args_element_value_1);
         if (tmp_path_arg_1 == NULL) {
@@ -9997,7 +9997,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
@@ -10009,7 +10009,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
@@ -10021,7 +10021,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_1;
         }
@@ -10050,7 +10050,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
-                exception_lineno = 337;
+                exception_lineno = 352;
                 goto try_except_handler_2;
             }
         }
@@ -10089,11 +10089,11 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_2;
         }
-        frame_b38130ca184ba469aa5cbcda2bf48fc5->m_frame.f_lineno = 337;
+        frame_a4007c869f8af086c5daa03d933c312d->m_frame.f_lineno = 352;
         tmp_call_result_1 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_3);
         Py_DECREF(tmp_called_value_3);
         if (tmp_call_result_1 == NULL) {
@@ -10102,7 +10102,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_2;
         }
@@ -10113,7 +10113,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_call_result_1);
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_2;
         }
@@ -10141,7 +10141,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_2;
         }
@@ -10152,7 +10152,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 337;
+            exception_lineno = 352;
 
             goto try_except_handler_2;
         }
@@ -10164,7 +10164,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 337;
+        exception_lineno = 352;
 
         goto try_except_handler_2;
     }
@@ -10245,7 +10245,7 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
     NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
     return NULL;
     outline_exception_1:;
-    exception_lineno = 337;
+    exception_lineno = 352;
     goto frame_exception_exit_1;
     outline_result_1:;
     goto frame_return_exit_1;
@@ -10265,29 +10265,29 @@ static PyObject *impl_psutil$_pssunos$$$function__13_pids(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b38130ca184ba469aa5cbcda2bf48fc5, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b38130ca184ba469aa5cbcda2bf48fc5->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b38130ca184ba469aa5cbcda2bf48fc5, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a4007c869f8af086c5daa03d933c312d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a4007c869f8af086c5daa03d933c312d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a4007c869f8af086c5daa03d933c312d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b38130ca184ba469aa5cbcda2bf48fc5,
+        frame_a4007c869f8af086c5daa03d933c312d,
         type_description_1
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_b38130ca184ba469aa5cbcda2bf48fc5 == cache_frame_b38130ca184ba469aa5cbcda2bf48fc5) {
+    if (frame_a4007c869f8af086c5daa03d933c312d == cache_frame_a4007c869f8af086c5daa03d933c312d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_b38130ca184ba469aa5cbcda2bf48fc5);
-        cache_frame_b38130ca184ba469aa5cbcda2bf48fc5 = NULL;
+        Py_DECREF(cache_frame_a4007c869f8af086c5daa03d933c312d);
+        cache_frame_a4007c869f8af086c5daa03d933c312d = NULL;
     }
 
-    assertFrameObject(frame_b38130ca184ba469aa5cbcda2bf48fc5);
+    assertFrameObject(frame_a4007c869f8af086c5daa03d933c312d);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -10326,41 +10326,41 @@ static PyObject *impl_psutil$_pssunos$$$function__14_pid_exists(PyThreadState *t
 
     // Local variable declarations.
     PyObject *par_pid = python_pars[0];
-    struct Nuitka_FrameObject *frame_bd59ec509c3a8db1af9622fbb4eb16d6;
+    struct Nuitka_FrameObject *frame_1c900aed76b3104d65edeed2a758c1bf;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1c900aed76b3104d65edeed2a758c1bf = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6)) {
-        Py_XDECREF(cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6);
+    if (isFrameUnusable(cache_frame_1c900aed76b3104d65edeed2a758c1bf)) {
+        Py_XDECREF(cache_frame_1c900aed76b3104d65edeed2a758c1bf);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6 == NULL) {
+        if (cache_frame_1c900aed76b3104d65edeed2a758c1bf == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6 = MAKE_FUNCTION_FRAME(tstate, codeobj_bd59ec509c3a8db1af9622fbb4eb16d6, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_1c900aed76b3104d65edeed2a758c1bf = MAKE_FUNCTION_FRAME(tstate, codeobj_1c900aed76b3104d65edeed2a758c1bf, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6->m_type_description == NULL);
-    frame_bd59ec509c3a8db1af9622fbb4eb16d6 = cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6;
+    assert(cache_frame_1c900aed76b3104d65edeed2a758c1bf->m_type_description == NULL);
+    frame_1c900aed76b3104d65edeed2a758c1bf = cache_frame_1c900aed76b3104d65edeed2a758c1bf;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_bd59ec509c3a8db1af9622fbb4eb16d6);
-    assert(Py_REFCNT(frame_bd59ec509c3a8db1af9622fbb4eb16d6) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_1c900aed76b3104d65edeed2a758c1bf);
+    assert(Py_REFCNT(frame_1c900aed76b3104d65edeed2a758c1bf) == 2);
 
     // Framed code:
     {
@@ -10378,13 +10378,13 @@ static PyObject *impl_psutil$_pssunos$$$function__14_pid_exists(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 342;
+            exception_lineno = 357;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_pid);
         tmp_args_element_value_1 = par_pid;
-        frame_bd59ec509c3a8db1af9622fbb4eb16d6->m_frame.f_lineno = 342;
+        frame_1c900aed76b3104d65edeed2a758c1bf->m_frame.f_lineno = 357;
         tmp_return_value = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[103], tmp_args_element_value_1);
         if (tmp_return_value == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -10392,7 +10392,7 @@ static PyObject *impl_psutil$_pssunos$$$function__14_pid_exists(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 342;
+            exception_lineno = 357;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -10414,30 +10414,30 @@ static PyObject *impl_psutil$_pssunos$$$function__14_pid_exists(PyThreadState *t
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_bd59ec509c3a8db1af9622fbb4eb16d6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_bd59ec509c3a8db1af9622fbb4eb16d6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_bd59ec509c3a8db1af9622fbb4eb16d6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1c900aed76b3104d65edeed2a758c1bf, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1c900aed76b3104d65edeed2a758c1bf->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1c900aed76b3104d65edeed2a758c1bf, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_bd59ec509c3a8db1af9622fbb4eb16d6,
+        frame_1c900aed76b3104d65edeed2a758c1bf,
         type_description_1,
         par_pid
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_bd59ec509c3a8db1af9622fbb4eb16d6 == cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6) {
+    if (frame_1c900aed76b3104d65edeed2a758c1bf == cache_frame_1c900aed76b3104d65edeed2a758c1bf) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6);
-        cache_frame_bd59ec509c3a8db1af9622fbb4eb16d6 = NULL;
+        Py_DECREF(cache_frame_1c900aed76b3104d65edeed2a758c1bf);
+        cache_frame_1c900aed76b3104d65edeed2a758c1bf = NULL;
     }
 
-    assertFrameObject(frame_bd59ec509c3a8db1af9622fbb4eb16d6);
+    assertFrameObject(frame_1c900aed76b3104d65edeed2a758c1bf);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -10479,13 +10479,13 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
     // Local variable declarations.
     struct Nuitka_CellObject *par_fun = Nuitka_Cell_New1(python_pars[0]);
     PyObject *var_wrapper = NULL;
-    struct Nuitka_FrameObject *frame_d317547b4dcb132440ba4ba320d9a6f0;
+    struct Nuitka_FrameObject *frame_ae42d6a95a97b3271cfc0b2aeae968e5;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_d317547b4dcb132440ba4ba320d9a6f0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -10494,31 +10494,31 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_d317547b4dcb132440ba4ba320d9a6f0)) {
-        Py_XDECREF(cache_frame_d317547b4dcb132440ba4ba320d9a6f0);
+    if (isFrameUnusable(cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5)) {
+        Py_XDECREF(cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_d317547b4dcb132440ba4ba320d9a6f0 == NULL) {
+        if (cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_d317547b4dcb132440ba4ba320d9a6f0 = MAKE_FUNCTION_FRAME(tstate, codeobj_d317547b4dcb132440ba4ba320d9a6f0, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5 = MAKE_FUNCTION_FRAME(tstate, codeobj_ae42d6a95a97b3271cfc0b2aeae968e5, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_d317547b4dcb132440ba4ba320d9a6f0->m_type_description == NULL);
-    frame_d317547b4dcb132440ba4ba320d9a6f0 = cache_frame_d317547b4dcb132440ba4ba320d9a6f0;
+    assert(cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5->m_type_description == NULL);
+    frame_ae42d6a95a97b3271cfc0b2aeae968e5 = cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_d317547b4dcb132440ba4ba320d9a6f0);
-    assert(Py_REFCNT(frame_d317547b4dcb132440ba4ba320d9a6f0) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ae42d6a95a97b3271cfc0b2aeae968e5);
+    assert(Py_REFCNT(frame_ae42d6a95a97b3271cfc0b2aeae968e5) == 2);
 
     // Framed code:
     {
@@ -10537,7 +10537,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
         assert(!(tmp_called_instance_1 == NULL));
         CHECK_OBJECT(Nuitka_Cell_GET(par_fun));
         tmp_args_element_value_1 = Nuitka_Cell_GET(par_fun);
-        frame_d317547b4dcb132440ba4ba320d9a6f0->m_frame.f_lineno = 349;
+        frame_ae42d6a95a97b3271cfc0b2aeae968e5->m_frame.f_lineno = 365;
         tmp_called_value_1 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[106], tmp_args_element_value_1);
         if (tmp_called_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -10545,7 +10545,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 349;
+            exception_lineno = 365;
             type_description_1 = "co";
             goto frame_exception_exit_1;
         }
@@ -10555,7 +10555,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
 
         tmp_args_element_value_2 = MAKE_FUNCTION_psutil$_pssunos$$$function__15_wrap_exceptions$$$function__1_wrapper(tmp_closure_1);
 
-        frame_d317547b4dcb132440ba4ba320d9a6f0->m_frame.f_lineno = 349;
+        frame_ae42d6a95a97b3271cfc0b2aeae968e5->m_frame.f_lineno = 365;
         tmp_assign_source_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_2);
         Py_DECREF(tmp_called_value_1);
         Py_DECREF(tmp_args_element_value_2);
@@ -10565,7 +10565,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 349;
+            exception_lineno = 365;
             type_description_1 = "co";
             goto frame_exception_exit_1;
         }
@@ -10582,14 +10582,14 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_d317547b4dcb132440ba4ba320d9a6f0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_d317547b4dcb132440ba4ba320d9a6f0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_d317547b4dcb132440ba4ba320d9a6f0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ae42d6a95a97b3271cfc0b2aeae968e5, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ae42d6a95a97b3271cfc0b2aeae968e5->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ae42d6a95a97b3271cfc0b2aeae968e5, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_d317547b4dcb132440ba4ba320d9a6f0,
+        frame_ae42d6a95a97b3271cfc0b2aeae968e5,
         type_description_1,
         par_fun,
         var_wrapper
@@ -10597,16 +10597,16 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions(PyThreadSta
 
 
     // Release cached frame if used for exception.
-    if (frame_d317547b4dcb132440ba4ba320d9a6f0 == cache_frame_d317547b4dcb132440ba4ba320d9a6f0) {
+    if (frame_ae42d6a95a97b3271cfc0b2aeae968e5 == cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_d317547b4dcb132440ba4ba320d9a6f0);
-        cache_frame_d317547b4dcb132440ba4ba320d9a6f0 = NULL;
+        Py_DECREF(cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5);
+        cache_frame_ae42d6a95a97b3271cfc0b2aeae968e5 = NULL;
     }
 
-    assertFrameObject(frame_d317547b4dcb132440ba4ba320d9a6f0);
+    assertFrameObject(frame_ae42d6a95a97b3271cfc0b2aeae968e5);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -10680,7 +10680,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
     PyObject *par_self = python_pars[0];
     PyObject *par_args = python_pars[1];
     PyObject *par_kwargs = python_pars[2];
-    struct Nuitka_FrameObject *frame_177fb5526a1ef92728282dbb1c5c0a29;
+    struct Nuitka_FrameObject *frame_6e96b0089268266ff4e98b5678cb789b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -10698,34 +10698,34 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_177fb5526a1ef92728282dbb1c5c0a29 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_6e96b0089268266ff4e98b5678cb789b = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_177fb5526a1ef92728282dbb1c5c0a29)) {
-        Py_XDECREF(cache_frame_177fb5526a1ef92728282dbb1c5c0a29);
+    if (isFrameUnusable(cache_frame_6e96b0089268266ff4e98b5678cb789b)) {
+        Py_XDECREF(cache_frame_6e96b0089268266ff4e98b5678cb789b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_177fb5526a1ef92728282dbb1c5c0a29 == NULL) {
+        if (cache_frame_6e96b0089268266ff4e98b5678cb789b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_177fb5526a1ef92728282dbb1c5c0a29 = MAKE_FUNCTION_FRAME(tstate, codeobj_177fb5526a1ef92728282dbb1c5c0a29, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_6e96b0089268266ff4e98b5678cb789b = MAKE_FUNCTION_FRAME(tstate, codeobj_6e96b0089268266ff4e98b5678cb789b, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_177fb5526a1ef92728282dbb1c5c0a29->m_type_description == NULL);
-    frame_177fb5526a1ef92728282dbb1c5c0a29 = cache_frame_177fb5526a1ef92728282dbb1c5c0a29;
+    assert(cache_frame_6e96b0089268266ff4e98b5678cb789b->m_type_description == NULL);
+    frame_6e96b0089268266ff4e98b5678cb789b = cache_frame_6e96b0089268266ff4e98b5678cb789b;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_177fb5526a1ef92728282dbb1c5c0a29);
-    assert(Py_REFCNT(frame_177fb5526a1ef92728282dbb1c5c0a29) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_6e96b0089268266ff4e98b5678cb789b);
+    assert(Py_REFCNT(frame_6e96b0089268266ff4e98b5678cb789b) == 2);
 
     // Framed code:
     // Tried code:
@@ -10742,7 +10742,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 352;
+            exception_lineno = 368;
             type_description_1 = "oooc";
             goto try_except_handler_1;
         }
@@ -10762,7 +10762,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
 
         {
             PyObject *dir_call_args[] = {tmp_dircall_arg1_1, tmp_dircall_arg2_1, tmp_dircall_arg3_1, tmp_dircall_arg4_1};
-            tmp_return_value = impl___main__$$$function__5_complex_call_helper_pos_star_list_star_dict(tstate, dir_call_args);
+            tmp_return_value = impl___main__$$$function__7_complex_call_helper_pos_star_list_star_dict(tstate, dir_call_args);
         }
         if (tmp_return_value == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -10770,7 +10770,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 352;
+            exception_lineno = 368;
             type_description_1 = "oooc";
             goto try_except_handler_1;
         }
@@ -10793,9 +10793,9 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_177fb5526a1ef92728282dbb1c5c0a29, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_6e96b0089268266ff4e98b5678cb789b, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_177fb5526a1ef92728282dbb1c5c0a29, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_6e96b0089268266ff4e98b5678cb789b, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -10818,7 +10818,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 353;
+            exception_lineno = 369;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10836,7 +10836,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 353;
+            exception_lineno = 369;
             type_description_1 = "oooc";
             goto tuple_build_exception_1;
         }
@@ -10856,7 +10856,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 353;
+            exception_lineno = 369;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10886,7 +10886,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 357;
+            exception_lineno = 373;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10899,11 +10899,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 357;
+            exception_lineno = 373;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 357;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 373;
         tmp_operand_value_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_args_element_value_1);
         if (tmp_operand_value_1 == NULL) {
@@ -10912,7 +10912,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 357;
+            exception_lineno = 373;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10924,7 +10924,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 357;
+            exception_lineno = 373;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10955,7 +10955,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 358;
+            exception_lineno = 374;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10968,7 +10968,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 358;
+            exception_lineno = 374;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -10981,11 +10981,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_args_element_value_2);
 
-            exception_lineno = 358;
+            exception_lineno = 374;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 358;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 374;
         {
             PyObject *call_args[] = {tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_raise_type_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_2, call_args);
@@ -10999,12 +10999,12 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 358;
+            exception_lineno = 374;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
         exception_type = tmp_raise_type_1;
-        exception_lineno = 358;
+        exception_lineno = 374;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oooc";
         goto try_except_handler_2;
@@ -11032,7 +11032,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 360;
+            exception_lineno = 376;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11045,7 +11045,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 360;
+            exception_lineno = 376;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11058,7 +11058,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_args_element_value_4);
 
-            exception_lineno = 360;
+            exception_lineno = 376;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11072,11 +11072,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             Py_DECREF(tmp_args_element_value_4);
             Py_DECREF(tmp_args_element_value_5);
 
-            exception_lineno = 360;
+            exception_lineno = 376;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 360;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 376;
         {
             PyObject *call_args[] = {tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6};
             tmp_raise_type_2 = CALL_FUNCTION_WITH_ARGS3(tstate, tmp_called_value_3, call_args);
@@ -11091,12 +11091,12 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 360;
+            exception_lineno = 376;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
         exception_type = tmp_raise_type_2;
-        exception_lineno = 360;
+        exception_lineno = 376;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oooc";
         goto try_except_handler_2;
@@ -11121,7 +11121,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 361;
+            exception_lineno = 377;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11132,7 +11132,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 361;
+            exception_lineno = 377;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11163,7 +11163,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 362;
+            exception_lineno = 378;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11176,7 +11176,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 362;
+            exception_lineno = 378;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11189,11 +11189,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_args_element_value_7);
 
-            exception_lineno = 362;
+            exception_lineno = 378;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 362;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 378;
         {
             PyObject *call_args[] = {tmp_args_element_value_7, tmp_args_element_value_8};
             tmp_raise_type_3 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_4, call_args);
@@ -11207,12 +11207,12 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 362;
+            exception_lineno = 378;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
         exception_type = tmp_raise_type_3;
-        exception_lineno = 362;
+        exception_lineno = 378;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oooc";
         goto try_except_handler_2;
@@ -11249,7 +11249,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 364;
+            exception_lineno = 380;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11262,7 +11262,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 364;
+            exception_lineno = 380;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11291,11 +11291,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 365;
+            exception_lineno = 381;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 365;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 381;
         tmp_cmp_expr_right_5 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_5);
         if (tmp_cmp_expr_right_5 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -11303,7 +11303,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 365;
+            exception_lineno = 381;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11315,7 +11315,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 365;
+            exception_lineno = 381;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11346,7 +11346,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 366;
+            exception_lineno = 382;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11359,7 +11359,7 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 366;
+            exception_lineno = 382;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
@@ -11372,11 +11372,11 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_args_element_value_9);
 
-            exception_lineno = 366;
+            exception_lineno = 382;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
-        frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = 366;
+        frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = 382;
         {
             PyObject *call_args[] = {tmp_args_element_value_9, tmp_args_element_value_10};
             tmp_raise_type_4 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_6, call_args);
@@ -11390,12 +11390,12 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 366;
+            exception_lineno = 382;
             type_description_1 = "oooc";
             goto try_except_handler_2;
         }
         exception_type = tmp_raise_type_4;
-        exception_lineno = 366;
+        exception_lineno = 382;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oooc";
         goto try_except_handler_2;
@@ -11404,30 +11404,30 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
     branch_no_6:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 368;
+        exception_lineno = 384;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame) frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_6e96b0089268266ff4e98b5678cb789b->m_frame) frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooc";
     goto try_except_handler_2;
     branch_end_6:;
     branch_no_5:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 369;
+        exception_lineno = 385;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame) frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_6e96b0089268266ff4e98b5678cb789b->m_frame) frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooc";
     goto try_except_handler_2;
     goto branch_end_4;
     branch_no_4:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 351;
+        exception_lineno = 367;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame) frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_6e96b0089268266ff4e98b5678cb789b->m_frame) frame_6e96b0089268266ff4e98b5678cb789b->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooc";
     goto try_except_handler_2;
     branch_end_4:;
@@ -11474,14 +11474,14 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_177fb5526a1ef92728282dbb1c5c0a29, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_177fb5526a1ef92728282dbb1c5c0a29->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_177fb5526a1ef92728282dbb1c5c0a29, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_6e96b0089268266ff4e98b5678cb789b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_6e96b0089268266ff4e98b5678cb789b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_6e96b0089268266ff4e98b5678cb789b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_177fb5526a1ef92728282dbb1c5c0a29,
+        frame_6e96b0089268266ff4e98b5678cb789b,
         type_description_1,
         par_self,
         par_args,
@@ -11491,16 +11491,16 @@ static PyObject *impl_psutil$_pssunos$$$function__15_wrap_exceptions$$$function_
 
 
     // Release cached frame if used for exception.
-    if (frame_177fb5526a1ef92728282dbb1c5c0a29 == cache_frame_177fb5526a1ef92728282dbb1c5c0a29) {
+    if (frame_6e96b0089268266ff4e98b5678cb789b == cache_frame_6e96b0089268266ff4e98b5678cb789b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_177fb5526a1ef92728282dbb1c5c0a29);
-        cache_frame_177fb5526a1ef92728282dbb1c5c0a29 = NULL;
+        Py_DECREF(cache_frame_6e96b0089268266ff4e98b5678cb789b);
+        cache_frame_6e96b0089268266ff4e98b5678cb789b = NULL;
     }
 
-    assertFrameObject(frame_177fb5526a1ef92728282dbb1c5c0a29);
+    assertFrameObject(frame_6e96b0089268266ff4e98b5678cb789b);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -11550,42 +11550,42 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_pid = python_pars[1];
-    struct Nuitka_FrameObject *frame_e0e0555bd3ec9857008423fbe8586f57;
+    struct Nuitka_FrameObject *frame_f250d9965f1ee33d519894e2bf1be7f1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     bool tmp_result;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_e0e0555bd3ec9857008423fbe8586f57 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f250d9965f1ee33d519894e2bf1be7f1 = NULL;
     PyObject *tmp_return_value = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_e0e0555bd3ec9857008423fbe8586f57)) {
-        Py_XDECREF(cache_frame_e0e0555bd3ec9857008423fbe8586f57);
+    if (isFrameUnusable(cache_frame_f250d9965f1ee33d519894e2bf1be7f1)) {
+        Py_XDECREF(cache_frame_f250d9965f1ee33d519894e2bf1be7f1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e0e0555bd3ec9857008423fbe8586f57 == NULL) {
+        if (cache_frame_f250d9965f1ee33d519894e2bf1be7f1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e0e0555bd3ec9857008423fbe8586f57 = MAKE_FUNCTION_FRAME(tstate, codeobj_e0e0555bd3ec9857008423fbe8586f57, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_f250d9965f1ee33d519894e2bf1be7f1 = MAKE_FUNCTION_FRAME(tstate, codeobj_f250d9965f1ee33d519894e2bf1be7f1, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_e0e0555bd3ec9857008423fbe8586f57->m_type_description == NULL);
-    frame_e0e0555bd3ec9857008423fbe8586f57 = cache_frame_e0e0555bd3ec9857008423fbe8586f57;
+    assert(cache_frame_f250d9965f1ee33d519894e2bf1be7f1->m_type_description == NULL);
+    frame_f250d9965f1ee33d519894e2bf1be7f1 = cache_frame_f250d9965f1ee33d519894e2bf1be7f1;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_e0e0555bd3ec9857008423fbe8586f57);
-    assert(Py_REFCNT(frame_e0e0555bd3ec9857008423fbe8586f57) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_f250d9965f1ee33d519894e2bf1be7f1);
+    assert(Py_REFCNT(frame_f250d9965f1ee33d519894e2bf1be7f1) == 2);
 
     // Framed code:
     {
@@ -11602,7 +11602,7 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 379;
+            exception_lineno = 396;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -11620,7 +11620,7 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 380;
+            exception_lineno = 397;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -11638,7 +11638,7 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 381;
+            exception_lineno = 398;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -11659,11 +11659,11 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 382;
+            exception_lineno = 399;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_e0e0555bd3ec9857008423fbe8586f57->m_frame.f_lineno = 382;
+        frame_f250d9965f1ee33d519894e2bf1be7f1->m_frame.f_lineno = 399;
         tmp_assattr_value_4 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_1);
         if (tmp_assattr_value_4 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -11671,7 +11671,7 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 382;
+            exception_lineno = 399;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -11685,7 +11685,7 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 382;
+            exception_lineno = 399;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -11700,14 +11700,14 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e0e0555bd3ec9857008423fbe8586f57, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e0e0555bd3ec9857008423fbe8586f57->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e0e0555bd3ec9857008423fbe8586f57, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f250d9965f1ee33d519894e2bf1be7f1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f250d9965f1ee33d519894e2bf1be7f1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f250d9965f1ee33d519894e2bf1be7f1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e0e0555bd3ec9857008423fbe8586f57,
+        frame_f250d9965f1ee33d519894e2bf1be7f1,
         type_description_1,
         par_self,
         par_pid
@@ -11715,16 +11715,16 @@ static PyObject *impl_psutil$_pssunos$$$function__16___init__(PyThreadState *tst
 
 
     // Release cached frame if used for exception.
-    if (frame_e0e0555bd3ec9857008423fbe8586f57 == cache_frame_e0e0555bd3ec9857008423fbe8586f57) {
+    if (frame_f250d9965f1ee33d519894e2bf1be7f1 == cache_frame_f250d9965f1ee33d519894e2bf1be7f1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_e0e0555bd3ec9857008423fbe8586f57);
-        cache_frame_e0e0555bd3ec9857008423fbe8586f57 = NULL;
+        Py_DECREF(cache_frame_f250d9965f1ee33d519894e2bf1be7f1);
+        cache_frame_f250d9965f1ee33d519894e2bf1be7f1 = NULL;
     }
 
-    assertFrameObject(frame_e0e0555bd3ec9857008423fbe8586f57);
+    assertFrameObject(frame_f250d9965f1ee33d519894e2bf1be7f1);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -11772,42 +11772,42 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_30a34450e18d76c388bc6b37c50503a0;
+    struct Nuitka_FrameObject *frame_8cfe7a877b2161028b8b6c6caf9efe99;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_30a34450e18d76c388bc6b37c50503a0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_8cfe7a877b2161028b8b6c6caf9efe99 = NULL;
     PyObject *tmp_return_value = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_30a34450e18d76c388bc6b37c50503a0)) {
-        Py_XDECREF(cache_frame_30a34450e18d76c388bc6b37c50503a0);
+    if (isFrameUnusable(cache_frame_8cfe7a877b2161028b8b6c6caf9efe99)) {
+        Py_XDECREF(cache_frame_8cfe7a877b2161028b8b6c6caf9efe99);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_30a34450e18d76c388bc6b37c50503a0 == NULL) {
+        if (cache_frame_8cfe7a877b2161028b8b6c6caf9efe99 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_30a34450e18d76c388bc6b37c50503a0 = MAKE_FUNCTION_FRAME(tstate, codeobj_30a34450e18d76c388bc6b37c50503a0, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_8cfe7a877b2161028b8b6c6caf9efe99 = MAKE_FUNCTION_FRAME(tstate, codeobj_8cfe7a877b2161028b8b6c6caf9efe99, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_30a34450e18d76c388bc6b37c50503a0->m_type_description == NULL);
-    frame_30a34450e18d76c388bc6b37c50503a0 = cache_frame_30a34450e18d76c388bc6b37c50503a0;
+    assert(cache_frame_8cfe7a877b2161028b8b6c6caf9efe99->m_type_description == NULL);
+    frame_8cfe7a877b2161028b8b6c6caf9efe99 = cache_frame_8cfe7a877b2161028b8b6c6caf9efe99;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_30a34450e18d76c388bc6b37c50503a0);
-    assert(Py_REFCNT(frame_30a34450e18d76c388bc6b37c50503a0) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_8cfe7a877b2161028b8b6c6caf9efe99);
+    assert(Py_REFCNT(frame_8cfe7a877b2161028b8b6c6caf9efe99) == 2);
 
     // Framed code:
     {
@@ -11833,7 +11833,7 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 388;
+            exception_lineno = 405;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -11847,7 +11847,7 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 388;
+            exception_lineno = 405;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -11864,7 +11864,7 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 388;
+                exception_lineno = 405;
                 type_description_1 = "o";
                 goto tuple_build_exception_1;
             }
@@ -11886,11 +11886,11 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 388;
+            exception_lineno = 405;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_30a34450e18d76c388bc6b37c50503a0->m_frame.f_lineno = 388;
+        frame_8cfe7a877b2161028b8b6c6caf9efe99->m_frame.f_lineno = 405;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_1);
         Py_DECREF(tmp_args_element_value_1);
@@ -11900,7 +11900,7 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 388;
+            exception_lineno = 405;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -11916,30 +11916,30 @@ static PyObject *impl_psutil$_pssunos$$$function__17__assert_alive(PyThreadState
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_30a34450e18d76c388bc6b37c50503a0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_30a34450e18d76c388bc6b37c50503a0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_30a34450e18d76c388bc6b37c50503a0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_8cfe7a877b2161028b8b6c6caf9efe99, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_8cfe7a877b2161028b8b6c6caf9efe99->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_8cfe7a877b2161028b8b6c6caf9efe99, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_30a34450e18d76c388bc6b37c50503a0,
+        frame_8cfe7a877b2161028b8b6c6caf9efe99,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_30a34450e18d76c388bc6b37c50503a0 == cache_frame_30a34450e18d76c388bc6b37c50503a0) {
+    if (frame_8cfe7a877b2161028b8b6c6caf9efe99 == cache_frame_8cfe7a877b2161028b8b6c6caf9efe99) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_30a34450e18d76c388bc6b37c50503a0);
-        cache_frame_30a34450e18d76c388bc6b37c50503a0 = NULL;
+        Py_DECREF(cache_frame_8cfe7a877b2161028b8b6c6caf9efe99);
+        cache_frame_8cfe7a877b2161028b8b6c6caf9efe99 = NULL;
     }
 
-    assertFrameObject(frame_30a34450e18d76c388bc6b37c50503a0);
+    assertFrameObject(frame_8cfe7a877b2161028b8b6c6caf9efe99);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -11983,42 +11983,42 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_961e60ef4fd8ad2d9865ca84bca44939;
+    struct Nuitka_FrameObject *frame_9e99b2dc39edf7dcc060d46f4e64e6bd;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_961e60ef4fd8ad2d9865ca84bca44939 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd = NULL;
     PyObject *tmp_return_value = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_961e60ef4fd8ad2d9865ca84bca44939)) {
-        Py_XDECREF(cache_frame_961e60ef4fd8ad2d9865ca84bca44939);
+    if (isFrameUnusable(cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd)) {
+        Py_XDECREF(cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_961e60ef4fd8ad2d9865ca84bca44939 == NULL) {
+        if (cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_961e60ef4fd8ad2d9865ca84bca44939 = MAKE_FUNCTION_FRAME(tstate, codeobj_961e60ef4fd8ad2d9865ca84bca44939, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd = MAKE_FUNCTION_FRAME(tstate, codeobj_9e99b2dc39edf7dcc060d46f4e64e6bd, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_961e60ef4fd8ad2d9865ca84bca44939->m_type_description == NULL);
-    frame_961e60ef4fd8ad2d9865ca84bca44939 = cache_frame_961e60ef4fd8ad2d9865ca84bca44939;
+    assert(cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd->m_type_description == NULL);
+    frame_9e99b2dc39edf7dcc060d46f4e64e6bd = cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_961e60ef4fd8ad2d9865ca84bca44939);
-    assert(Py_REFCNT(frame_961e60ef4fd8ad2d9865ca84bca44939) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_9e99b2dc39edf7dcc060d46f4e64e6bd);
+    assert(Py_REFCNT(frame_9e99b2dc39edf7dcc060d46f4e64e6bd) == 2);
 
     // Framed code:
     {
@@ -12035,13 +12035,13 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 391;
+            exception_lineno = 408;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_1 = par_self;
-        frame_961e60ef4fd8ad2d9865ca84bca44939->m_frame.f_lineno = 391;
+        frame_9e99b2dc39edf7dcc060d46f4e64e6bd->m_frame.f_lineno = 408;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[126], tmp_args_element_value_1);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -12050,7 +12050,7 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 391;
+            exception_lineno = 408;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12070,13 +12070,13 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 392;
+            exception_lineno = 409;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_2 = par_self;
-        frame_961e60ef4fd8ad2d9865ca84bca44939->m_frame.f_lineno = 392;
+        frame_9e99b2dc39edf7dcc060d46f4e64e6bd->m_frame.f_lineno = 409;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_2, mod_consts[126], tmp_args_element_value_2);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_call_result_2 == NULL) {
@@ -12085,7 +12085,7 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 392;
+            exception_lineno = 409;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12105,13 +12105,13 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 393;
+            exception_lineno = 410;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_3 = par_self;
-        frame_961e60ef4fd8ad2d9865ca84bca44939->m_frame.f_lineno = 393;
+        frame_9e99b2dc39edf7dcc060d46f4e64e6bd->m_frame.f_lineno = 410;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_3, mod_consts[126], tmp_args_element_value_3);
         Py_DECREF(tmp_called_instance_3);
         if (tmp_call_result_3 == NULL) {
@@ -12120,7 +12120,7 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 393;
+            exception_lineno = 410;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12136,30 +12136,30 @@ static PyObject *impl_psutil$_pssunos$$$function__18_oneshot_enter(PyThreadState
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_961e60ef4fd8ad2d9865ca84bca44939, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_961e60ef4fd8ad2d9865ca84bca44939->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_961e60ef4fd8ad2d9865ca84bca44939, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9e99b2dc39edf7dcc060d46f4e64e6bd, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9e99b2dc39edf7dcc060d46f4e64e6bd->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9e99b2dc39edf7dcc060d46f4e64e6bd, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_961e60ef4fd8ad2d9865ca84bca44939,
+        frame_9e99b2dc39edf7dcc060d46f4e64e6bd,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_961e60ef4fd8ad2d9865ca84bca44939 == cache_frame_961e60ef4fd8ad2d9865ca84bca44939) {
+    if (frame_9e99b2dc39edf7dcc060d46f4e64e6bd == cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_961e60ef4fd8ad2d9865ca84bca44939);
-        cache_frame_961e60ef4fd8ad2d9865ca84bca44939 = NULL;
+        Py_DECREF(cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd);
+        cache_frame_9e99b2dc39edf7dcc060d46f4e64e6bd = NULL;
     }
 
-    assertFrameObject(frame_961e60ef4fd8ad2d9865ca84bca44939);
+    assertFrameObject(frame_9e99b2dc39edf7dcc060d46f4e64e6bd);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -12203,42 +12203,42 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_54ed274d7985372492813cd3505e999a;
+    struct Nuitka_FrameObject *frame_b3030616ee2e73df8928ea92c0622e78;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_54ed274d7985372492813cd3505e999a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_b3030616ee2e73df8928ea92c0622e78 = NULL;
     PyObject *tmp_return_value = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_54ed274d7985372492813cd3505e999a)) {
-        Py_XDECREF(cache_frame_54ed274d7985372492813cd3505e999a);
+    if (isFrameUnusable(cache_frame_b3030616ee2e73df8928ea92c0622e78)) {
+        Py_XDECREF(cache_frame_b3030616ee2e73df8928ea92c0622e78);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_54ed274d7985372492813cd3505e999a == NULL) {
+        if (cache_frame_b3030616ee2e73df8928ea92c0622e78 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_54ed274d7985372492813cd3505e999a = MAKE_FUNCTION_FRAME(tstate, codeobj_54ed274d7985372492813cd3505e999a, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_b3030616ee2e73df8928ea92c0622e78 = MAKE_FUNCTION_FRAME(tstate, codeobj_b3030616ee2e73df8928ea92c0622e78, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_54ed274d7985372492813cd3505e999a->m_type_description == NULL);
-    frame_54ed274d7985372492813cd3505e999a = cache_frame_54ed274d7985372492813cd3505e999a;
+    assert(cache_frame_b3030616ee2e73df8928ea92c0622e78->m_type_description == NULL);
+    frame_b3030616ee2e73df8928ea92c0622e78 = cache_frame_b3030616ee2e73df8928ea92c0622e78;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_54ed274d7985372492813cd3505e999a);
-    assert(Py_REFCNT(frame_54ed274d7985372492813cd3505e999a) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_b3030616ee2e73df8928ea92c0622e78);
+    assert(Py_REFCNT(frame_b3030616ee2e73df8928ea92c0622e78) == 2);
 
     // Framed code:
     {
@@ -12255,13 +12255,13 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 396;
+            exception_lineno = 413;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_1 = par_self;
-        frame_54ed274d7985372492813cd3505e999a->m_frame.f_lineno = 396;
+        frame_b3030616ee2e73df8928ea92c0622e78->m_frame.f_lineno = 413;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[129], tmp_args_element_value_1);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -12270,7 +12270,7 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 396;
+            exception_lineno = 413;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12290,13 +12290,13 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 397;
+            exception_lineno = 414;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_2 = par_self;
-        frame_54ed274d7985372492813cd3505e999a->m_frame.f_lineno = 397;
+        frame_b3030616ee2e73df8928ea92c0622e78->m_frame.f_lineno = 414;
         tmp_call_result_2 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_2, mod_consts[129], tmp_args_element_value_2);
         Py_DECREF(tmp_called_instance_2);
         if (tmp_call_result_2 == NULL) {
@@ -12305,7 +12305,7 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 397;
+            exception_lineno = 414;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12325,13 +12325,13 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 398;
+            exception_lineno = 415;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_args_element_value_3 = par_self;
-        frame_54ed274d7985372492813cd3505e999a->m_frame.f_lineno = 398;
+        frame_b3030616ee2e73df8928ea92c0622e78->m_frame.f_lineno = 415;
         tmp_call_result_3 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_3, mod_consts[129], tmp_args_element_value_3);
         Py_DECREF(tmp_called_instance_3);
         if (tmp_call_result_3 == NULL) {
@@ -12340,7 +12340,7 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 398;
+            exception_lineno = 415;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12356,30 +12356,30 @@ static PyObject *impl_psutil$_pssunos$$$function__19_oneshot_exit(PyThreadState 
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_54ed274d7985372492813cd3505e999a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_54ed274d7985372492813cd3505e999a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_54ed274d7985372492813cd3505e999a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_b3030616ee2e73df8928ea92c0622e78, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_b3030616ee2e73df8928ea92c0622e78->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_b3030616ee2e73df8928ea92c0622e78, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_54ed274d7985372492813cd3505e999a,
+        frame_b3030616ee2e73df8928ea92c0622e78,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_54ed274d7985372492813cd3505e999a == cache_frame_54ed274d7985372492813cd3505e999a) {
+    if (frame_b3030616ee2e73df8928ea92c0622e78 == cache_frame_b3030616ee2e73df8928ea92c0622e78) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_54ed274d7985372492813cd3505e999a);
-        cache_frame_54ed274d7985372492813cd3505e999a = NULL;
+        Py_DECREF(cache_frame_b3030616ee2e73df8928ea92c0622e78);
+        cache_frame_b3030616ee2e73df8928ea92c0622e78 = NULL;
     }
 
-    assertFrameObject(frame_54ed274d7985372492813cd3505e999a);
+    assertFrameObject(frame_b3030616ee2e73df8928ea92c0622e78);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -12423,41 +12423,41 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_1cc217bd1812d94d6853d8d43efc30c4;
+    struct Nuitka_FrameObject *frame_bac279a8624b815d2497380dd029da45;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_1cc217bd1812d94d6853d8d43efc30c4 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_bac279a8624b815d2497380dd029da45 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_1cc217bd1812d94d6853d8d43efc30c4)) {
-        Py_XDECREF(cache_frame_1cc217bd1812d94d6853d8d43efc30c4);
+    if (isFrameUnusable(cache_frame_bac279a8624b815d2497380dd029da45)) {
+        Py_XDECREF(cache_frame_bac279a8624b815d2497380dd029da45);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_1cc217bd1812d94d6853d8d43efc30c4 == NULL) {
+        if (cache_frame_bac279a8624b815d2497380dd029da45 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_1cc217bd1812d94d6853d8d43efc30c4 = MAKE_FUNCTION_FRAME(tstate, codeobj_1cc217bd1812d94d6853d8d43efc30c4, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_bac279a8624b815d2497380dd029da45 = MAKE_FUNCTION_FRAME(tstate, codeobj_bac279a8624b815d2497380dd029da45, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_1cc217bd1812d94d6853d8d43efc30c4->m_type_description == NULL);
-    frame_1cc217bd1812d94d6853d8d43efc30c4 = cache_frame_1cc217bd1812d94d6853d8d43efc30c4;
+    assert(cache_frame_bac279a8624b815d2497380dd029da45->m_type_description == NULL);
+    frame_bac279a8624b815d2497380dd029da45 = cache_frame_bac279a8624b815d2497380dd029da45;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_1cc217bd1812d94d6853d8d43efc30c4);
-    assert(Py_REFCNT(frame_1cc217bd1812d94d6853d8d43efc30c4) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_bac279a8624b815d2497380dd029da45);
+    assert(Py_REFCNT(frame_bac279a8624b815d2497380dd029da45) == 2);
 
     // Framed code:
     {
@@ -12479,7 +12479,7 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 403;
+            exception_lineno = 420;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12490,7 +12490,7 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 403;
+            exception_lineno = 420;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12503,7 +12503,7 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 403;
+            exception_lineno = 420;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12517,11 +12517,11 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 403;
+            exception_lineno = 420;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_1cc217bd1812d94d6853d8d43efc30c4->m_frame.f_lineno = 403;
+        frame_bac279a8624b815d2497380dd029da45->m_frame.f_lineno = 420;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -12536,7 +12536,7 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 403;
+            exception_lineno = 420;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -12558,30 +12558,30 @@ static PyObject *impl_psutil$_pssunos$$$function__20__proc_name_and_args(PyThrea
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_1cc217bd1812d94d6853d8d43efc30c4, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_1cc217bd1812d94d6853d8d43efc30c4->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_1cc217bd1812d94d6853d8d43efc30c4, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_bac279a8624b815d2497380dd029da45, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_bac279a8624b815d2497380dd029da45->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_bac279a8624b815d2497380dd029da45, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_1cc217bd1812d94d6853d8d43efc30c4,
+        frame_bac279a8624b815d2497380dd029da45,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_1cc217bd1812d94d6853d8d43efc30c4 == cache_frame_1cc217bd1812d94d6853d8d43efc30c4) {
+    if (frame_bac279a8624b815d2497380dd029da45 == cache_frame_bac279a8624b815d2497380dd029da45) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_1cc217bd1812d94d6853d8d43efc30c4);
-        cache_frame_1cc217bd1812d94d6853d8d43efc30c4 = NULL;
+        Py_DECREF(cache_frame_bac279a8624b815d2497380dd029da45);
+        cache_frame_bac279a8624b815d2497380dd029da45 = NULL;
     }
 
-    assertFrameObject(frame_1cc217bd1812d94d6853d8d43efc30c4);
+    assertFrameObject(frame_bac279a8624b815d2497380dd029da45);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -12623,14 +12623,14 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_ret = NULL;
-    struct Nuitka_FrameObject *frame_7fb60b5430bb29d2c60f04330d29e465;
+    struct Nuitka_FrameObject *frame_13d1e9e122940c03e732ecf831da001e;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    static struct Nuitka_FrameObject *cache_frame_7fb60b5430bb29d2c60f04330d29e465 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_13d1e9e122940c03e732ecf831da001e = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -12639,31 +12639,31 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_7fb60b5430bb29d2c60f04330d29e465)) {
-        Py_XDECREF(cache_frame_7fb60b5430bb29d2c60f04330d29e465);
+    if (isFrameUnusable(cache_frame_13d1e9e122940c03e732ecf831da001e)) {
+        Py_XDECREF(cache_frame_13d1e9e122940c03e732ecf831da001e);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_7fb60b5430bb29d2c60f04330d29e465 == NULL) {
+        if (cache_frame_13d1e9e122940c03e732ecf831da001e == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_7fb60b5430bb29d2c60f04330d29e465 = MAKE_FUNCTION_FRAME(tstate, codeobj_7fb60b5430bb29d2c60f04330d29e465, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_13d1e9e122940c03e732ecf831da001e = MAKE_FUNCTION_FRAME(tstate, codeobj_13d1e9e122940c03e732ecf831da001e, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_7fb60b5430bb29d2c60f04330d29e465->m_type_description == NULL);
-    frame_7fb60b5430bb29d2c60f04330d29e465 = cache_frame_7fb60b5430bb29d2c60f04330d29e465;
+    assert(cache_frame_13d1e9e122940c03e732ecf831da001e->m_type_description == NULL);
+    frame_13d1e9e122940c03e732ecf831da001e = cache_frame_13d1e9e122940c03e732ecf831da001e;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_7fb60b5430bb29d2c60f04330d29e465);
-    assert(Py_REFCNT(frame_7fb60b5430bb29d2c60f04330d29e465) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_13d1e9e122940c03e732ecf831da001e);
+    assert(Py_REFCNT(frame_13d1e9e122940c03e732ecf831da001e) == 2);
 
     // Framed code:
     {
@@ -12689,7 +12689,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 408;
+            exception_lineno = 425;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12702,7 +12702,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 408;
+            exception_lineno = 425;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12713,7 +12713,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 408;
+            exception_lineno = 425;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12733,7 +12733,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 409;
+            exception_lineno = 426;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12750,7 +12750,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 409;
+                exception_lineno = 426;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
@@ -12771,7 +12771,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 409;
+            exception_lineno = 426;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12783,7 +12783,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 409;
+            exception_lineno = 425;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12795,7 +12795,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 409;
+            exception_lineno = 425;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12829,7 +12829,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 410;
+            exception_lineno = 428;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12842,11 +12842,11 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 410;
+            exception_lineno = 428;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_7fb60b5430bb29d2c60f04330d29e465->m_frame.f_lineno = 410;
+        frame_13d1e9e122940c03e732ecf831da001e->m_frame.f_lineno = 428;
         tmp_raise_type_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_args_element_value_1);
         if (tmp_raise_type_1 == NULL) {
@@ -12855,12 +12855,12 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 410;
+            exception_lineno = 428;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
         exception_type = tmp_raise_type_1;
-        exception_lineno = 410;
+        exception_lineno = 428;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oo";
         goto frame_exception_exit_1;
@@ -12886,7 +12886,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 411;
+            exception_lineno = 429;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12897,7 +12897,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 411;
+            exception_lineno = 429;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12910,7 +12910,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 411;
+            exception_lineno = 429;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12924,11 +12924,11 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             Py_DECREF(tmp_called_value_2);
             Py_DECREF(tmp_args_element_value_2);
 
-            exception_lineno = 411;
+            exception_lineno = 429;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_7fb60b5430bb29d2c60f04330d29e465->m_frame.f_lineno = 411;
+        frame_13d1e9e122940c03e732ecf831da001e->m_frame.f_lineno = 429;
         {
             PyObject *call_args[] = {tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_2, call_args);
@@ -12943,7 +12943,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 411;
+            exception_lineno = 429;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12965,7 +12965,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 412;
+            exception_lineno = 430;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12981,7 +12981,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 412;
+            exception_lineno = 430;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -12992,7 +12992,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 412;
+            exception_lineno = 430;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -13012,7 +13012,7 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
         tmp_raise_type_2 = PyExc_AssertionError;
         exception_type = tmp_raise_type_2;
         Py_INCREF(tmp_raise_type_2);
-        exception_lineno = 412;
+        exception_lineno = 430;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oo";
         goto frame_exception_exit_1;
@@ -13028,14 +13028,14 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_7fb60b5430bb29d2c60f04330d29e465, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_7fb60b5430bb29d2c60f04330d29e465->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_7fb60b5430bb29d2c60f04330d29e465, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_13d1e9e122940c03e732ecf831da001e, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_13d1e9e122940c03e732ecf831da001e->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_13d1e9e122940c03e732ecf831da001e, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_7fb60b5430bb29d2c60f04330d29e465,
+        frame_13d1e9e122940c03e732ecf831da001e,
         type_description_1,
         par_self,
         var_ret
@@ -13043,16 +13043,16 @@ static PyObject *impl_psutil$_pssunos$$$function__21__proc_basic_info(PyThreadSt
 
 
     // Release cached frame if used for exception.
-    if (frame_7fb60b5430bb29d2c60f04330d29e465 == cache_frame_7fb60b5430bb29d2c60f04330d29e465) {
+    if (frame_13d1e9e122940c03e732ecf831da001e == cache_frame_13d1e9e122940c03e732ecf831da001e) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_7fb60b5430bb29d2c60f04330d29e465);
-        cache_frame_7fb60b5430bb29d2c60f04330d29e465 = NULL;
+        Py_DECREF(cache_frame_13d1e9e122940c03e732ecf831da001e);
+        cache_frame_13d1e9e122940c03e732ecf831da001e = NULL;
     }
 
-    assertFrameObject(frame_7fb60b5430bb29d2c60f04330d29e465);
+    assertFrameObject(frame_13d1e9e122940c03e732ecf831da001e);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -13126,41 +13126,41 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_09a4d5f2263d020f0c85be2abd744c06;
+    struct Nuitka_FrameObject *frame_d08df6a25c4973f03d396129b5f7ecd2;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_09a4d5f2263d020f0c85be2abd744c06 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_d08df6a25c4973f03d396129b5f7ecd2 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_09a4d5f2263d020f0c85be2abd744c06)) {
-        Py_XDECREF(cache_frame_09a4d5f2263d020f0c85be2abd744c06);
+    if (isFrameUnusable(cache_frame_d08df6a25c4973f03d396129b5f7ecd2)) {
+        Py_XDECREF(cache_frame_d08df6a25c4973f03d396129b5f7ecd2);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_09a4d5f2263d020f0c85be2abd744c06 == NULL) {
+        if (cache_frame_d08df6a25c4973f03d396129b5f7ecd2 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_09a4d5f2263d020f0c85be2abd744c06 = MAKE_FUNCTION_FRAME(tstate, codeobj_09a4d5f2263d020f0c85be2abd744c06, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_d08df6a25c4973f03d396129b5f7ecd2 = MAKE_FUNCTION_FRAME(tstate, codeobj_d08df6a25c4973f03d396129b5f7ecd2, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_09a4d5f2263d020f0c85be2abd744c06->m_type_description == NULL);
-    frame_09a4d5f2263d020f0c85be2abd744c06 = cache_frame_09a4d5f2263d020f0c85be2abd744c06;
+    assert(cache_frame_d08df6a25c4973f03d396129b5f7ecd2->m_type_description == NULL);
+    frame_d08df6a25c4973f03d396129b5f7ecd2 = cache_frame_d08df6a25c4973f03d396129b5f7ecd2;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_09a4d5f2263d020f0c85be2abd744c06);
-    assert(Py_REFCNT(frame_09a4d5f2263d020f0c85be2abd744c06) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_d08df6a25c4973f03d396129b5f7ecd2);
+    assert(Py_REFCNT(frame_d08df6a25c4973f03d396129b5f7ecd2) == 2);
 
     // Framed code:
     {
@@ -13182,7 +13182,7 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 418;
+            exception_lineno = 436;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13193,7 +13193,7 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 418;
+            exception_lineno = 436;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13206,7 +13206,7 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 418;
+            exception_lineno = 436;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13220,11 +13220,11 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 418;
+            exception_lineno = 436;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_09a4d5f2263d020f0c85be2abd744c06->m_frame.f_lineno = 418;
+        frame_d08df6a25c4973f03d396129b5f7ecd2->m_frame.f_lineno = 436;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -13239,7 +13239,7 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 418;
+            exception_lineno = 436;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13261,30 +13261,30 @@ static PyObject *impl_psutil$_pssunos$$$function__22__proc_cred(PyThreadState *t
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_09a4d5f2263d020f0c85be2abd744c06, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_09a4d5f2263d020f0c85be2abd744c06->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_09a4d5f2263d020f0c85be2abd744c06, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_d08df6a25c4973f03d396129b5f7ecd2, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_d08df6a25c4973f03d396129b5f7ecd2->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_d08df6a25c4973f03d396129b5f7ecd2, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_09a4d5f2263d020f0c85be2abd744c06,
+        frame_d08df6a25c4973f03d396129b5f7ecd2,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_09a4d5f2263d020f0c85be2abd744c06 == cache_frame_09a4d5f2263d020f0c85be2abd744c06) {
+    if (frame_d08df6a25c4973f03d396129b5f7ecd2 == cache_frame_d08df6a25c4973f03d396129b5f7ecd2) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_09a4d5f2263d020f0c85be2abd744c06);
-        cache_frame_09a4d5f2263d020f0c85be2abd744c06 = NULL;
+        Py_DECREF(cache_frame_d08df6a25c4973f03d396129b5f7ecd2);
+        cache_frame_d08df6a25c4973f03d396129b5f7ecd2 = NULL;
     }
 
-    assertFrameObject(frame_09a4d5f2263d020f0c85be2abd744c06);
+    assertFrameObject(frame_d08df6a25c4973f03d396129b5f7ecd2);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -13325,41 +13325,41 @@ static PyObject *impl_psutil$_pssunos$$$function__23_name(PyThreadState *tstate,
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_9ae311f86f7e0dc2682ac1b52246c090;
+    struct Nuitka_FrameObject *frame_ae2c5750e835120ebfd50abc70f5742c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_9ae311f86f7e0dc2682ac1b52246c090 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ae2c5750e835120ebfd50abc70f5742c = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_9ae311f86f7e0dc2682ac1b52246c090)) {
-        Py_XDECREF(cache_frame_9ae311f86f7e0dc2682ac1b52246c090);
+    if (isFrameUnusable(cache_frame_ae2c5750e835120ebfd50abc70f5742c)) {
+        Py_XDECREF(cache_frame_ae2c5750e835120ebfd50abc70f5742c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9ae311f86f7e0dc2682ac1b52246c090 == NULL) {
+        if (cache_frame_ae2c5750e835120ebfd50abc70f5742c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9ae311f86f7e0dc2682ac1b52246c090 = MAKE_FUNCTION_FRAME(tstate, codeobj_9ae311f86f7e0dc2682ac1b52246c090, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_ae2c5750e835120ebfd50abc70f5742c = MAKE_FUNCTION_FRAME(tstate, codeobj_ae2c5750e835120ebfd50abc70f5742c, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_9ae311f86f7e0dc2682ac1b52246c090->m_type_description == NULL);
-    frame_9ae311f86f7e0dc2682ac1b52246c090 = cache_frame_9ae311f86f7e0dc2682ac1b52246c090;
+    assert(cache_frame_ae2c5750e835120ebfd50abc70f5742c->m_type_description == NULL);
+    frame_ae2c5750e835120ebfd50abc70f5742c = cache_frame_ae2c5750e835120ebfd50abc70f5742c;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_9ae311f86f7e0dc2682ac1b52246c090);
-    assert(Py_REFCNT(frame_9ae311f86f7e0dc2682ac1b52246c090) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ae2c5750e835120ebfd50abc70f5742c);
+    assert(Py_REFCNT(frame_ae2c5750e835120ebfd50abc70f5742c) == 2);
 
     // Framed code:
     {
@@ -13368,7 +13368,7 @@ static PyObject *impl_psutil$_pssunos$$$function__23_name(PyThreadState *tstate,
         PyObject *tmp_subscript_value_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_9ae311f86f7e0dc2682ac1b52246c090->m_frame.f_lineno = 423;
+        frame_ae2c5750e835120ebfd50abc70f5742c->m_frame.f_lineno = 441;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[125]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -13376,7 +13376,7 @@ static PyObject *impl_psutil$_pssunos$$$function__23_name(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 423;
+            exception_lineno = 441;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13389,7 +13389,7 @@ static PyObject *impl_psutil$_pssunos$$$function__23_name(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 423;
+            exception_lineno = 441;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13411,30 +13411,30 @@ static PyObject *impl_psutil$_pssunos$$$function__23_name(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9ae311f86f7e0dc2682ac1b52246c090, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9ae311f86f7e0dc2682ac1b52246c090->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9ae311f86f7e0dc2682ac1b52246c090, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ae2c5750e835120ebfd50abc70f5742c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ae2c5750e835120ebfd50abc70f5742c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ae2c5750e835120ebfd50abc70f5742c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9ae311f86f7e0dc2682ac1b52246c090,
+        frame_ae2c5750e835120ebfd50abc70f5742c,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_9ae311f86f7e0dc2682ac1b52246c090 == cache_frame_9ae311f86f7e0dc2682ac1b52246c090) {
+    if (frame_ae2c5750e835120ebfd50abc70f5742c == cache_frame_ae2c5750e835120ebfd50abc70f5742c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_9ae311f86f7e0dc2682ac1b52246c090);
-        cache_frame_9ae311f86f7e0dc2682ac1b52246c090 = NULL;
+        Py_DECREF(cache_frame_ae2c5750e835120ebfd50abc70f5742c);
+        cache_frame_ae2c5750e835120ebfd50abc70f5742c = NULL;
     }
 
-    assertFrameObject(frame_9ae311f86f7e0dc2682ac1b52246c090);
+    assertFrameObject(frame_ae2c5750e835120ebfd50abc70f5742c);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -13475,7 +13475,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_ce397c0ea09024ffb5e77a08d49ad00e;
+    struct Nuitka_FrameObject *frame_665fc2ee3b05178059351e5fba36bc5c;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
@@ -13494,34 +13494,34 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_ce397c0ea09024ffb5e77a08d49ad00e = NULL;
+    static struct Nuitka_FrameObject *cache_frame_665fc2ee3b05178059351e5fba36bc5c = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_ce397c0ea09024ffb5e77a08d49ad00e)) {
-        Py_XDECREF(cache_frame_ce397c0ea09024ffb5e77a08d49ad00e);
+    if (isFrameUnusable(cache_frame_665fc2ee3b05178059351e5fba36bc5c)) {
+        Py_XDECREF(cache_frame_665fc2ee3b05178059351e5fba36bc5c);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ce397c0ea09024ffb5e77a08d49ad00e == NULL) {
+        if (cache_frame_665fc2ee3b05178059351e5fba36bc5c == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ce397c0ea09024ffb5e77a08d49ad00e = MAKE_FUNCTION_FRAME(tstate, codeobj_ce397c0ea09024ffb5e77a08d49ad00e, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_665fc2ee3b05178059351e5fba36bc5c = MAKE_FUNCTION_FRAME(tstate, codeobj_665fc2ee3b05178059351e5fba36bc5c, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_ce397c0ea09024ffb5e77a08d49ad00e->m_type_description == NULL);
-    frame_ce397c0ea09024ffb5e77a08d49ad00e = cache_frame_ce397c0ea09024ffb5e77a08d49ad00e;
+    assert(cache_frame_665fc2ee3b05178059351e5fba36bc5c->m_type_description == NULL);
+    frame_665fc2ee3b05178059351e5fba36bc5c = cache_frame_665fc2ee3b05178059351e5fba36bc5c;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_ce397c0ea09024ffb5e77a08d49ad00e);
-    assert(Py_REFCNT(frame_ce397c0ea09024ffb5e77a08d49ad00e) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_665fc2ee3b05178059351e5fba36bc5c);
+    assert(Py_REFCNT(frame_665fc2ee3b05178059351e5fba36bc5c) == 2);
 
     // Framed code:
     // Tried code:
@@ -13547,7 +13547,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 428;
+            exception_lineno = 446;
             type_description_1 = "o";
             goto try_except_handler_1;
         }
@@ -13561,7 +13561,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 429;
+            exception_lineno = 447;
             type_description_1 = "o";
             goto try_except_handler_1;
         }
@@ -13578,7 +13578,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 429;
+                exception_lineno = 447;
                 type_description_1 = "o";
                 goto tuple_build_exception_1;
             }
@@ -13600,11 +13600,11 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 429;
+            exception_lineno = 447;
             type_description_1 = "o";
             goto try_except_handler_1;
         }
-        frame_ce397c0ea09024ffb5e77a08d49ad00e->m_frame.f_lineno = 428;
+        frame_665fc2ee3b05178059351e5fba36bc5c->m_frame.f_lineno = 446;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_1);
         Py_DECREF(tmp_args_element_value_1);
@@ -13614,7 +13614,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 428;
+            exception_lineno = 446;
             type_description_1 = "o";
             goto try_except_handler_1;
         }
@@ -13637,9 +13637,9 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_ce397c0ea09024ffb5e77a08d49ad00e, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_665fc2ee3b05178059351e5fba36bc5c, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_ce397c0ea09024ffb5e77a08d49ad00e, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_665fc2ee3b05178059351e5fba36bc5c, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -13662,10 +13662,10 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
     branch_yes_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 427;
+        exception_lineno = 445;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_ce397c0ea09024ffb5e77a08d49ad00e->m_frame) frame_ce397c0ea09024ffb5e77a08d49ad00e->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_665fc2ee3b05178059351e5fba36bc5c->m_frame) frame_665fc2ee3b05178059351e5fba36bc5c->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "o";
     goto try_except_handler_2;
     branch_no_1:;
@@ -13706,7 +13706,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
         PyObject *tmp_call_result_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ce397c0ea09024ffb5e77a08d49ad00e->m_frame.f_lineno = 435;
+        frame_665fc2ee3b05178059351e5fba36bc5c->m_frame.f_lineno = 454;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[137]);
         if (tmp_call_result_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -13714,7 +13714,7 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 435;
+            exception_lineno = 454;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13736,30 +13736,30 @@ static PyObject *impl_psutil$_pssunos$$$function__24_exe(PyThreadState *tstate, 
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ce397c0ea09024ffb5e77a08d49ad00e, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ce397c0ea09024ffb5e77a08d49ad00e->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ce397c0ea09024ffb5e77a08d49ad00e, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_665fc2ee3b05178059351e5fba36bc5c, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_665fc2ee3b05178059351e5fba36bc5c->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_665fc2ee3b05178059351e5fba36bc5c, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ce397c0ea09024ffb5e77a08d49ad00e,
+        frame_665fc2ee3b05178059351e5fba36bc5c,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_ce397c0ea09024ffb5e77a08d49ad00e == cache_frame_ce397c0ea09024ffb5e77a08d49ad00e) {
+    if (frame_665fc2ee3b05178059351e5fba36bc5c == cache_frame_665fc2ee3b05178059351e5fba36bc5c) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_ce397c0ea09024ffb5e77a08d49ad00e);
-        cache_frame_ce397c0ea09024ffb5e77a08d49ad00e = NULL;
+        Py_DECREF(cache_frame_665fc2ee3b05178059351e5fba36bc5c);
+        cache_frame_665fc2ee3b05178059351e5fba36bc5c = NULL;
     }
 
-    assertFrameObject(frame_ce397c0ea09024ffb5e77a08d49ad00e);
+    assertFrameObject(frame_665fc2ee3b05178059351e5fba36bc5c);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -13803,41 +13803,41 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_ba8662640dfc521b7ee8470c21141338;
+    struct Nuitka_FrameObject *frame_7135a20500bba001896a3f9052727be8;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ba8662640dfc521b7ee8470c21141338 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7135a20500bba001896a3f9052727be8 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_ba8662640dfc521b7ee8470c21141338)) {
-        Py_XDECREF(cache_frame_ba8662640dfc521b7ee8470c21141338);
+    if (isFrameUnusable(cache_frame_7135a20500bba001896a3f9052727be8)) {
+        Py_XDECREF(cache_frame_7135a20500bba001896a3f9052727be8);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ba8662640dfc521b7ee8470c21141338 == NULL) {
+        if (cache_frame_7135a20500bba001896a3f9052727be8 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ba8662640dfc521b7ee8470c21141338 = MAKE_FUNCTION_FRAME(tstate, codeobj_ba8662640dfc521b7ee8470c21141338, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_7135a20500bba001896a3f9052727be8 = MAKE_FUNCTION_FRAME(tstate, codeobj_7135a20500bba001896a3f9052727be8, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_ba8662640dfc521b7ee8470c21141338->m_type_description == NULL);
-    frame_ba8662640dfc521b7ee8470c21141338 = cache_frame_ba8662640dfc521b7ee8470c21141338;
+    assert(cache_frame_7135a20500bba001896a3f9052727be8->m_type_description == NULL);
+    frame_7135a20500bba001896a3f9052727be8 = cache_frame_7135a20500bba001896a3f9052727be8;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_ba8662640dfc521b7ee8470c21141338);
-    assert(Py_REFCNT(frame_ba8662640dfc521b7ee8470c21141338) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_7135a20500bba001896a3f9052727be8);
+    assert(Py_REFCNT(frame_7135a20500bba001896a3f9052727be8) == 2);
 
     // Framed code:
     {
@@ -13848,7 +13848,7 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
         PyObject *tmp_subscript_value_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_ba8662640dfc521b7ee8470c21141338->m_frame.f_lineno = 440;
+        frame_7135a20500bba001896a3f9052727be8->m_frame.f_lineno = 459;
         tmp_expression_value_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[125]);
         if (tmp_expression_value_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -13856,7 +13856,7 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 440;
+            exception_lineno = 459;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13869,7 +13869,7 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 440;
+            exception_lineno = 459;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13881,11 +13881,11 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 440;
+            exception_lineno = 459;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_ba8662640dfc521b7ee8470c21141338->m_frame.f_lineno = 440;
+        frame_7135a20500bba001896a3f9052727be8->m_frame.f_lineno = 459;
         tmp_return_value = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_1, mod_consts[139]);
 
         Py_DECREF(tmp_called_value_1);
@@ -13895,7 +13895,7 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 440;
+            exception_lineno = 459;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -13917,30 +13917,30 @@ static PyObject *impl_psutil$_pssunos$$$function__25_cmdline(PyThreadState *tsta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ba8662640dfc521b7ee8470c21141338, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ba8662640dfc521b7ee8470c21141338->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ba8662640dfc521b7ee8470c21141338, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7135a20500bba001896a3f9052727be8, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7135a20500bba001896a3f9052727be8->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7135a20500bba001896a3f9052727be8, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ba8662640dfc521b7ee8470c21141338,
+        frame_7135a20500bba001896a3f9052727be8,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_ba8662640dfc521b7ee8470c21141338 == cache_frame_ba8662640dfc521b7ee8470c21141338) {
+    if (frame_7135a20500bba001896a3f9052727be8 == cache_frame_7135a20500bba001896a3f9052727be8) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_ba8662640dfc521b7ee8470c21141338);
-        cache_frame_ba8662640dfc521b7ee8470c21141338 = NULL;
+        Py_DECREF(cache_frame_7135a20500bba001896a3f9052727be8);
+        cache_frame_7135a20500bba001896a3f9052727be8 = NULL;
     }
 
-    assertFrameObject(frame_ba8662640dfc521b7ee8470c21141338);
+    assertFrameObject(frame_7135a20500bba001896a3f9052727be8);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -13981,41 +13981,41 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c;
+    struct Nuitka_FrameObject *frame_ee885307799e4f0bc9deab5403c04aa4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ee885307799e4f0bc9deab5403c04aa4 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c)) {
-        Py_XDECREF(cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c);
+    if (isFrameUnusable(cache_frame_ee885307799e4f0bc9deab5403c04aa4)) {
+        Py_XDECREF(cache_frame_ee885307799e4f0bc9deab5403c04aa4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c == NULL) {
+        if (cache_frame_ee885307799e4f0bc9deab5403c04aa4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c = MAKE_FUNCTION_FRAME(tstate, codeobj_ba1d4c0dd1c5c0777cba58a2c5f62d8c, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_ee885307799e4f0bc9deab5403c04aa4 = MAKE_FUNCTION_FRAME(tstate, codeobj_ee885307799e4f0bc9deab5403c04aa4, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c->m_type_description == NULL);
-    frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c = cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c;
+    assert(cache_frame_ee885307799e4f0bc9deab5403c04aa4->m_type_description == NULL);
+    frame_ee885307799e4f0bc9deab5403c04aa4 = cache_frame_ee885307799e4f0bc9deab5403c04aa4;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c);
-    assert(Py_REFCNT(frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ee885307799e4f0bc9deab5403c04aa4);
+    assert(Py_REFCNT(frame_ee885307799e4f0bc9deab5403c04aa4) == 2);
 
     // Framed code:
     {
@@ -14037,7 +14037,7 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 444;
+            exception_lineno = 463;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14048,7 +14048,7 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 444;
+            exception_lineno = 463;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14061,7 +14061,7 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 444;
+            exception_lineno = 463;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14075,11 +14075,11 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 444;
+            exception_lineno = 463;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c->m_frame.f_lineno = 444;
+        frame_ee885307799e4f0bc9deab5403c04aa4->m_frame.f_lineno = 463;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -14094,7 +14094,7 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 444;
+            exception_lineno = 463;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14116,30 +14116,30 @@ static PyObject *impl_psutil$_pssunos$$$function__26_environ(PyThreadState *tsta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ee885307799e4f0bc9deab5403c04aa4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ee885307799e4f0bc9deab5403c04aa4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ee885307799e4f0bc9deab5403c04aa4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c,
+        frame_ee885307799e4f0bc9deab5403c04aa4,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c == cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c) {
+    if (frame_ee885307799e4f0bc9deab5403c04aa4 == cache_frame_ee885307799e4f0bc9deab5403c04aa4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c);
-        cache_frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c = NULL;
+        Py_DECREF(cache_frame_ee885307799e4f0bc9deab5403c04aa4);
+        cache_frame_ee885307799e4f0bc9deab5403c04aa4 = NULL;
     }
 
-    assertFrameObject(frame_ba1d4c0dd1c5c0777cba58a2c5f62d8c);
+    assertFrameObject(frame_ee885307799e4f0bc9deab5403c04aa4);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -14180,41 +14180,41 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_b9098b8a864723cfa072df1502674798;
+    struct Nuitka_FrameObject *frame_7a97f4837842de343df3c0db2de20f43;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_b9098b8a864723cfa072df1502674798 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7a97f4837842de343df3c0db2de20f43 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_b9098b8a864723cfa072df1502674798)) {
-        Py_XDECREF(cache_frame_b9098b8a864723cfa072df1502674798);
+    if (isFrameUnusable(cache_frame_7a97f4837842de343df3c0db2de20f43)) {
+        Py_XDECREF(cache_frame_7a97f4837842de343df3c0db2de20f43);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_b9098b8a864723cfa072df1502674798 == NULL) {
+        if (cache_frame_7a97f4837842de343df3c0db2de20f43 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_b9098b8a864723cfa072df1502674798 = MAKE_FUNCTION_FRAME(tstate, codeobj_b9098b8a864723cfa072df1502674798, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_7a97f4837842de343df3c0db2de20f43 = MAKE_FUNCTION_FRAME(tstate, codeobj_7a97f4837842de343df3c0db2de20f43, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_b9098b8a864723cfa072df1502674798->m_type_description == NULL);
-    frame_b9098b8a864723cfa072df1502674798 = cache_frame_b9098b8a864723cfa072df1502674798;
+    assert(cache_frame_7a97f4837842de343df3c0db2de20f43->m_type_description == NULL);
+    frame_7a97f4837842de343df3c0db2de20f43 = cache_frame_7a97f4837842de343df3c0db2de20f43;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_b9098b8a864723cfa072df1502674798);
-    assert(Py_REFCNT(frame_b9098b8a864723cfa072df1502674798) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_7a97f4837842de343df3c0db2de20f43);
+    assert(Py_REFCNT(frame_7a97f4837842de343df3c0db2de20f43) == 2);
 
     // Framed code:
     {
@@ -14225,7 +14225,7 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_b9098b8a864723cfa072df1502674798->m_frame.f_lineno = 448;
+        frame_7a97f4837842de343df3c0db2de20f43->m_frame.f_lineno = 467;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -14233,7 +14233,7 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 448;
+            exception_lineno = 467;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14249,7 +14249,7 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 448;
+            exception_lineno = 467;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14261,7 +14261,7 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 448;
+            exception_lineno = 467;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14274,7 +14274,7 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 448;
+            exception_lineno = 467;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14296,30 +14296,30 @@ static PyObject *impl_psutil$_pssunos$$$function__27_create_time(PyThreadState *
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_b9098b8a864723cfa072df1502674798, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_b9098b8a864723cfa072df1502674798->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_b9098b8a864723cfa072df1502674798, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7a97f4837842de343df3c0db2de20f43, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7a97f4837842de343df3c0db2de20f43->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7a97f4837842de343df3c0db2de20f43, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_b9098b8a864723cfa072df1502674798,
+        frame_7a97f4837842de343df3c0db2de20f43,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_b9098b8a864723cfa072df1502674798 == cache_frame_b9098b8a864723cfa072df1502674798) {
+    if (frame_7a97f4837842de343df3c0db2de20f43 == cache_frame_7a97f4837842de343df3c0db2de20f43) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_b9098b8a864723cfa072df1502674798);
-        cache_frame_b9098b8a864723cfa072df1502674798 = NULL;
+        Py_DECREF(cache_frame_7a97f4837842de343df3c0db2de20f43);
+        cache_frame_7a97f4837842de343df3c0db2de20f43 = NULL;
     }
 
-    assertFrameObject(frame_b9098b8a864723cfa072df1502674798);
+    assertFrameObject(frame_7a97f4837842de343df3c0db2de20f43);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -14360,41 +14360,41 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_037784cdcef637e5fc51d92e19fa720a;
+    struct Nuitka_FrameObject *frame_4710f5cb11f0b888135b34396328af84;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_037784cdcef637e5fc51d92e19fa720a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_4710f5cb11f0b888135b34396328af84 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_037784cdcef637e5fc51d92e19fa720a)) {
-        Py_XDECREF(cache_frame_037784cdcef637e5fc51d92e19fa720a);
+    if (isFrameUnusable(cache_frame_4710f5cb11f0b888135b34396328af84)) {
+        Py_XDECREF(cache_frame_4710f5cb11f0b888135b34396328af84);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_037784cdcef637e5fc51d92e19fa720a == NULL) {
+        if (cache_frame_4710f5cb11f0b888135b34396328af84 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_037784cdcef637e5fc51d92e19fa720a = MAKE_FUNCTION_FRAME(tstate, codeobj_037784cdcef637e5fc51d92e19fa720a, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_4710f5cb11f0b888135b34396328af84 = MAKE_FUNCTION_FRAME(tstate, codeobj_4710f5cb11f0b888135b34396328af84, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_037784cdcef637e5fc51d92e19fa720a->m_type_description == NULL);
-    frame_037784cdcef637e5fc51d92e19fa720a = cache_frame_037784cdcef637e5fc51d92e19fa720a;
+    assert(cache_frame_4710f5cb11f0b888135b34396328af84->m_type_description == NULL);
+    frame_4710f5cb11f0b888135b34396328af84 = cache_frame_4710f5cb11f0b888135b34396328af84;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_037784cdcef637e5fc51d92e19fa720a);
-    assert(Py_REFCNT(frame_037784cdcef637e5fc51d92e19fa720a) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_4710f5cb11f0b888135b34396328af84);
+    assert(Py_REFCNT(frame_4710f5cb11f0b888135b34396328af84) == 2);
 
     // Framed code:
     {
@@ -14405,7 +14405,7 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_037784cdcef637e5fc51d92e19fa720a->m_frame.f_lineno = 452;
+        frame_4710f5cb11f0b888135b34396328af84->m_frame.f_lineno = 471;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -14413,7 +14413,7 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 452;
+            exception_lineno = 471;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14429,7 +14429,7 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 452;
+            exception_lineno = 471;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14441,7 +14441,7 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 452;
+            exception_lineno = 471;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14454,7 +14454,7 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 452;
+            exception_lineno = 471;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14476,30 +14476,30 @@ static PyObject *impl_psutil$_pssunos$$$function__28_num_threads(PyThreadState *
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_037784cdcef637e5fc51d92e19fa720a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_037784cdcef637e5fc51d92e19fa720a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_037784cdcef637e5fc51d92e19fa720a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_4710f5cb11f0b888135b34396328af84, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_4710f5cb11f0b888135b34396328af84->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_4710f5cb11f0b888135b34396328af84, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_037784cdcef637e5fc51d92e19fa720a,
+        frame_4710f5cb11f0b888135b34396328af84,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_037784cdcef637e5fc51d92e19fa720a == cache_frame_037784cdcef637e5fc51d92e19fa720a) {
+    if (frame_4710f5cb11f0b888135b34396328af84 == cache_frame_4710f5cb11f0b888135b34396328af84) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_037784cdcef637e5fc51d92e19fa720a);
-        cache_frame_037784cdcef637e5fc51d92e19fa720a = NULL;
+        Py_DECREF(cache_frame_4710f5cb11f0b888135b34396328af84);
+        cache_frame_4710f5cb11f0b888135b34396328af84 = NULL;
     }
 
-    assertFrameObject(frame_037784cdcef637e5fc51d92e19fa720a);
+    assertFrameObject(frame_4710f5cb11f0b888135b34396328af84);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -14540,41 +14540,41 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_213d44dca8b4e5598787cc3a589e6ff9;
+    struct Nuitka_FrameObject *frame_07cba1cd7fe6b51afa77bb5af6273aa4;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_213d44dca8b4e5598787cc3a589e6ff9 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_213d44dca8b4e5598787cc3a589e6ff9)) {
-        Py_XDECREF(cache_frame_213d44dca8b4e5598787cc3a589e6ff9);
+    if (isFrameUnusable(cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4)) {
+        Py_XDECREF(cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_213d44dca8b4e5598787cc3a589e6ff9 == NULL) {
+        if (cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_213d44dca8b4e5598787cc3a589e6ff9 = MAKE_FUNCTION_FRAME(tstate, codeobj_213d44dca8b4e5598787cc3a589e6ff9, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4 = MAKE_FUNCTION_FRAME(tstate, codeobj_07cba1cd7fe6b51afa77bb5af6273aa4, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_213d44dca8b4e5598787cc3a589e6ff9->m_type_description == NULL);
-    frame_213d44dca8b4e5598787cc3a589e6ff9 = cache_frame_213d44dca8b4e5598787cc3a589e6ff9;
+    assert(cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4->m_type_description == NULL);
+    frame_07cba1cd7fe6b51afa77bb5af6273aa4 = cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_213d44dca8b4e5598787cc3a589e6ff9);
-    assert(Py_REFCNT(frame_213d44dca8b4e5598787cc3a589e6ff9) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_07cba1cd7fe6b51afa77bb5af6273aa4);
+    assert(Py_REFCNT(frame_07cba1cd7fe6b51afa77bb5af6273aa4) == 2);
 
     // Framed code:
     {
@@ -14585,7 +14585,7 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_213d44dca8b4e5598787cc3a589e6ff9->m_frame.f_lineno = 459;
+        frame_07cba1cd7fe6b51afa77bb5af6273aa4->m_frame.f_lineno = 478;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -14593,7 +14593,7 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 459;
+            exception_lineno = 478;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14609,7 +14609,7 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 459;
+            exception_lineno = 478;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14621,7 +14621,7 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 459;
+            exception_lineno = 478;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14634,7 +14634,7 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 459;
+            exception_lineno = 478;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -14656,30 +14656,30 @@ static PyObject *impl_psutil$_pssunos$$$function__29_nice_get(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_213d44dca8b4e5598787cc3a589e6ff9, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_213d44dca8b4e5598787cc3a589e6ff9->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_213d44dca8b4e5598787cc3a589e6ff9, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_07cba1cd7fe6b51afa77bb5af6273aa4, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_07cba1cd7fe6b51afa77bb5af6273aa4->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_07cba1cd7fe6b51afa77bb5af6273aa4, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_213d44dca8b4e5598787cc3a589e6ff9,
+        frame_07cba1cd7fe6b51afa77bb5af6273aa4,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_213d44dca8b4e5598787cc3a589e6ff9 == cache_frame_213d44dca8b4e5598787cc3a589e6ff9) {
+    if (frame_07cba1cd7fe6b51afa77bb5af6273aa4 == cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_213d44dca8b4e5598787cc3a589e6ff9);
-        cache_frame_213d44dca8b4e5598787cc3a589e6ff9 = NULL;
+        Py_DECREF(cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4);
+        cache_frame_07cba1cd7fe6b51afa77bb5af6273aa4 = NULL;
     }
 
-    assertFrameObject(frame_213d44dca8b4e5598787cc3a589e6ff9);
+    assertFrameObject(frame_07cba1cd7fe6b51afa77bb5af6273aa4);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -14721,7 +14721,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_value = python_pars[1];
-    struct Nuitka_FrameObject *frame_9bc7f8f462e3c94075ad05f3a2778683;
+    struct Nuitka_FrameObject *frame_cd31de1c02449f22994bb60fb234b201;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -14729,34 +14729,34 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_9bc7f8f462e3c94075ad05f3a2778683 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_cd31de1c02449f22994bb60fb234b201 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_9bc7f8f462e3c94075ad05f3a2778683)) {
-        Py_XDECREF(cache_frame_9bc7f8f462e3c94075ad05f3a2778683);
+    if (isFrameUnusable(cache_frame_cd31de1c02449f22994bb60fb234b201)) {
+        Py_XDECREF(cache_frame_cd31de1c02449f22994bb60fb234b201);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_9bc7f8f462e3c94075ad05f3a2778683 == NULL) {
+        if (cache_frame_cd31de1c02449f22994bb60fb234b201 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_9bc7f8f462e3c94075ad05f3a2778683 = MAKE_FUNCTION_FRAME(tstate, codeobj_9bc7f8f462e3c94075ad05f3a2778683, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_cd31de1c02449f22994bb60fb234b201 = MAKE_FUNCTION_FRAME(tstate, codeobj_cd31de1c02449f22994bb60fb234b201, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_9bc7f8f462e3c94075ad05f3a2778683->m_type_description == NULL);
-    frame_9bc7f8f462e3c94075ad05f3a2778683 = cache_frame_9bc7f8f462e3c94075ad05f3a2778683;
+    assert(cache_frame_cd31de1c02449f22994bb60fb234b201->m_type_description == NULL);
+    frame_cd31de1c02449f22994bb60fb234b201 = cache_frame_cd31de1c02449f22994bb60fb234b201;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_9bc7f8f462e3c94075ad05f3a2778683);
-    assert(Py_REFCNT(frame_9bc7f8f462e3c94075ad05f3a2778683) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_cd31de1c02449f22994bb60fb234b201);
+    assert(Py_REFCNT(frame_cd31de1c02449f22994bb60fb234b201) == 2);
 
     // Framed code:
     {
@@ -14773,7 +14773,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 463;
+            exception_lineno = 482;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14786,7 +14786,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 463;
+            exception_lineno = 482;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14817,7 +14817,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 468;
+            exception_lineno = 487;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14830,7 +14830,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 468;
+            exception_lineno = 487;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14843,11 +14843,11 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 468;
+            exception_lineno = 487;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_9bc7f8f462e3c94075ad05f3a2778683->m_frame.f_lineno = 468;
+        frame_cd31de1c02449f22994bb60fb234b201->m_frame.f_lineno = 487;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_raise_type_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -14861,12 +14861,12 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 468;
+            exception_lineno = 487;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
         exception_type = tmp_raise_type_1;
-        exception_lineno = 468;
+        exception_lineno = 487;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &exception_type, &exception_value, &exception_tb);
         type_description_1 = "oo";
         goto frame_exception_exit_1;
@@ -14890,7 +14890,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 469;
+            exception_lineno = 488;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14901,7 +14901,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 469;
+            exception_lineno = 488;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14914,13 +14914,13 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 469;
+            exception_lineno = 488;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_value);
         tmp_args_element_value_4 = par_value;
-        frame_9bc7f8f462e3c94075ad05f3a2778683->m_frame.f_lineno = 469;
+        frame_cd31de1c02449f22994bb60fb234b201->m_frame.f_lineno = 488;
         {
             PyObject *call_args[] = {tmp_args_element_value_3, tmp_args_element_value_4};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_2, call_args);
@@ -14934,7 +14934,7 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 469;
+            exception_lineno = 488;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -14956,14 +14956,14 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_9bc7f8f462e3c94075ad05f3a2778683, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_9bc7f8f462e3c94075ad05f3a2778683->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_9bc7f8f462e3c94075ad05f3a2778683, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_cd31de1c02449f22994bb60fb234b201, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_cd31de1c02449f22994bb60fb234b201->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_cd31de1c02449f22994bb60fb234b201, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_9bc7f8f462e3c94075ad05f3a2778683,
+        frame_cd31de1c02449f22994bb60fb234b201,
         type_description_1,
         par_self,
         par_value
@@ -14971,16 +14971,16 @@ static PyObject *impl_psutil$_pssunos$$$function__30_nice_set(PyThreadState *tst
 
 
     // Release cached frame if used for exception.
-    if (frame_9bc7f8f462e3c94075ad05f3a2778683 == cache_frame_9bc7f8f462e3c94075ad05f3a2778683) {
+    if (frame_cd31de1c02449f22994bb60fb234b201 == cache_frame_cd31de1c02449f22994bb60fb234b201) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_9bc7f8f462e3c94075ad05f3a2778683);
-        cache_frame_9bc7f8f462e3c94075ad05f3a2778683 = NULL;
+        Py_DECREF(cache_frame_cd31de1c02449f22994bb60fb234b201);
+        cache_frame_cd31de1c02449f22994bb60fb234b201 = NULL;
     }
 
-    assertFrameObject(frame_9bc7f8f462e3c94075ad05f3a2778683);
+    assertFrameObject(frame_cd31de1c02449f22994bb60fb234b201);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -15025,7 +15025,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_412f2e87176f47c0dada538deec377dc;
+    struct Nuitka_FrameObject *frame_376189636c587e3d62e2b3d5180bb5d3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -15033,34 +15033,34 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     bool tmp_result;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_412f2e87176f47c0dada538deec377dc = NULL;
+    static struct Nuitka_FrameObject *cache_frame_376189636c587e3d62e2b3d5180bb5d3 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_412f2e87176f47c0dada538deec377dc)) {
-        Py_XDECREF(cache_frame_412f2e87176f47c0dada538deec377dc);
+    if (isFrameUnusable(cache_frame_376189636c587e3d62e2b3d5180bb5d3)) {
+        Py_XDECREF(cache_frame_376189636c587e3d62e2b3d5180bb5d3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_412f2e87176f47c0dada538deec377dc == NULL) {
+        if (cache_frame_376189636c587e3d62e2b3d5180bb5d3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_412f2e87176f47c0dada538deec377dc = MAKE_FUNCTION_FRAME(tstate, codeobj_412f2e87176f47c0dada538deec377dc, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_376189636c587e3d62e2b3d5180bb5d3 = MAKE_FUNCTION_FRAME(tstate, codeobj_376189636c587e3d62e2b3d5180bb5d3, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_412f2e87176f47c0dada538deec377dc->m_type_description == NULL);
-    frame_412f2e87176f47c0dada538deec377dc = cache_frame_412f2e87176f47c0dada538deec377dc;
+    assert(cache_frame_376189636c587e3d62e2b3d5180bb5d3->m_type_description == NULL);
+    frame_376189636c587e3d62e2b3d5180bb5d3 = cache_frame_376189636c587e3d62e2b3d5180bb5d3;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_412f2e87176f47c0dada538deec377dc);
-    assert(Py_REFCNT(frame_412f2e87176f47c0dada538deec377dc) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_376189636c587e3d62e2b3d5180bb5d3);
+    assert(Py_REFCNT(frame_376189636c587e3d62e2b3d5180bb5d3) == 2);
 
     // Framed code:
     {
@@ -15073,7 +15073,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
         PyObject *tmp_assattr_target_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_412f2e87176f47c0dada538deec377dc->m_frame.f_lineno = 473;
+        frame_376189636c587e3d62e2b3d5180bb5d3->m_frame.f_lineno = 492;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -15081,7 +15081,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 473;
+            exception_lineno = 492;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15097,7 +15097,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 473;
+            exception_lineno = 492;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15109,7 +15109,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 473;
+            exception_lineno = 492;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15122,7 +15122,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 473;
+            exception_lineno = 492;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15136,7 +15136,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 473;
+            exception_lineno = 492;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15152,7 +15152,7 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 474;
+            exception_lineno = 493;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -15174,30 +15174,30 @@ static PyObject *impl_psutil$_pssunos$$$function__31_ppid(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_412f2e87176f47c0dada538deec377dc, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_412f2e87176f47c0dada538deec377dc->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_412f2e87176f47c0dada538deec377dc, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_376189636c587e3d62e2b3d5180bb5d3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_376189636c587e3d62e2b3d5180bb5d3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_376189636c587e3d62e2b3d5180bb5d3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_412f2e87176f47c0dada538deec377dc,
+        frame_376189636c587e3d62e2b3d5180bb5d3,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_412f2e87176f47c0dada538deec377dc == cache_frame_412f2e87176f47c0dada538deec377dc) {
+    if (frame_376189636c587e3d62e2b3d5180bb5d3 == cache_frame_376189636c587e3d62e2b3d5180bb5d3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_412f2e87176f47c0dada538deec377dc);
-        cache_frame_412f2e87176f47c0dada538deec377dc = NULL;
+        Py_DECREF(cache_frame_376189636c587e3d62e2b3d5180bb5d3);
+        cache_frame_376189636c587e3d62e2b3d5180bb5d3 = NULL;
     }
 
-    assertFrameObject(frame_412f2e87176f47c0dada538deec377dc);
+    assertFrameObject(frame_376189636c587e3d62e2b3d5180bb5d3);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -15249,7 +15249,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
     PyObject *tmp_tuple_unpack_1__element_5 = NULL;
     PyObject *tmp_tuple_unpack_1__element_6 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_669ef695f972ab953d7fe7898ed0e7ee;
+    struct Nuitka_FrameObject *frame_285bdab126217a2d373c881ff19841c0;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -15276,7 +15276,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_669ef695f972ab953d7fe7898ed0e7ee = NULL;
+    static struct Nuitka_FrameObject *cache_frame_285bdab126217a2d373c881ff19841c0 = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -15284,31 +15284,31 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_669ef695f972ab953d7fe7898ed0e7ee)) {
-        Py_XDECREF(cache_frame_669ef695f972ab953d7fe7898ed0e7ee);
+    if (isFrameUnusable(cache_frame_285bdab126217a2d373c881ff19841c0)) {
+        Py_XDECREF(cache_frame_285bdab126217a2d373c881ff19841c0);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_669ef695f972ab953d7fe7898ed0e7ee == NULL) {
+        if (cache_frame_285bdab126217a2d373c881ff19841c0 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_669ef695f972ab953d7fe7898ed0e7ee = MAKE_FUNCTION_FRAME(tstate, codeobj_669ef695f972ab953d7fe7898ed0e7ee, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_285bdab126217a2d373c881ff19841c0 = MAKE_FUNCTION_FRAME(tstate, codeobj_285bdab126217a2d373c881ff19841c0, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_669ef695f972ab953d7fe7898ed0e7ee->m_type_description == NULL);
-    frame_669ef695f972ab953d7fe7898ed0e7ee = cache_frame_669ef695f972ab953d7fe7898ed0e7ee;
+    assert(cache_frame_285bdab126217a2d373c881ff19841c0->m_type_description == NULL);
+    frame_285bdab126217a2d373c881ff19841c0 = cache_frame_285bdab126217a2d373c881ff19841c0;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_669ef695f972ab953d7fe7898ed0e7ee);
-    assert(Py_REFCNT(frame_669ef695f972ab953d7fe7898ed0e7ee) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_285bdab126217a2d373c881ff19841c0);
+    assert(Py_REFCNT(frame_285bdab126217a2d373c881ff19841c0) == 2);
 
     // Framed code:
     // Tried code:
@@ -15319,7 +15319,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame.f_lineno = 479;
+        frame_285bdab126217a2d373c881ff19841c0->m_frame.f_lineno = 498;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[128]);
         if (tmp_iter_arg_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -15327,7 +15327,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 479;
+            exception_lineno = 498;
             type_description_1 = "ooooo";
             goto try_except_handler_3;
         }
@@ -15339,7 +15339,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 479;
+            exception_lineno = 498;
             type_description_1 = "ooooo";
             goto try_except_handler_3;
         }
@@ -15365,7 +15365,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_1 == NULL);
@@ -15389,7 +15389,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_2 == NULL);
@@ -15413,7 +15413,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_3 == NULL);
@@ -15437,7 +15437,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_4 == NULL);
@@ -15461,7 +15461,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_5 == NULL);
@@ -15485,7 +15485,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_6 == NULL);
@@ -15510,7 +15510,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooo";
-                    exception_lineno = 479;
+                    exception_lineno = 498;
                     goto try_except_handler_4;
                 }
             }
@@ -15524,7 +15524,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             exception_tb = NULL;
 
             type_description_1 = "ooooo";
-            exception_lineno = 479;
+            exception_lineno = 498;
             goto try_except_handler_4;
         }
     }
@@ -15680,9 +15680,9 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_669ef695f972ab953d7fe7898ed0e7ee, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_285bdab126217a2d373c881ff19841c0, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_669ef695f972ab953d7fe7898ed0e7ee, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_285bdab126217a2d373c881ff19841c0, exception_keeper_lineno_3);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -15704,7 +15704,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 480;
+            exception_lineno = 499;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15715,7 +15715,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 480;
+            exception_lineno = 499;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15736,7 +15736,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_2 = par_self;
-        frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame.f_lineno = 481;
+        frame_285bdab126217a2d373c881ff19841c0->m_frame.f_lineno = 500;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_2, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -15744,7 +15744,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 481;
+            exception_lineno = 500;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15760,7 +15760,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 481;
+            exception_lineno = 500;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15772,7 +15772,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 481;
+            exception_lineno = 500;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15785,7 +15785,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 481;
+            exception_lineno = 500;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15801,7 +15801,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
         PyObject *tmp_subscript_value_4;
         CHECK_OBJECT(par_self);
         tmp_called_instance_3 = par_self;
-        frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame.f_lineno = 482;
+        frame_285bdab126217a2d373c881ff19841c0->m_frame.f_lineno = 501;
         tmp_expression_value_3 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_3, mod_consts[127]);
         if (tmp_expression_value_3 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -15809,7 +15809,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 482;
+            exception_lineno = 501;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15825,7 +15825,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_3);
 
-            exception_lineno = 482;
+            exception_lineno = 501;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15837,7 +15837,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_3);
 
-            exception_lineno = 482;
+            exception_lineno = 501;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15850,7 +15850,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 482;
+            exception_lineno = 501;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -15868,10 +15868,10 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 478;
+        exception_lineno = 497;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame) frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_285bdab126217a2d373c881ff19841c0->m_frame) frame_285bdab126217a2d373c881ff19841c0->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooo";
     goto try_except_handler_5;
     branch_end_1:;
@@ -15924,7 +15924,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 484;
+            exception_lineno = 503;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -15934,7 +15934,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
         tmp_args_element_value_2 = var_effective;
         CHECK_OBJECT(var_saved);
         tmp_args_element_value_3 = var_saved;
-        frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame.f_lineno = 484;
+        frame_285bdab126217a2d373c881ff19841c0->m_frame.f_lineno = 503;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_return_value = CALL_METHOD_WITH_ARGS3(
@@ -15951,7 +15951,7 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 484;
+            exception_lineno = 503;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -15973,14 +15973,14 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_669ef695f972ab953d7fe7898ed0e7ee, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_669ef695f972ab953d7fe7898ed0e7ee->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_669ef695f972ab953d7fe7898ed0e7ee, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_285bdab126217a2d373c881ff19841c0, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_285bdab126217a2d373c881ff19841c0->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_285bdab126217a2d373c881ff19841c0, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_669ef695f972ab953d7fe7898ed0e7ee,
+        frame_285bdab126217a2d373c881ff19841c0,
         type_description_1,
         par_self,
         var_real,
@@ -15991,16 +15991,16 @@ static PyObject *impl_psutil$_pssunos$$$function__32_uids(PyThreadState *tstate,
 
 
     // Release cached frame if used for exception.
-    if (frame_669ef695f972ab953d7fe7898ed0e7ee == cache_frame_669ef695f972ab953d7fe7898ed0e7ee) {
+    if (frame_285bdab126217a2d373c881ff19841c0 == cache_frame_285bdab126217a2d373c881ff19841c0) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_669ef695f972ab953d7fe7898ed0e7ee);
-        cache_frame_669ef695f972ab953d7fe7898ed0e7ee = NULL;
+        Py_DECREF(cache_frame_285bdab126217a2d373c881ff19841c0);
+        cache_frame_285bdab126217a2d373c881ff19841c0 = NULL;
     }
 
-    assertFrameObject(frame_669ef695f972ab953d7fe7898ed0e7ee);
+    assertFrameObject(frame_285bdab126217a2d373c881ff19841c0);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -16095,7 +16095,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
     PyObject *tmp_tuple_unpack_1__element_5 = NULL;
     PyObject *tmp_tuple_unpack_1__element_6 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_05ea36a55a6759ce2ed14909b1c0de1f;
+    struct Nuitka_FrameObject *frame_7be5c9e8d3783528b7a527851b0b643f;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16122,7 +16122,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
     PyTracebackObject *exception_keeper_tb_4;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_4;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_05ea36a55a6759ce2ed14909b1c0de1f = NULL;
+    static struct Nuitka_FrameObject *cache_frame_7be5c9e8d3783528b7a527851b0b643f = NULL;
     PyObject *exception_keeper_type_5;
     PyObject *exception_keeper_value_5;
     PyTracebackObject *exception_keeper_tb_5;
@@ -16130,31 +16130,31 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_05ea36a55a6759ce2ed14909b1c0de1f)) {
-        Py_XDECREF(cache_frame_05ea36a55a6759ce2ed14909b1c0de1f);
+    if (isFrameUnusable(cache_frame_7be5c9e8d3783528b7a527851b0b643f)) {
+        Py_XDECREF(cache_frame_7be5c9e8d3783528b7a527851b0b643f);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_05ea36a55a6759ce2ed14909b1c0de1f == NULL) {
+        if (cache_frame_7be5c9e8d3783528b7a527851b0b643f == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_05ea36a55a6759ce2ed14909b1c0de1f = MAKE_FUNCTION_FRAME(tstate, codeobj_05ea36a55a6759ce2ed14909b1c0de1f, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_7be5c9e8d3783528b7a527851b0b643f = MAKE_FUNCTION_FRAME(tstate, codeobj_7be5c9e8d3783528b7a527851b0b643f, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_05ea36a55a6759ce2ed14909b1c0de1f->m_type_description == NULL);
-    frame_05ea36a55a6759ce2ed14909b1c0de1f = cache_frame_05ea36a55a6759ce2ed14909b1c0de1f;
+    assert(cache_frame_7be5c9e8d3783528b7a527851b0b643f->m_type_description == NULL);
+    frame_7be5c9e8d3783528b7a527851b0b643f = cache_frame_7be5c9e8d3783528b7a527851b0b643f;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_05ea36a55a6759ce2ed14909b1c0de1f);
-    assert(Py_REFCNT(frame_05ea36a55a6759ce2ed14909b1c0de1f) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_7be5c9e8d3783528b7a527851b0b643f);
+    assert(Py_REFCNT(frame_7be5c9e8d3783528b7a527851b0b643f) == 2);
 
     // Framed code:
     // Tried code:
@@ -16165,7 +16165,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame.f_lineno = 489;
+        frame_7be5c9e8d3783528b7a527851b0b643f->m_frame.f_lineno = 508;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[128]);
         if (tmp_iter_arg_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -16173,7 +16173,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 489;
+            exception_lineno = 508;
             type_description_1 = "ooooo";
             goto try_except_handler_3;
         }
@@ -16185,7 +16185,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 489;
+            exception_lineno = 508;
             type_description_1 = "ooooo";
             goto try_except_handler_3;
         }
@@ -16211,7 +16211,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_1 == NULL);
@@ -16235,7 +16235,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_2 == NULL);
@@ -16259,7 +16259,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_3 == NULL);
@@ -16283,7 +16283,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_4 == NULL);
@@ -16307,7 +16307,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_5 == NULL);
@@ -16331,7 +16331,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
         assert(tmp_tuple_unpack_1__element_6 == NULL);
@@ -16356,7 +16356,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooo";
-                    exception_lineno = 489;
+                    exception_lineno = 508;
                     goto try_except_handler_4;
                 }
             }
@@ -16370,7 +16370,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             exception_tb = NULL;
 
             type_description_1 = "ooooo";
-            exception_lineno = 489;
+            exception_lineno = 508;
             goto try_except_handler_4;
         }
     }
@@ -16526,9 +16526,9 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_05ea36a55a6759ce2ed14909b1c0de1f, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_7be5c9e8d3783528b7a527851b0b643f, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_05ea36a55a6759ce2ed14909b1c0de1f, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_7be5c9e8d3783528b7a527851b0b643f, exception_keeper_lineno_3);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -16550,7 +16550,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 490;
+            exception_lineno = 509;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16561,7 +16561,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 490;
+            exception_lineno = 509;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16582,7 +16582,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_2 = par_self;
-        frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame.f_lineno = 491;
+        frame_7be5c9e8d3783528b7a527851b0b643f->m_frame.f_lineno = 510;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_2, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -16590,7 +16590,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 491;
+            exception_lineno = 510;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16606,7 +16606,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 491;
+            exception_lineno = 510;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16618,7 +16618,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 491;
+            exception_lineno = 510;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16631,7 +16631,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 491;
+            exception_lineno = 510;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16647,7 +16647,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
         PyObject *tmp_subscript_value_4;
         CHECK_OBJECT(par_self);
         tmp_called_instance_3 = par_self;
-        frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame.f_lineno = 492;
+        frame_7be5c9e8d3783528b7a527851b0b643f->m_frame.f_lineno = 511;
         tmp_expression_value_3 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_3, mod_consts[127]);
         if (tmp_expression_value_3 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -16655,7 +16655,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 492;
+            exception_lineno = 511;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16671,7 +16671,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_3);
 
-            exception_lineno = 492;
+            exception_lineno = 511;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16683,7 +16683,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_3);
 
-            exception_lineno = 492;
+            exception_lineno = 511;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16696,7 +16696,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 492;
+            exception_lineno = 511;
             type_description_1 = "ooooo";
             goto try_except_handler_5;
         }
@@ -16714,10 +16714,10 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 488;
+        exception_lineno = 507;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame) frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_7be5c9e8d3783528b7a527851b0b643f->m_frame) frame_7be5c9e8d3783528b7a527851b0b643f->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooo";
     goto try_except_handler_5;
     branch_end_1:;
@@ -16770,7 +16770,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 494;
+            exception_lineno = 513;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -16780,7 +16780,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
         tmp_args_element_value_2 = var_effective;
         CHECK_OBJECT(var_saved);
         tmp_args_element_value_3 = var_saved;
-        frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame.f_lineno = 494;
+        frame_7be5c9e8d3783528b7a527851b0b643f->m_frame.f_lineno = 513;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_return_value = CALL_METHOD_WITH_ARGS3(
@@ -16797,7 +16797,7 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 494;
+            exception_lineno = 513;
             type_description_1 = "ooooo";
             goto frame_exception_exit_1;
         }
@@ -16819,14 +16819,14 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_05ea36a55a6759ce2ed14909b1c0de1f, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_05ea36a55a6759ce2ed14909b1c0de1f->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_05ea36a55a6759ce2ed14909b1c0de1f, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_7be5c9e8d3783528b7a527851b0b643f, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_7be5c9e8d3783528b7a527851b0b643f->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_7be5c9e8d3783528b7a527851b0b643f, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_05ea36a55a6759ce2ed14909b1c0de1f,
+        frame_7be5c9e8d3783528b7a527851b0b643f,
         type_description_1,
         par_self,
         var__,
@@ -16837,16 +16837,16 @@ static PyObject *impl_psutil$_pssunos$$$function__33_gids(PyThreadState *tstate,
 
 
     // Release cached frame if used for exception.
-    if (frame_05ea36a55a6759ce2ed14909b1c0de1f == cache_frame_05ea36a55a6759ce2ed14909b1c0de1f) {
+    if (frame_7be5c9e8d3783528b7a527851b0b643f == cache_frame_7be5c9e8d3783528b7a527851b0b643f) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_05ea36a55a6759ce2ed14909b1c0de1f);
-        cache_frame_05ea36a55a6759ce2ed14909b1c0de1f = NULL;
+        Py_DECREF(cache_frame_7be5c9e8d3783528b7a527851b0b643f);
+        cache_frame_7be5c9e8d3783528b7a527851b0b643f = NULL;
     }
 
-    assertFrameObject(frame_05ea36a55a6759ce2ed14909b1c0de1f);
+    assertFrameObject(frame_7be5c9e8d3783528b7a527851b0b643f);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -16932,7 +16932,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
     PyObject *par_self = python_pars[0];
     PyObject *var_times = NULL;
     PyObject *var_err = NULL;
-    struct Nuitka_FrameObject *frame_f4f9dfd44e90817a21d95ceaaa1abbdd;
+    struct Nuitka_FrameObject *frame_aec0473e48b1faf5f4964f09235d9c97;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -16954,7 +16954,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd = NULL;
+    static struct Nuitka_FrameObject *cache_frame_aec0473e48b1faf5f4964f09235d9c97 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -16962,31 +16962,31 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd)) {
-        Py_XDECREF(cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd);
+    if (isFrameUnusable(cache_frame_aec0473e48b1faf5f4964f09235d9c97)) {
+        Py_XDECREF(cache_frame_aec0473e48b1faf5f4964f09235d9c97);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd == NULL) {
+        if (cache_frame_aec0473e48b1faf5f4964f09235d9c97 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd = MAKE_FUNCTION_FRAME(tstate, codeobj_f4f9dfd44e90817a21d95ceaaa1abbdd, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_aec0473e48b1faf5f4964f09235d9c97 = MAKE_FUNCTION_FRAME(tstate, codeobj_aec0473e48b1faf5f4964f09235d9c97, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_type_description == NULL);
-    frame_f4f9dfd44e90817a21d95ceaaa1abbdd = cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd;
+    assert(cache_frame_aec0473e48b1faf5f4964f09235d9c97->m_type_description == NULL);
+    frame_aec0473e48b1faf5f4964f09235d9c97 = cache_frame_aec0473e48b1faf5f4964f09235d9c97;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_f4f9dfd44e90817a21d95ceaaa1abbdd);
-    assert(Py_REFCNT(frame_f4f9dfd44e90817a21d95ceaaa1abbdd) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_aec0473e48b1faf5f4964f09235d9c97);
+    assert(Py_REFCNT(frame_aec0473e48b1faf5f4964f09235d9c97) == 2);
 
     // Framed code:
     // Tried code:
@@ -17010,7 +17010,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 499;
+            exception_lineno = 518;
             type_description_1 = "ooo";
             goto try_except_handler_2;
         }
@@ -17021,7 +17021,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 499;
+            exception_lineno = 518;
             type_description_1 = "ooo";
             goto try_except_handler_2;
         }
@@ -17034,7 +17034,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 499;
+            exception_lineno = 518;
             type_description_1 = "ooo";
             goto try_except_handler_2;
         }
@@ -17048,11 +17048,11 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 499;
+            exception_lineno = 518;
             type_description_1 = "ooo";
             goto try_except_handler_2;
         }
-        frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame.f_lineno = 499;
+        frame_aec0473e48b1faf5f4964f09235d9c97->m_frame.f_lineno = 518;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_assign_source_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -17067,7 +17067,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 499;
+            exception_lineno = 518;
             type_description_1 = "ooo";
             goto try_except_handler_2;
         }
@@ -17090,9 +17090,9 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_f4f9dfd44e90817a21d95ceaaa1abbdd, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_aec0473e48b1faf5f4964f09235d9c97, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_f4f9dfd44e90817a21d95ceaaa1abbdd, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_aec0473e48b1faf5f4964f09235d9c97, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -17140,7 +17140,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17156,7 +17156,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17167,7 +17167,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17180,7 +17180,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17191,7 +17191,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17213,7 +17213,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17224,7 +17224,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 501;
+            exception_lineno = 520;
             type_description_1 = "ooo";
             goto try_except_handler_4;
         }
@@ -17252,10 +17252,10 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
     branch_no_2:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 511;
+        exception_lineno = 530;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame) frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_aec0473e48b1faf5f4964f09235d9c97->m_frame) frame_aec0473e48b1faf5f4964f09235d9c97->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooo";
     goto try_except_handler_4;
     branch_end_2:;
@@ -17290,10 +17290,10 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 498;
+        exception_lineno = 517;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame) frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_aec0473e48b1faf5f4964f09235d9c97->m_frame) frame_aec0473e48b1faf5f4964f09235d9c97->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -17345,7 +17345,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 512;
+            exception_lineno = 531;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -17356,7 +17356,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 512;
+            exception_lineno = 531;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -17374,7 +17374,7 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 512;
+            exception_lineno = 531;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -17396,14 +17396,14 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_f4f9dfd44e90817a21d95ceaaa1abbdd, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_f4f9dfd44e90817a21d95ceaaa1abbdd->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_f4f9dfd44e90817a21d95ceaaa1abbdd, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_aec0473e48b1faf5f4964f09235d9c97, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_aec0473e48b1faf5f4964f09235d9c97->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_aec0473e48b1faf5f4964f09235d9c97, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_f4f9dfd44e90817a21d95ceaaa1abbdd,
+        frame_aec0473e48b1faf5f4964f09235d9c97,
         type_description_1,
         par_self,
         var_times,
@@ -17412,16 +17412,16 @@ static PyObject *impl_psutil$_pssunos$$$function__34_cpu_times(PyThreadState *ts
 
 
     // Release cached frame if used for exception.
-    if (frame_f4f9dfd44e90817a21d95ceaaa1abbdd == cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd) {
+    if (frame_aec0473e48b1faf5f4964f09235d9c97 == cache_frame_aec0473e48b1faf5f4964f09235d9c97) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd);
-        cache_frame_f4f9dfd44e90817a21d95ceaaa1abbdd = NULL;
+        Py_DECREF(cache_frame_aec0473e48b1faf5f4964f09235d9c97);
+        cache_frame_aec0473e48b1faf5f4964f09235d9c97 = NULL;
     }
 
-    assertFrameObject(frame_f4f9dfd44e90817a21d95ceaaa1abbdd);
+    assertFrameObject(frame_aec0473e48b1faf5f4964f09235d9c97);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -17491,41 +17491,41 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_401a935459c1f348ce81688b8e9b8065;
+    struct Nuitka_FrameObject *frame_82db513a99ad7d540ececf3a94fa3c2b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_401a935459c1f348ce81688b8e9b8065 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_82db513a99ad7d540ececf3a94fa3c2b = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_401a935459c1f348ce81688b8e9b8065)) {
-        Py_XDECREF(cache_frame_401a935459c1f348ce81688b8e9b8065);
+    if (isFrameUnusable(cache_frame_82db513a99ad7d540ececf3a94fa3c2b)) {
+        Py_XDECREF(cache_frame_82db513a99ad7d540ececf3a94fa3c2b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_401a935459c1f348ce81688b8e9b8065 == NULL) {
+        if (cache_frame_82db513a99ad7d540ececf3a94fa3c2b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_401a935459c1f348ce81688b8e9b8065 = MAKE_FUNCTION_FRAME(tstate, codeobj_401a935459c1f348ce81688b8e9b8065, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_82db513a99ad7d540ececf3a94fa3c2b = MAKE_FUNCTION_FRAME(tstate, codeobj_82db513a99ad7d540ececf3a94fa3c2b, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_401a935459c1f348ce81688b8e9b8065->m_type_description == NULL);
-    frame_401a935459c1f348ce81688b8e9b8065 = cache_frame_401a935459c1f348ce81688b8e9b8065;
+    assert(cache_frame_82db513a99ad7d540ececf3a94fa3c2b->m_type_description == NULL);
+    frame_82db513a99ad7d540ececf3a94fa3c2b = cache_frame_82db513a99ad7d540ececf3a94fa3c2b;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_401a935459c1f348ce81688b8e9b8065);
-    assert(Py_REFCNT(frame_401a935459c1f348ce81688b8e9b8065) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_82db513a99ad7d540ececf3a94fa3c2b);
+    assert(Py_REFCNT(frame_82db513a99ad7d540ececf3a94fa3c2b) == 2);
 
     // Framed code:
     {
@@ -17547,7 +17547,7 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 516;
+            exception_lineno = 535;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -17558,7 +17558,7 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 516;
+            exception_lineno = 535;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -17571,7 +17571,7 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 516;
+            exception_lineno = 535;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -17585,11 +17585,11 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 516;
+            exception_lineno = 535;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_401a935459c1f348ce81688b8e9b8065->m_frame.f_lineno = 516;
+        frame_82db513a99ad7d540ececf3a94fa3c2b->m_frame.f_lineno = 535;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -17604,7 +17604,7 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 516;
+            exception_lineno = 535;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -17626,30 +17626,30 @@ static PyObject *impl_psutil$_pssunos$$$function__35_cpu_num(PyThreadState *tsta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_401a935459c1f348ce81688b8e9b8065, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_401a935459c1f348ce81688b8e9b8065->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_401a935459c1f348ce81688b8e9b8065, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_82db513a99ad7d540ececf3a94fa3c2b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_82db513a99ad7d540ececf3a94fa3c2b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_82db513a99ad7d540ececf3a94fa3c2b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_401a935459c1f348ce81688b8e9b8065,
+        frame_82db513a99ad7d540ececf3a94fa3c2b,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_401a935459c1f348ce81688b8e9b8065 == cache_frame_401a935459c1f348ce81688b8e9b8065) {
+    if (frame_82db513a99ad7d540ececf3a94fa3c2b == cache_frame_82db513a99ad7d540ececf3a94fa3c2b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_401a935459c1f348ce81688b8e9b8065);
-        cache_frame_401a935459c1f348ce81688b8e9b8065 = NULL;
+        Py_DECREF(cache_frame_82db513a99ad7d540ececf3a94fa3c2b);
+        cache_frame_82db513a99ad7d540ececf3a94fa3c2b = NULL;
     }
 
-    assertFrameObject(frame_401a935459c1f348ce81688b8e9b8065);
+    assertFrameObject(frame_82db513a99ad7d540ececf3a94fa3c2b);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -17696,7 +17696,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
     PyObject *var_x = NULL;
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
-    struct Nuitka_FrameObject *frame_0f406780b93400fdb870d96f37c40b38;
+    struct Nuitka_FrameObject *frame_35271d63e2a88dc94796bf32ca3cf3bd;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -17719,7 +17719,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     NUITKA_MAY_BE_UNUSED nuitka_void tmp_unused;
-    static struct Nuitka_FrameObject *cache_frame_0f406780b93400fdb870d96f37c40b38 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_35271d63e2a88dc94796bf32ca3cf3bd = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -17727,31 +17727,31 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_0f406780b93400fdb870d96f37c40b38)) {
-        Py_XDECREF(cache_frame_0f406780b93400fdb870d96f37c40b38);
+    if (isFrameUnusable(cache_frame_35271d63e2a88dc94796bf32ca3cf3bd)) {
+        Py_XDECREF(cache_frame_35271d63e2a88dc94796bf32ca3cf3bd);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_0f406780b93400fdb870d96f37c40b38 == NULL) {
+        if (cache_frame_35271d63e2a88dc94796bf32ca3cf3bd == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_0f406780b93400fdb870d96f37c40b38 = MAKE_FUNCTION_FRAME(tstate, codeobj_0f406780b93400fdb870d96f37c40b38, module_psutil$_pssunos, sizeof(nuitka_bool)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_35271d63e2a88dc94796bf32ca3cf3bd = MAKE_FUNCTION_FRAME(tstate, codeobj_35271d63e2a88dc94796bf32ca3cf3bd, module_psutil$_pssunos, sizeof(nuitka_bool)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_0f406780b93400fdb870d96f37c40b38->m_type_description == NULL);
-    frame_0f406780b93400fdb870d96f37c40b38 = cache_frame_0f406780b93400fdb870d96f37c40b38;
+    assert(cache_frame_35271d63e2a88dc94796bf32ca3cf3bd->m_type_description == NULL);
+    frame_35271d63e2a88dc94796bf32ca3cf3bd = cache_frame_35271d63e2a88dc94796bf32ca3cf3bd;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_0f406780b93400fdb870d96f37c40b38);
-    assert(Py_REFCNT(frame_0f406780b93400fdb870d96f37c40b38) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_35271d63e2a88dc94796bf32ca3cf3bd);
+    assert(Py_REFCNT(frame_35271d63e2a88dc94796bf32ca3cf3bd) == 2);
 
     // Framed code:
     {
@@ -17766,7 +17766,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 520;
+            exception_lineno = 539;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17799,13 +17799,13 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 522;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_0f406780b93400fdb870d96f37c40b38->m_frame.f_lineno = 523;
+        frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame.f_lineno = 541;
         tmp_expression_value_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -17813,7 +17813,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 523;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17829,7 +17829,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_2);
 
-            exception_lineno = 523;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17841,7 +17841,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_2);
 
-            exception_lineno = 523;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17854,11 +17854,11 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 523;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
-        frame_0f406780b93400fdb870d96f37c40b38->m_frame.f_lineno = 522;
+        frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame.f_lineno = 541;
         tmp_assign_source_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_args_element_value_1);
         if (tmp_assign_source_3 == NULL) {
@@ -17867,7 +17867,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 522;
+            exception_lineno = 541;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17893,7 +17893,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 524;
+            exception_lineno = 542;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17904,7 +17904,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 524;
+            exception_lineno = 542;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17916,7 +17916,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 524;
+            exception_lineno = 542;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -17952,7 +17952,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "ooboo";
-                exception_lineno = 525;
+                exception_lineno = 543;
                 goto try_except_handler_2;
             }
         }
@@ -17996,7 +17996,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 527;
+            exception_lineno = 545;
             type_description_1 = "ooboo";
             goto try_except_handler_3;
         }
@@ -18007,7 +18007,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 527;
+            exception_lineno = 545;
             type_description_1 = "ooboo";
             goto try_except_handler_3;
         }
@@ -18025,7 +18025,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
                 NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(tstate, exception_value);
 
-                exception_lineno = 528;
+                exception_lineno = 546;
                 type_description_1 = "ooboo";
                 goto tuple_build_exception_1;
             }
@@ -18038,7 +18038,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 528;
+                exception_lineno = 546;
                 type_description_1 = "ooboo";
                 goto tuple_build_exception_1;
             }
@@ -18063,11 +18063,11 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 528;
+            exception_lineno = 546;
             type_description_1 = "ooboo";
             goto try_except_handler_3;
         }
-        frame_0f406780b93400fdb870d96f37c40b38->m_frame.f_lineno = 527;
+        frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame.f_lineno = 545;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_2);
         Py_DECREF(tmp_called_value_2);
         Py_DECREF(tmp_args_element_value_2);
@@ -18077,7 +18077,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 527;
+            exception_lineno = 545;
             type_description_1 = "ooboo";
             goto try_except_handler_3;
         }
@@ -18100,9 +18100,9 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_0f406780b93400fdb870d96f37c40b38, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_35271d63e2a88dc94796bf32ca3cf3bd, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_0f406780b93400fdb870d96f37c40b38, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_35271d63e2a88dc94796bf32ca3cf3bd, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -18124,7 +18124,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 529;
+            exception_lineno = 548;
             type_description_1 = "ooboo";
             goto try_except_handler_4;
         }
@@ -18135,7 +18135,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 529;
+            exception_lineno = 548;
             type_description_1 = "ooboo";
             goto try_except_handler_4;
         }
@@ -18157,10 +18157,10 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
     branch_no_2:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 526;
+        exception_lineno = 544;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_0f406780b93400fdb870d96f37c40b38->m_frame) frame_0f406780b93400fdb870d96f37c40b38->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame) frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooboo";
     goto try_except_handler_4;
     branch_end_2:;
@@ -18201,7 +18201,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 525;
+        exception_lineno = 543;
         type_description_1 = "ooboo";
         goto try_except_handler_2;
     }
@@ -18257,7 +18257,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 532;
+            exception_lineno = 551;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -18280,13 +18280,13 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 533;
+            exception_lineno = 552;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
 
         tmp_called_instance_2 = par_self;
-        frame_0f406780b93400fdb870d96f37c40b38->m_frame.f_lineno = 533;
+        frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame.f_lineno = 552;
         tmp_call_result_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_2, mod_consts[167]);
         if (tmp_call_result_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -18294,7 +18294,7 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 533;
+            exception_lineno = 552;
             type_description_1 = "ooboo";
             goto frame_exception_exit_1;
         }
@@ -18317,14 +18317,14 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_0f406780b93400fdb870d96f37c40b38, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_0f406780b93400fdb870d96f37c40b38->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_0f406780b93400fdb870d96f37c40b38, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_35271d63e2a88dc94796bf32ca3cf3bd, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_35271d63e2a88dc94796bf32ca3cf3bd->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_35271d63e2a88dc94796bf32ca3cf3bd, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_0f406780b93400fdb870d96f37c40b38,
+        frame_35271d63e2a88dc94796bf32ca3cf3bd,
         type_description_1,
         par_self,
         var_procfs_path,
@@ -18335,16 +18335,16 @@ static PyObject *impl_psutil$_pssunos$$$function__36_terminal(PyThreadState *tst
 
 
     // Release cached frame if used for exception.
-    if (frame_0f406780b93400fdb870d96f37c40b38 == cache_frame_0f406780b93400fdb870d96f37c40b38) {
+    if (frame_35271d63e2a88dc94796bf32ca3cf3bd == cache_frame_35271d63e2a88dc94796bf32ca3cf3bd) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_0f406780b93400fdb870d96f37c40b38);
-        cache_frame_0f406780b93400fdb870d96f37c40b38 = NULL;
+        Py_DECREF(cache_frame_35271d63e2a88dc94796bf32ca3cf3bd);
+        cache_frame_35271d63e2a88dc94796bf32ca3cf3bd = NULL;
     }
 
-    assertFrameObject(frame_0f406780b93400fdb870d96f37c40b38);
+    assertFrameObject(frame_35271d63e2a88dc94796bf32ca3cf3bd);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -18429,7 +18429,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_procfs_path = NULL;
-    struct Nuitka_FrameObject *frame_4d5e86138d93278a1339552d29819e7a;
+    struct Nuitka_FrameObject *frame_9b9986a92f42b00c1815b674dc361283;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -18448,7 +18448,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
     PyObject *exception_keeper_value_2;
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
-    static struct Nuitka_FrameObject *cache_frame_4d5e86138d93278a1339552d29819e7a = NULL;
+    static struct Nuitka_FrameObject *cache_frame_9b9986a92f42b00c1815b674dc361283 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -18456,31 +18456,31 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_4d5e86138d93278a1339552d29819e7a)) {
-        Py_XDECREF(cache_frame_4d5e86138d93278a1339552d29819e7a);
+    if (isFrameUnusable(cache_frame_9b9986a92f42b00c1815b674dc361283)) {
+        Py_XDECREF(cache_frame_9b9986a92f42b00c1815b674dc361283);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_4d5e86138d93278a1339552d29819e7a == NULL) {
+        if (cache_frame_9b9986a92f42b00c1815b674dc361283 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_4d5e86138d93278a1339552d29819e7a = MAKE_FUNCTION_FRAME(tstate, codeobj_4d5e86138d93278a1339552d29819e7a, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_9b9986a92f42b00c1815b674dc361283 = MAKE_FUNCTION_FRAME(tstate, codeobj_9b9986a92f42b00c1815b674dc361283, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_4d5e86138d93278a1339552d29819e7a->m_type_description == NULL);
-    frame_4d5e86138d93278a1339552d29819e7a = cache_frame_4d5e86138d93278a1339552d29819e7a;
+    assert(cache_frame_9b9986a92f42b00c1815b674dc361283->m_type_description == NULL);
+    frame_9b9986a92f42b00c1815b674dc361283 = cache_frame_9b9986a92f42b00c1815b674dc361283;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_4d5e86138d93278a1339552d29819e7a);
-    assert(Py_REFCNT(frame_4d5e86138d93278a1339552d29819e7a) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_9b9986a92f42b00c1815b674dc361283);
+    assert(Py_REFCNT(frame_9b9986a92f42b00c1815b674dc361283) == 2);
 
     // Framed code:
     {
@@ -18495,7 +18495,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 541;
+            exception_lineno = 560;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -18524,7 +18524,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 543;
+            exception_lineno = 562;
             type_description_1 = "oo";
             goto try_except_handler_2;
         }
@@ -18544,7 +18544,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 543;
+                exception_lineno = 562;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
@@ -18566,11 +18566,11 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 543;
+            exception_lineno = 562;
             type_description_1 = "oo";
             goto try_except_handler_2;
         }
-        frame_4d5e86138d93278a1339552d29819e7a->m_frame.f_lineno = 543;
+        frame_9b9986a92f42b00c1815b674dc361283->m_frame.f_lineno = 562;
         tmp_return_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_1);
         Py_DECREF(tmp_args_element_value_1);
@@ -18580,7 +18580,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 543;
+            exception_lineno = 562;
             type_description_1 = "oo";
             goto try_except_handler_2;
         }
@@ -18603,9 +18603,9 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_4d5e86138d93278a1339552d29819e7a, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_9b9986a92f42b00c1815b674dc361283, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_4d5e86138d93278a1339552d29819e7a, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_9b9986a92f42b00c1815b674dc361283, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -18627,7 +18627,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 544;
+            exception_lineno = 563;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
@@ -18638,7 +18638,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 544;
+            exception_lineno = 563;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
@@ -18670,7 +18670,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 545;
+            exception_lineno = 564;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
@@ -18681,7 +18681,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 545;
+            exception_lineno = 564;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
@@ -18701,7 +18701,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 545;
+                exception_lineno = 564;
                 type_description_1 = "oo";
                 goto tuple_build_exception_2;
             }
@@ -18723,11 +18723,11 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 545;
+            exception_lineno = 564;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
-        frame_4d5e86138d93278a1339552d29819e7a->m_frame.f_lineno = 545;
+        frame_9b9986a92f42b00c1815b674dc361283->m_frame.f_lineno = 564;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_2);
         Py_DECREF(tmp_called_value_2);
         Py_DECREF(tmp_args_element_value_2);
@@ -18737,7 +18737,7 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 545;
+            exception_lineno = 564;
             type_description_1 = "oo";
             goto try_except_handler_3;
         }
@@ -18750,10 +18750,10 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 542;
+        exception_lineno = 561;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_4d5e86138d93278a1339552d29819e7a->m_frame) frame_4d5e86138d93278a1339552d29819e7a->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_9b9986a92f42b00c1815b674dc361283->m_frame) frame_9b9986a92f42b00c1815b674dc361283->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -18804,14 +18804,14 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_4d5e86138d93278a1339552d29819e7a, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_4d5e86138d93278a1339552d29819e7a->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_4d5e86138d93278a1339552d29819e7a, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_9b9986a92f42b00c1815b674dc361283, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_9b9986a92f42b00c1815b674dc361283->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_9b9986a92f42b00c1815b674dc361283, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_4d5e86138d93278a1339552d29819e7a,
+        frame_9b9986a92f42b00c1815b674dc361283,
         type_description_1,
         par_self,
         var_procfs_path
@@ -18819,16 +18819,16 @@ static PyObject *impl_psutil$_pssunos$$$function__37_cwd(PyThreadState *tstate, 
 
 
     // Release cached frame if used for exception.
-    if (frame_4d5e86138d93278a1339552d29819e7a == cache_frame_4d5e86138d93278a1339552d29819e7a) {
+    if (frame_9b9986a92f42b00c1815b674dc361283 == cache_frame_9b9986a92f42b00c1815b674dc361283) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_4d5e86138d93278a1339552d29819e7a);
-        cache_frame_4d5e86138d93278a1339552d29819e7a = NULL;
+        Py_DECREF(cache_frame_9b9986a92f42b00c1815b674dc361283);
+        cache_frame_9b9986a92f42b00c1815b674dc361283 = NULL;
     }
 
-    assertFrameObject(frame_4d5e86138d93278a1339552d29819e7a);
+    assertFrameObject(frame_9b9986a92f42b00c1815b674dc361283);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -18901,14 +18901,14 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
     PyObject *var_ret = NULL;
     PyObject *var_rss = NULL;
     PyObject *var_vms = NULL;
-    struct Nuitka_FrameObject *frame_8ee908c9710a172531e029f307419ae6;
+    struct Nuitka_FrameObject *frame_a8da812569bb670b8509cd41a97b54c1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_8ee908c9710a172531e029f307419ae6 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a8da812569bb670b8509cd41a97b54c1 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -18916,31 +18916,31 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_8ee908c9710a172531e029f307419ae6)) {
-        Py_XDECREF(cache_frame_8ee908c9710a172531e029f307419ae6);
+    if (isFrameUnusable(cache_frame_a8da812569bb670b8509cd41a97b54c1)) {
+        Py_XDECREF(cache_frame_a8da812569bb670b8509cd41a97b54c1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_8ee908c9710a172531e029f307419ae6 == NULL) {
+        if (cache_frame_a8da812569bb670b8509cd41a97b54c1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_8ee908c9710a172531e029f307419ae6 = MAKE_FUNCTION_FRAME(tstate, codeobj_8ee908c9710a172531e029f307419ae6, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a8da812569bb670b8509cd41a97b54c1 = MAKE_FUNCTION_FRAME(tstate, codeobj_a8da812569bb670b8509cd41a97b54c1, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_8ee908c9710a172531e029f307419ae6->m_type_description == NULL);
-    frame_8ee908c9710a172531e029f307419ae6 = cache_frame_8ee908c9710a172531e029f307419ae6;
+    assert(cache_frame_a8da812569bb670b8509cd41a97b54c1->m_type_description == NULL);
+    frame_a8da812569bb670b8509cd41a97b54c1 = cache_frame_a8da812569bb670b8509cd41a97b54c1;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_8ee908c9710a172531e029f307419ae6);
-    assert(Py_REFCNT(frame_8ee908c9710a172531e029f307419ae6) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_a8da812569bb670b8509cd41a97b54c1);
+    assert(Py_REFCNT(frame_a8da812569bb670b8509cd41a97b54c1) == 2);
 
     // Framed code:
     {
@@ -18948,7 +18948,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_8ee908c9710a172531e029f307419ae6->m_frame.f_lineno = 550;
+        frame_a8da812569bb670b8509cd41a97b54c1->m_frame.f_lineno = 569;
         tmp_assign_source_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_assign_source_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -18956,7 +18956,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 550;
+            exception_lineno = 569;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -18985,7 +18985,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 551;
+            exception_lineno = 570;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -18997,7 +18997,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 551;
+            exception_lineno = 570;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19009,7 +19009,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 551;
+            exception_lineno = 570;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19022,7 +19022,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 551;
+            exception_lineno = 570;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19051,7 +19051,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 552;
+            exception_lineno = 571;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19063,7 +19063,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 552;
+            exception_lineno = 571;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19075,7 +19075,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 552;
+            exception_lineno = 571;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19088,7 +19088,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 552;
+            exception_lineno = 571;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19111,7 +19111,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 553;
+            exception_lineno = 572;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19119,7 +19119,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
         tmp_args_element_value_1 = var_rss;
         CHECK_OBJECT(var_vms);
         tmp_args_element_value_2 = var_vms;
-        frame_8ee908c9710a172531e029f307419ae6->m_frame.f_lineno = 553;
+        frame_a8da812569bb670b8509cd41a97b54c1->m_frame.f_lineno = 572;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -19131,7 +19131,7 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 553;
+            exception_lineno = 572;
             type_description_1 = "oooo";
             goto frame_exception_exit_1;
         }
@@ -19153,14 +19153,14 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_8ee908c9710a172531e029f307419ae6, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_8ee908c9710a172531e029f307419ae6->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_8ee908c9710a172531e029f307419ae6, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a8da812569bb670b8509cd41a97b54c1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a8da812569bb670b8509cd41a97b54c1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a8da812569bb670b8509cd41a97b54c1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_8ee908c9710a172531e029f307419ae6,
+        frame_a8da812569bb670b8509cd41a97b54c1,
         type_description_1,
         par_self,
         var_ret,
@@ -19170,16 +19170,16 @@ static PyObject *impl_psutil$_pssunos$$$function__38_memory_info(PyThreadState *
 
 
     // Release cached frame if used for exception.
-    if (frame_8ee908c9710a172531e029f307419ae6 == cache_frame_8ee908c9710a172531e029f307419ae6) {
+    if (frame_a8da812569bb670b8509cd41a97b54c1 == cache_frame_a8da812569bb670b8509cd41a97b54c1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_8ee908c9710a172531e029f307419ae6);
-        cache_frame_8ee908c9710a172531e029f307419ae6 = NULL;
+        Py_DECREF(cache_frame_a8da812569bb670b8509cd41a97b54c1);
+        cache_frame_a8da812569bb670b8509cd41a97b54c1 = NULL;
     }
 
-    assertFrameObject(frame_8ee908c9710a172531e029f307419ae6);
+    assertFrameObject(frame_a8da812569bb670b8509cd41a97b54c1);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -19260,14 +19260,14 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *var_code = NULL;
-    struct Nuitka_FrameObject *frame_e9bb54db393c3018d7c05b364ac2b3c2;
+    struct Nuitka_FrameObject *frame_80446e79408330aa559ca453606ad41b;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_e9bb54db393c3018d7c05b364ac2b3c2 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_80446e79408330aa559ca453606ad41b = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
     PyTracebackObject *exception_keeper_tb_1;
@@ -19275,31 +19275,31 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_e9bb54db393c3018d7c05b364ac2b3c2)) {
-        Py_XDECREF(cache_frame_e9bb54db393c3018d7c05b364ac2b3c2);
+    if (isFrameUnusable(cache_frame_80446e79408330aa559ca453606ad41b)) {
+        Py_XDECREF(cache_frame_80446e79408330aa559ca453606ad41b);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e9bb54db393c3018d7c05b364ac2b3c2 == NULL) {
+        if (cache_frame_80446e79408330aa559ca453606ad41b == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e9bb54db393c3018d7c05b364ac2b3c2 = MAKE_FUNCTION_FRAME(tstate, codeobj_e9bb54db393c3018d7c05b364ac2b3c2, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_80446e79408330aa559ca453606ad41b = MAKE_FUNCTION_FRAME(tstate, codeobj_80446e79408330aa559ca453606ad41b, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_e9bb54db393c3018d7c05b364ac2b3c2->m_type_description == NULL);
-    frame_e9bb54db393c3018d7c05b364ac2b3c2 = cache_frame_e9bb54db393c3018d7c05b364ac2b3c2;
+    assert(cache_frame_80446e79408330aa559ca453606ad41b->m_type_description == NULL);
+    frame_80446e79408330aa559ca453606ad41b = cache_frame_80446e79408330aa559ca453606ad41b;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_e9bb54db393c3018d7c05b364ac2b3c2);
-    assert(Py_REFCNT(frame_e9bb54db393c3018d7c05b364ac2b3c2) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_80446e79408330aa559ca453606ad41b);
+    assert(Py_REFCNT(frame_80446e79408330aa559ca453606ad41b) == 2);
 
     // Framed code:
     {
@@ -19311,7 +19311,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
         PyObject *tmp_subscript_value_2;
         CHECK_OBJECT(par_self);
         tmp_called_instance_1 = par_self;
-        frame_e9bb54db393c3018d7c05b364ac2b3c2->m_frame.f_lineno = 559;
+        frame_80446e79408330aa559ca453606ad41b->m_frame.f_lineno = 578;
         tmp_expression_value_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[127]);
         if (tmp_expression_value_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -19319,7 +19319,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 559;
+            exception_lineno = 578;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19335,7 +19335,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 559;
+            exception_lineno = 578;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19347,7 +19347,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_expression_value_1);
 
-            exception_lineno = 559;
+            exception_lineno = 578;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19360,7 +19360,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 559;
+            exception_lineno = 578;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19384,7 +19384,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 561;
+            exception_lineno = 580;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19395,14 +19395,14 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 561;
+            exception_lineno = 580;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
         CHECK_OBJECT(var_code);
         tmp_args_element_value_1 = var_code;
         tmp_args_element_value_2 = mod_consts[176];
-        frame_e9bb54db393c3018d7c05b364ac2b3c2->m_frame.f_lineno = 561;
+        frame_80446e79408330aa559ca453606ad41b->m_frame.f_lineno = 580;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -19415,7 +19415,7 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 561;
+            exception_lineno = 580;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -19437,14 +19437,14 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e9bb54db393c3018d7c05b364ac2b3c2, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e9bb54db393c3018d7c05b364ac2b3c2->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e9bb54db393c3018d7c05b364ac2b3c2, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_80446e79408330aa559ca453606ad41b, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_80446e79408330aa559ca453606ad41b->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_80446e79408330aa559ca453606ad41b, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e9bb54db393c3018d7c05b364ac2b3c2,
+        frame_80446e79408330aa559ca453606ad41b,
         type_description_1,
         par_self,
         var_code
@@ -19452,16 +19452,16 @@ static PyObject *impl_psutil$_pssunos$$$function__39_status(PyThreadState *tstat
 
 
     // Release cached frame if used for exception.
-    if (frame_e9bb54db393c3018d7c05b364ac2b3c2 == cache_frame_e9bb54db393c3018d7c05b364ac2b3c2) {
+    if (frame_80446e79408330aa559ca453606ad41b == cache_frame_80446e79408330aa559ca453606ad41b) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_e9bb54db393c3018d7c05b364ac2b3c2);
-        cache_frame_e9bb54db393c3018d7c05b364ac2b3c2 = NULL;
+        Py_DECREF(cache_frame_80446e79408330aa559ca453606ad41b);
+        cache_frame_80446e79408330aa559ca453606ad41b = NULL;
     }
 
-    assertFrameObject(frame_e9bb54db393c3018d7c05b364ac2b3c2);
+    assertFrameObject(frame_80446e79408330aa559ca453606ad41b);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -19546,7 +19546,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
     PyObject *tmp_tuple_unpack_1__element_1 = NULL;
     PyObject *tmp_tuple_unpack_1__element_2 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_79988fa6c0468337be881cf56567c488;
+    struct Nuitka_FrameObject *frame_2aadc8a41477c52cae3ea62518c3d367;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -19582,7 +19582,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
     PyTracebackObject *exception_keeper_tb_6;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_6;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_79988fa6c0468337be881cf56567c488 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_2aadc8a41477c52cae3ea62518c3d367 = NULL;
     PyObject *exception_keeper_type_7;
     PyObject *exception_keeper_value_7;
     PyTracebackObject *exception_keeper_tb_7;
@@ -19590,31 +19590,31 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_79988fa6c0468337be881cf56567c488)) {
-        Py_XDECREF(cache_frame_79988fa6c0468337be881cf56567c488);
+    if (isFrameUnusable(cache_frame_2aadc8a41477c52cae3ea62518c3d367)) {
+        Py_XDECREF(cache_frame_2aadc8a41477c52cae3ea62518c3d367);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_79988fa6c0468337be881cf56567c488 == NULL) {
+        if (cache_frame_2aadc8a41477c52cae3ea62518c3d367 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_79988fa6c0468337be881cf56567c488 = MAKE_FUNCTION_FRAME(tstate, codeobj_79988fa6c0468337be881cf56567c488, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_2aadc8a41477c52cae3ea62518c3d367 = MAKE_FUNCTION_FRAME(tstate, codeobj_2aadc8a41477c52cae3ea62518c3d367, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_79988fa6c0468337be881cf56567c488->m_type_description == NULL);
-    frame_79988fa6c0468337be881cf56567c488 = cache_frame_79988fa6c0468337be881cf56567c488;
+    assert(cache_frame_2aadc8a41477c52cae3ea62518c3d367->m_type_description == NULL);
+    frame_2aadc8a41477c52cae3ea62518c3d367 = cache_frame_2aadc8a41477c52cae3ea62518c3d367;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_79988fa6c0468337be881cf56567c488);
-    assert(Py_REFCNT(frame_79988fa6c0468337be881cf56567c488) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_2aadc8a41477c52cae3ea62518c3d367);
+    assert(Py_REFCNT(frame_2aadc8a41477c52cae3ea62518c3d367) == 2);
 
     // Framed code:
     {
@@ -19629,7 +19629,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 565;
+            exception_lineno = 584;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -19664,7 +19664,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 567;
+                exception_lineno = 586;
                 type_description_1 = "oooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -19685,7 +19685,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 567;
+            exception_lineno = 586;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -19697,7 +19697,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 567;
+            exception_lineno = 586;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -19723,7 +19723,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 569;
+            exception_lineno = 588;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -19746,7 +19746,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "oooooooooo";
-                exception_lineno = 569;
+                exception_lineno = 588;
                 goto try_except_handler_2;
             }
         }
@@ -19782,7 +19782,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 570;
+            exception_lineno = 589;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
@@ -19822,7 +19822,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 572;
+            exception_lineno = 591;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19833,7 +19833,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 572;
+            exception_lineno = 591;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19844,7 +19844,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 573;
+            exception_lineno = 592;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19857,7 +19857,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 573;
+            exception_lineno = 592;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19871,13 +19871,13 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 573;
+            exception_lineno = 592;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
 
         tmp_args_element_value_3 = var_procfs_path;
-        frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = 572;
+        frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = 591;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_iter_arg_2 = CALL_FUNCTION_WITH_ARGS3(tstate, tmp_called_value_1, call_args);
@@ -19891,7 +19891,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 572;
+            exception_lineno = 591;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19903,7 +19903,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 572;
+            exception_lineno = 591;
             type_description_1 = "oooooooooo";
             goto try_except_handler_4;
         }
@@ -19933,7 +19933,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
 
             type_description_1 = "oooooooooo";
-            exception_lineno = 572;
+            exception_lineno = 591;
             goto try_except_handler_5;
         }
         {
@@ -19961,7 +19961,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
 
             type_description_1 = "oooooooooo";
-            exception_lineno = 572;
+            exception_lineno = 591;
             goto try_except_handler_5;
         }
         {
@@ -19990,7 +19990,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "oooooooooo";
-                    exception_lineno = 572;
+                    exception_lineno = 591;
                     goto try_except_handler_5;
                 }
             }
@@ -20004,7 +20004,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             exception_tb = NULL;
 
             type_description_1 = "oooooooooo";
-            exception_lineno = 572;
+            exception_lineno = 591;
             goto try_except_handler_5;
         }
     }
@@ -20078,9 +20078,9 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_3 == NULL) {
-        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_79988fa6c0468337be881cf56567c488, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = MAKE_TRACEBACK(frame_2aadc8a41477c52cae3ea62518c3d367, exception_keeper_lineno_3);
     } else if (exception_keeper_lineno_3 != 0) {
-        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_79988fa6c0468337be881cf56567c488, exception_keeper_lineno_3);
+        exception_keeper_tb_3 = ADD_TRACEBACK(exception_keeper_tb_3, frame_2aadc8a41477c52cae3ea62518c3d367, exception_keeper_lineno_3);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_3, &exception_keeper_value_3, &exception_keeper_tb_3);
@@ -20132,7 +20132,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20148,7 +20148,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20159,7 +20159,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20172,7 +20172,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20183,7 +20183,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20205,7 +20205,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20216,7 +20216,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 575;
+            exception_lineno = 595;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20250,7 +20250,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 585;
+            exception_lineno = 605;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20266,7 +20266,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_3);
 
-            exception_lineno = 585;
+            exception_lineno = 605;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20277,7 +20277,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_3);
 
-            exception_lineno = 585;
+            exception_lineno = 605;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20290,7 +20290,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 585;
+            exception_lineno = 605;
             type_description_1 = "oooooooooo";
             goto try_except_handler_7;
         }
@@ -20316,10 +20316,10 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
     branch_no_3:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 588;
+        exception_lineno = 608;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_79988fa6c0468337be881cf56567c488->m_frame) frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_2aadc8a41477c52cae3ea62518c3d367->m_frame) frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooooooooo";
     goto try_except_handler_7;
     NUITKA_CANNOT_GET_HERE("tried codes exits in all cases");
@@ -20356,10 +20356,10 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 571;
+        exception_lineno = 590;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_79988fa6c0468337be881cf56567c488->m_frame) frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_2aadc8a41477c52cae3ea62518c3d367->m_frame) frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oooooooooo";
     goto try_except_handler_6;
     branch_end_1:;
@@ -20446,7 +20446,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 590;
+            exception_lineno = 610;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
@@ -20456,7 +20456,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
         tmp_args_element_value_5 = var_utime;
         CHECK_OBJECT(var_stime);
         tmp_args_element_value_6 = var_stime;
-        frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = 590;
+        frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = 610;
         {
             PyObject *call_args[] = {tmp_args_element_value_4, tmp_args_element_value_5, tmp_args_element_value_6};
             tmp_assign_source_18 = CALL_METHOD_WITH_ARGS3(
@@ -20473,7 +20473,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 590;
+            exception_lineno = 610;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
@@ -20496,7 +20496,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 591;
+            exception_lineno = 611;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
@@ -20509,13 +20509,13 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 591;
+            exception_lineno = 611;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_nt);
         tmp_args_element_value_7 = var_nt;
-        frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = 591;
+        frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = 611;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_7);
         Py_DECREF(tmp_called_value_2);
         if (tmp_call_result_1 == NULL) {
@@ -20524,7 +20524,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 591;
+            exception_lineno = 611;
             type_description_1 = "oooooooooo";
             goto try_except_handler_2;
         }
@@ -20536,7 +20536,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 569;
+        exception_lineno = 588;
         type_description_1 = "oooooooooo";
         goto try_except_handler_2;
     }
@@ -20583,7 +20583,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 592;
+            exception_lineno = 612;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -20595,7 +20595,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 592;
+            exception_lineno = 612;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -20617,13 +20617,13 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 593;
+            exception_lineno = 613;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
 
         tmp_called_instance_2 = par_self;
-        frame_79988fa6c0468337be881cf56567c488->m_frame.f_lineno = 593;
+        frame_2aadc8a41477c52cae3ea62518c3d367->m_frame.f_lineno = 613;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_2, mod_consts[167]);
         if (tmp_call_result_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -20631,7 +20631,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 593;
+            exception_lineno = 613;
             type_description_1 = "oooooooooo";
             goto frame_exception_exit_1;
         }
@@ -20645,7 +20645,7 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 594;
+        exception_lineno = 614;
         type_description_1 = "oooooooooo";
         goto frame_exception_exit_1;
     }
@@ -20669,14 +20669,14 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_79988fa6c0468337be881cf56567c488, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_79988fa6c0468337be881cf56567c488->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_79988fa6c0468337be881cf56567c488, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_2aadc8a41477c52cae3ea62518c3d367, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_2aadc8a41477c52cae3ea62518c3d367->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_2aadc8a41477c52cae3ea62518c3d367, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_79988fa6c0468337be881cf56567c488,
+        frame_2aadc8a41477c52cae3ea62518c3d367,
         type_description_1,
         par_self,
         var_procfs_path,
@@ -20692,16 +20692,16 @@ static PyObject *impl_psutil$_pssunos$$$function__40_threads(PyThreadState *tsta
 
 
     // Release cached frame if used for exception.
-    if (frame_79988fa6c0468337be881cf56567c488 == cache_frame_79988fa6c0468337be881cf56567c488) {
+    if (frame_2aadc8a41477c52cae3ea62518c3d367 == cache_frame_2aadc8a41477c52cae3ea62518c3d367) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_79988fa6c0468337be881cf56567c488);
-        cache_frame_79988fa6c0468337be881cf56567c488 = NULL;
+        Py_DECREF(cache_frame_2aadc8a41477c52cae3ea62518c3d367);
+        cache_frame_2aadc8a41477c52cae3ea62518c3d367 = NULL;
     }
 
-    assertFrameObject(frame_79988fa6c0468337be881cf56567c488);
+    assertFrameObject(frame_2aadc8a41477c52cae3ea62518c3d367);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -20813,7 +20813,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
     PyObject *tmp_for_loop_1__for_iterator = NULL;
     PyObject *tmp_for_loop_1__iter_value = NULL;
     nuitka_bool tmp_try_except_1__unhandled_indicator = NUITKA_BOOL_UNASSIGNED;
-    struct Nuitka_FrameObject *frame_c0ff44a188b51147ce15b47bfd25f089;
+    struct Nuitka_FrameObject *frame_1195bc6d2b48251180302d60420528e1;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -20836,7 +20836,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
     PyTracebackObject *exception_keeper_tb_3;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_3;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_c0ff44a188b51147ce15b47bfd25f089 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_1195bc6d2b48251180302d60420528e1 = NULL;
     PyObject *exception_keeper_type_4;
     PyObject *exception_keeper_value_4;
     PyTracebackObject *exception_keeper_tb_4;
@@ -20855,31 +20855,31 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
         var_hit_enoent = tmp_assign_source_2;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_c0ff44a188b51147ce15b47bfd25f089)) {
-        Py_XDECREF(cache_frame_c0ff44a188b51147ce15b47bfd25f089);
+    if (isFrameUnusable(cache_frame_1195bc6d2b48251180302d60420528e1)) {
+        Py_XDECREF(cache_frame_1195bc6d2b48251180302d60420528e1);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_c0ff44a188b51147ce15b47bfd25f089 == NULL) {
+        if (cache_frame_1195bc6d2b48251180302d60420528e1 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_c0ff44a188b51147ce15b47bfd25f089 = MAKE_FUNCTION_FRAME(tstate, codeobj_c0ff44a188b51147ce15b47bfd25f089, module_psutil$_pssunos, sizeof(nuitka_bool)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_1195bc6d2b48251180302d60420528e1 = MAKE_FUNCTION_FRAME(tstate, codeobj_1195bc6d2b48251180302d60420528e1, module_psutil$_pssunos, sizeof(nuitka_bool)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_c0ff44a188b51147ce15b47bfd25f089->m_type_description == NULL);
-    frame_c0ff44a188b51147ce15b47bfd25f089 = cache_frame_c0ff44a188b51147ce15b47bfd25f089;
+    assert(cache_frame_1195bc6d2b48251180302d60420528e1->m_type_description == NULL);
+    frame_1195bc6d2b48251180302d60420528e1 = cache_frame_1195bc6d2b48251180302d60420528e1;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_c0ff44a188b51147ce15b47bfd25f089);
-    assert(Py_REFCNT(frame_c0ff44a188b51147ce15b47bfd25f089) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_1195bc6d2b48251180302d60420528e1);
+    assert(Py_REFCNT(frame_1195bc6d2b48251180302d60420528e1) == 2);
 
     // Framed code:
     {
@@ -20894,7 +20894,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 600;
+            exception_lineno = 620;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -20922,7 +20922,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 601;
+                exception_lineno = 621;
                 type_description_1 = "oobooooo";
                 goto tuple_build_exception_1;
             }
@@ -20943,7 +20943,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 601;
+            exception_lineno = 621;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -20973,7 +20973,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 602;
+                exception_lineno = 622;
                 type_description_1 = "oobooooo";
                 goto tuple_build_exception_2;
             }
@@ -20994,7 +20994,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 602;
+            exception_lineno = 622;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -21006,7 +21006,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 602;
+            exception_lineno = 622;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -21018,7 +21018,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 602;
+            exception_lineno = 622;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -21041,7 +21041,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "oobooooo";
-                exception_lineno = 602;
+                exception_lineno = 622;
                 goto try_except_handler_2;
             }
         }
@@ -21084,7 +21084,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 603;
+            exception_lineno = 623;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21095,7 +21095,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 603;
+            exception_lineno = 623;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21107,7 +21107,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 603;
+            exception_lineno = 623;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21118,7 +21118,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 603;
+            exception_lineno = 623;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21126,7 +21126,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
         tmp_args_element_value_1 = var_pathdir;
         CHECK_OBJECT(var_fd);
         tmp_args_element_value_2 = var_fd;
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 603;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 623;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_assign_source_8 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -21139,7 +21139,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 603;
+            exception_lineno = 623;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21169,7 +21169,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 604;
+            exception_lineno = 624;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21180,13 +21180,13 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 604;
+            exception_lineno = 624;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_path);
         tmp_args_element_value_3 = var_path;
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 604;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 624;
         tmp_call_result_1 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_1, mod_consts[187], tmp_args_element_value_3);
         Py_DECREF(tmp_called_instance_1);
         if (tmp_call_result_1 == NULL) {
@@ -21195,7 +21195,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 604;
+            exception_lineno = 624;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21206,7 +21206,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_call_result_1);
 
-            exception_lineno = 604;
+            exception_lineno = 624;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21241,13 +21241,13 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 606;
+            exception_lineno = 626;
             type_description_1 = "oobooooo";
             goto try_except_handler_3;
         }
         CHECK_OBJECT(var_path);
         tmp_args_element_value_4 = var_path;
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 606;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 626;
         tmp_assign_source_10 = CALL_METHOD_WITH_SINGLE_ARG(tstate, tmp_called_instance_2, mod_consts[135], tmp_args_element_value_4);
         if (tmp_assign_source_10 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -21255,7 +21255,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 606;
+            exception_lineno = 626;
             type_description_1 = "oobooooo";
             goto try_except_handler_3;
         }
@@ -21287,9 +21287,9 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_c0ff44a188b51147ce15b47bfd25f089, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_1195bc6d2b48251180302d60420528e1, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_c0ff44a188b51147ce15b47bfd25f089, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_1195bc6d2b48251180302d60420528e1, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -21311,7 +21311,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 607;
+            exception_lineno = 627;
             type_description_1 = "oobooooo";
             goto try_except_handler_4;
         }
@@ -21322,7 +21322,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 607;
+            exception_lineno = 627;
             type_description_1 = "oobooooo";
             goto try_except_handler_4;
         }
@@ -21344,10 +21344,10 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
     branch_no_2:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 605;
+        exception_lineno = 625;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_c0ff44a188b51147ce15b47bfd25f089->m_frame) frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_1195bc6d2b48251180302d60420528e1->m_frame) frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "oobooooo";
     goto try_except_handler_4;
     branch_end_2:;
@@ -21401,13 +21401,13 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 611;
+            exception_lineno = 631;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_file);
         tmp_args_element_value_5 = var_file;
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 611;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 631;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_5);
         if (tmp_call_result_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -21415,7 +21415,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 611;
+            exception_lineno = 631;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21426,7 +21426,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_call_result_2);
 
-            exception_lineno = 611;
+            exception_lineno = 631;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21456,7 +21456,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21469,7 +21469,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21485,7 +21485,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_3);
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21496,7 +21496,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_3);
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21512,11 +21512,11 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             Py_DECREF(tmp_called_value_3);
             Py_DECREF(tmp_called_value_4);
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 612;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 632;
         {
             PyObject *call_args[] = {tmp_args_element_value_7, tmp_args_element_value_8};
             tmp_args_element_value_6 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_4, call_args);
@@ -21530,11 +21530,11 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_3);
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 612;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 632;
         tmp_call_result_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_3, tmp_args_element_value_6);
         Py_DECREF(tmp_called_value_3);
         Py_DECREF(tmp_args_element_value_6);
@@ -21544,7 +21544,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 612;
+            exception_lineno = 632;
             type_description_1 = "oobooooo";
             goto try_except_handler_2;
         }
@@ -21558,7 +21558,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 602;
+        exception_lineno = 622;
         type_description_1 = "oobooooo";
         goto try_except_handler_2;
     }
@@ -21604,7 +21604,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 613;
+            exception_lineno = 633;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -21622,7 +21622,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
         PyObject *tmp_call_result_4;
         CHECK_OBJECT(par_self);
         tmp_called_instance_3 = par_self;
-        frame_c0ff44a188b51147ce15b47bfd25f089->m_frame.f_lineno = 614;
+        frame_1195bc6d2b48251180302d60420528e1->m_frame.f_lineno = 634;
         tmp_call_result_4 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_3, mod_consts[167]);
         if (tmp_call_result_4 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -21630,7 +21630,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 614;
+            exception_lineno = 634;
             type_description_1 = "oobooooo";
             goto frame_exception_exit_1;
         }
@@ -21644,7 +21644,7 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 615;
+        exception_lineno = 635;
         type_description_1 = "oobooooo";
         goto frame_exception_exit_1;
     }
@@ -21668,14 +21668,14 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_c0ff44a188b51147ce15b47bfd25f089, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_c0ff44a188b51147ce15b47bfd25f089->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_c0ff44a188b51147ce15b47bfd25f089, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_1195bc6d2b48251180302d60420528e1, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_1195bc6d2b48251180302d60420528e1->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_1195bc6d2b48251180302d60420528e1, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_c0ff44a188b51147ce15b47bfd25f089,
+        frame_1195bc6d2b48251180302d60420528e1,
         type_description_1,
         par_self,
         var_retlist,
@@ -21689,16 +21689,16 @@ static PyObject *impl_psutil$_pssunos$$$function__41_open_files(PyThreadState *t
 
 
     // Release cached frame if used for exception.
-    if (frame_c0ff44a188b51147ce15b47bfd25f089 == cache_frame_c0ff44a188b51147ce15b47bfd25f089) {
+    if (frame_1195bc6d2b48251180302d60420528e1 == cache_frame_1195bc6d2b48251180302d60420528e1) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_c0ff44a188b51147ce15b47bfd25f089);
-        cache_frame_c0ff44a188b51147ce15b47bfd25f089 = NULL;
+        Py_DECREF(cache_frame_1195bc6d2b48251180302d60420528e1);
+        cache_frame_1195bc6d2b48251180302d60420528e1 = NULL;
     }
 
-    assertFrameObject(frame_c0ff44a188b51147ce15b47bfd25f089);
+    assertFrameObject(frame_1195bc6d2b48251180302d60420528e1);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -21951,7 +21951,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(tstate, codeobj_8f37899c18d1b2104e043d5c4ec2d028, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(tstate, codeobj_ddf3986baba37adb6f3a1003221ec780, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -21993,7 +21993,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 NORMALIZE_EXCEPTION(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
                 CHAIN_EXCEPTION(tstate, generator_heap->exception_value);
 
-                generator_heap->exception_lineno = 621;
+                generator_heap->exception_lineno = 641;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto list_build_exception_1;
             }
@@ -22006,7 +22006,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-                generator_heap->exception_lineno = 621;
+                generator_heap->exception_lineno = 641;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto list_build_exception_1;
             }
@@ -22043,7 +22043,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 622;
+            generator_heap->exception_lineno = 642;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22054,7 +22054,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 622;
+            generator_heap->exception_lineno = 642;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22072,7 +22072,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            generator_heap->exception_lineno = 622;
+            generator_heap->exception_lineno = 643;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22083,7 +22083,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            generator_heap->exception_lineno = 622;
+            generator_heap->exception_lineno = 643;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22100,7 +22100,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_kw_call_dict_value_0_1);
 
-            generator_heap->exception_lineno = 623;
+            generator_heap->exception_lineno = 643;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22112,11 +22112,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_kw_call_dict_value_0_1);
 
-            generator_heap->exception_lineno = 623;
+            generator_heap->exception_lineno = 643;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 622;
+        generator->m_frame->m_frame.f_lineno = 642;
         {
             PyObject *args[] = {tmp_kw_call_arg_value_0_1};
             PyObject *kw_values[2] = {tmp_kw_call_dict_value_0_1, tmp_kw_call_dict_value_1_1};
@@ -22132,7 +22132,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 622;
+            generator_heap->exception_lineno = 642;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22146,7 +22146,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         PyObject *tmp_called_instance_1;
         CHECK_OBJECT(generator_heap->var_p);
         tmp_called_instance_1 = generator_heap->var_p;
-        generator->m_frame->m_frame.f_lineno = 624;
+        generator->m_frame->m_frame.f_lineno = 645;
         tmp_iter_arg_1 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[22]);
         if (tmp_iter_arg_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -22154,7 +22154,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 624;
+            generator_heap->exception_lineno = 645;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_2;
         }
@@ -22166,7 +22166,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 624;
+            generator_heap->exception_lineno = 645;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_2;
         }
@@ -22192,7 +22192,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 624;
+            generator_heap->exception_lineno = 645;
             goto try_except_handler_3;
         }
         assert(generator_heap->tmp_tuple_unpack_1__element_1 == NULL);
@@ -22216,7 +22216,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 624;
+            generator_heap->exception_lineno = 645;
             goto try_except_handler_3;
         }
         assert(generator_heap->tmp_tuple_unpack_1__element_2 == NULL);
@@ -22241,7 +22241,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                     FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
                     generator_heap->type_description_1 = "ccooooooooo";
-                    generator_heap->exception_lineno = 624;
+                    generator_heap->exception_lineno = 645;
                     goto try_except_handler_3;
                 }
             }
@@ -22255,7 +22255,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             generator_heap->exception_tb = NULL;
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 624;
+            generator_heap->exception_lineno = 645;
             goto try_except_handler_3;
         }
     }
@@ -22349,7 +22349,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 625;
+            generator_heap->exception_lineno = 646;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22360,7 +22360,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 625;
+            generator_heap->exception_lineno = 646;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22423,7 +22423,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 647;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_4;
         }
@@ -22449,7 +22449,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 647;
             goto try_except_handler_6;
         }
         assert(generator_heap->tmp_tuple_unpack_2__element_1 == NULL);
@@ -22473,7 +22473,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 647;
             goto try_except_handler_6;
         }
         assert(generator_heap->tmp_tuple_unpack_2__element_2 == NULL);
@@ -22498,7 +22498,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                     FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
                     generator_heap->type_description_1 = "ccooooooooo";
-                    generator_heap->exception_lineno = 626;
+                    generator_heap->exception_lineno = 647;
                     goto try_except_handler_6;
                 }
             }
@@ -22512,7 +22512,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             generator_heap->exception_tb = NULL;
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 647;
             goto try_except_handler_6;
         }
     }
@@ -22615,7 +22615,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 628;
+            generator_heap->exception_lineno = 650;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22628,7 +22628,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 628;
+            generator_heap->exception_lineno = 650;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22655,11 +22655,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 629;
+            generator_heap->exception_lineno = 651;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 629;
+        generator->m_frame->m_frame.f_lineno = 651;
         tmp_cmp_expr_right_2 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_2);
         Py_DECREF(tmp_called_value_2);
         if (tmp_cmp_expr_right_2 == NULL) {
@@ -22668,7 +22668,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 629;
+            generator_heap->exception_lineno = 651;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22680,7 +22680,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 629;
+            generator_heap->exception_lineno = 651;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22711,7 +22711,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22722,7 +22722,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             NORMALIZE_EXCEPTION(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             CHAIN_EXCEPTION(tstate, generator_heap->exception_value);
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22735,7 +22735,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22746,7 +22746,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             NORMALIZE_EXCEPTION(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             CHAIN_EXCEPTION(tstate, generator_heap->exception_value);
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22759,11 +22759,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_args_element_value_1);
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 630;
+        generator->m_frame->m_frame.f_lineno = 652;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_raise_type_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_3, call_args);
@@ -22777,12 +22777,12 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 630;
+            generator_heap->exception_lineno = 652;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
         generator_heap->exception_type = tmp_raise_type_1;
-        generator_heap->exception_lineno = 630;
+        generator_heap->exception_lineno = 652;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
         generator_heap->type_description_1 = "ccooooooooo";
         goto frame_exception_exit_1;
@@ -22804,11 +22804,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 631;
+            generator_heap->exception_lineno = 653;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 631;
+        generator->m_frame->m_frame.f_lineno = 653;
         tmp_cmp_expr_right_3 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_4);
         Py_DECREF(tmp_called_value_4);
         if (tmp_cmp_expr_right_3 == NULL) {
@@ -22817,7 +22817,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 631;
+            generator_heap->exception_lineno = 653;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22829,7 +22829,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 631;
+            generator_heap->exception_lineno = 653;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22860,7 +22860,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22871,7 +22871,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             NORMALIZE_EXCEPTION(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             CHAIN_EXCEPTION(tstate, generator_heap->exception_value);
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22884,7 +22884,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22895,7 +22895,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             NORMALIZE_EXCEPTION(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             CHAIN_EXCEPTION(tstate, generator_heap->exception_value);
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -22908,11 +22908,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_args_element_value_3);
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 632;
+        generator->m_frame->m_frame.f_lineno = 654;
         {
             PyObject *call_args[] = {tmp_args_element_value_3, tmp_args_element_value_4};
             tmp_raise_type_2 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_5, call_args);
@@ -22926,12 +22926,12 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 632;
+            generator_heap->exception_lineno = 654;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
         generator_heap->exception_type = tmp_raise_type_2;
-        generator_heap->exception_lineno = 632;
+        generator_heap->exception_lineno = 654;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
         generator_heap->type_description_1 = "ccooooooooo";
         goto frame_exception_exit_1;
@@ -22959,16 +22959,16 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 633;
+            generator_heap->exception_lineno = 655;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 633;
+        generator->m_frame->m_frame.f_lineno = 655;
         tmp_raise_type_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, PyExc_RuntimeError, tmp_make_exception_arg_1);
         Py_DECREF(tmp_make_exception_arg_1);
         assert(!(tmp_raise_type_3 == NULL));
         generator_heap->exception_type = tmp_raise_type_3;
-        generator_heap->exception_lineno = 633;
+        generator_heap->exception_lineno = 655;
         RAISE_EXCEPTION_WITH_TYPE(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
         generator_heap->type_description_1 = "ccooooooooo";
         goto frame_exception_exit_1;
@@ -22989,11 +22989,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 635;
+            generator_heap->exception_lineno = 657;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
-        generator->m_frame->m_frame.f_lineno = 635;
+        generator->m_frame->m_frame.f_lineno = 657;
         tmp_expression_value_11 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_6, mod_consts[31]);
 
         Py_DECREF(tmp_called_value_6);
@@ -23003,7 +23003,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 635;
+            generator_heap->exception_lineno = 657;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -23016,7 +23016,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 635;
+            generator_heap->exception_lineno = 657;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -23031,7 +23031,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         tmp_called_value_7 = (PyObject *)&PyEnum_Type;
         CHECK_OBJECT(generator_heap->var_lines);
         tmp_args_element_value_5 = generator_heap->var_lines;
-        generator->m_frame->m_frame.f_lineno = 636;
+        generator->m_frame->m_frame.f_lineno = 658;
         tmp_iter_arg_4 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_7, tmp_args_element_value_5);
         if (tmp_iter_arg_4 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -23039,7 +23039,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -23051,7 +23051,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             generator_heap->type_description_1 = "ccooooooooo";
             goto frame_exception_exit_1;
         }
@@ -23074,7 +23074,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
                 generator_heap->type_description_1 = "ccooooooooo";
-                generator_heap->exception_lineno = 636;
+                generator_heap->exception_lineno = 658;
                 goto try_except_handler_7;
             }
         }
@@ -23099,7 +23099,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_8;
         }
@@ -23129,7 +23129,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             goto try_except_handler_9;
         }
         {
@@ -23157,7 +23157,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             goto try_except_handler_9;
         }
         {
@@ -23186,7 +23186,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                     FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
                     generator_heap->type_description_1 = "ccooooooooo";
-                    generator_heap->exception_lineno = 636;
+                    generator_heap->exception_lineno = 658;
                     goto try_except_handler_9;
                 }
             }
@@ -23200,7 +23200,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             generator_heap->exception_tb = NULL;
 
             generator_heap->type_description_1 = "ccooooooooo";
-            generator_heap->exception_lineno = 636;
+            generator_heap->exception_lineno = 658;
             goto try_except_handler_9;
         }
     }
@@ -23299,11 +23299,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 637;
+            generator_heap->exception_lineno = 659;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
-        generator->m_frame->m_frame.f_lineno = 637;
+        generator->m_frame->m_frame.f_lineno = 659;
         tmp_assign_source_22 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_8);
         Py_DECREF(tmp_called_value_8);
         if (tmp_assign_source_22 == NULL) {
@@ -23312,7 +23312,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 637;
+            generator_heap->exception_lineno = 659;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23339,11 +23339,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 638;
+            generator_heap->exception_lineno = 660;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
-        generator->m_frame->m_frame.f_lineno = 638;
+        generator->m_frame->m_frame.f_lineno = 660;
         tmp_call_result_1 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_9, mod_consts[200]);
 
         Py_DECREF(tmp_called_value_9);
@@ -23353,7 +23353,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 638;
+            generator_heap->exception_lineno = 660;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23364,7 +23364,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_call_result_1);
 
-            generator_heap->exception_lineno = 638;
+            generator_heap->exception_lineno = 660;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23392,11 +23392,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 639;
+            generator_heap->exception_lineno = 661;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
-        generator->m_frame->m_frame.f_lineno = 639;
+        generator->m_frame->m_frame.f_lineno = 661;
         tmp_expression_value_15 = CALL_FUNCTION_WITH_POSARGS2(tstate, tmp_called_value_10, mod_consts[201]);
 
         Py_DECREF(tmp_called_value_10);
@@ -23406,7 +23406,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 639;
+            generator_heap->exception_lineno = 661;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23419,7 +23419,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 639;
+            generator_heap->exception_lineno = 661;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23450,7 +23450,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 640;
+            generator_heap->exception_lineno = 662;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23462,7 +23462,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 640;
+            generator_heap->exception_lineno = 662;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23474,11 +23474,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 640;
+            generator_heap->exception_lineno = 662;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
-        generator->m_frame->m_frame.f_lineno = 640;
+        generator->m_frame->m_frame.f_lineno = 662;
         tmp_assign_source_24 = CALL_FUNCTION_NO_ARGS(tstate, tmp_called_value_11);
         Py_DECREF(tmp_called_value_11);
         if (tmp_assign_source_24 == NULL) {
@@ -23487,7 +23487,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 640;
+            generator_heap->exception_lineno = 662;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23512,7 +23512,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 641;
+            generator_heap->exception_lineno = 663;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23538,7 +23538,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 642;
+            generator_heap->exception_lineno = 664;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23549,7 +23549,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 642;
+            generator_heap->exception_lineno = 664;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23577,7 +23577,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 643;
+            generator_heap->exception_lineno = 665;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23603,7 +23603,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 644;
+            generator_heap->exception_lineno = 666;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23614,7 +23614,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 644;
+            generator_heap->exception_lineno = 666;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23664,7 +23664,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-                generator_heap->exception_lineno = 647;
+                generator_heap->exception_lineno = 669;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -23675,7 +23675,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-                generator_heap->exception_lineno = 647;
+                generator_heap->exception_lineno = 669;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -23700,7 +23700,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-                generator_heap->exception_lineno = 647;
+                generator_heap->exception_lineno = 669;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -23711,7 +23711,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-                generator_heap->exception_lineno = 647;
+                generator_heap->exception_lineno = 669;
                 generator_heap->type_description_1 = "ccooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -23735,7 +23735,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 647;
+            generator_heap->exception_lineno = 669;
             generator_heap->type_description_1 = "ccooooooooo";
             goto try_except_handler_7;
         }
@@ -23749,7 +23749,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-        generator_heap->exception_lineno = 636;
+        generator_heap->exception_lineno = 658;
         generator_heap->type_description_1 = "ccooooooooo";
         goto try_except_handler_7;
     }
@@ -23931,7 +23931,7 @@ static PyObject *MAKE_GENERATOR_psutil$_pssunos$$$function__42__get_unix_sockets
 #if PYTHON_VERSION >= 0x350
         mod_consts[209],
 #endif
-        codeobj_8f37899c18d1b2104e043d5c4ec2d028,
+        codeobj_ddf3986baba37adb6f3a1003221ec780,
         closure,
         2,
 #if 1
@@ -24004,7 +24004,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_m_frame = MAKE_FUNCTION_FRAME(tstate, codeobj_41898d6545dac99be18dd4b076d9594a, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_m_frame = MAKE_FUNCTION_FRAME(tstate, codeobj_932218ea4d919b4de8e2598c459bd2d0, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
@@ -24047,7 +24047,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
 
                 FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
                 generator_heap->type_description_1 = "No";
-                generator_heap->exception_lineno = 626;
+                generator_heap->exception_lineno = 647;
                 goto try_except_handler_2;
             }
         }
@@ -24088,7 +24088,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
@@ -24104,7 +24104,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
@@ -24115,7 +24115,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
@@ -24127,11 +24127,11 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
-        generator->m_frame->m_frame.f_lineno = 626;
+        generator->m_frame->m_frame.f_lineno = 648;
         tmp_expression_value_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_1, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_1);
         Py_DECREF(tmp_args_element_value_1);
@@ -24141,7 +24141,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
@@ -24156,7 +24156,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
             FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-            generator_heap->exception_lineno = 626;
+            generator_heap->exception_lineno = 648;
             generator_heap->type_description_1 = "No";
             goto try_except_handler_2;
         }
@@ -24169,7 +24169,7 @@ static PyObject *psutil$_pssunos$$$function__42__get_unix_sockets$$$genobj__1__g
         FETCH_ERROR_OCCURRED(tstate, &generator_heap->exception_type, &generator_heap->exception_value, &generator_heap->exception_tb);
 
 
-        generator_heap->exception_lineno = 626;
+        generator_heap->exception_lineno = 647;
         generator_heap->type_description_1 = "No";
         goto try_except_handler_2;
     }
@@ -24299,7 +24299,7 @@ static PyObject *MAKE_GENERATOR_psutil$_pssunos$$$function__42__get_unix_sockets
 #if PYTHON_VERSION >= 0x350
         mod_consts[213],
 #endif
-        codeobj_41898d6545dac99be18dd4b076d9594a,
+        codeobj_932218ea4d919b4de8e2598c459bd2d0,
         closure,
         1,
 #if 1
@@ -24325,7 +24325,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
     PyObject *tmp_listcomp_1__$0 = NULL;
     PyObject *tmp_listcomp_1__contraction = NULL;
     PyObject *tmp_listcomp_1__iter_value_0 = NULL;
-    struct Nuitka_FrameObject *frame_84868f3939e76211b9442b2deb8b6841;
+    struct Nuitka_FrameObject *frame_a12fa97730e15e9497080c31276c7cd3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -24343,7 +24343,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
     PyTracebackObject *exception_keeper_tb_2;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_2;
     PyObject *tmp_return_value = NULL;
-    static struct Nuitka_FrameObject *cache_frame_84868f3939e76211b9442b2deb8b6841 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_a12fa97730e15e9497080c31276c7cd3 = NULL;
     PyObject *exception_keeper_type_3;
     PyObject *exception_keeper_value_3;
     PyTracebackObject *exception_keeper_tb_3;
@@ -24351,31 +24351,31 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
 
     // Actual function body.
     // Tried code:
-    if (isFrameUnusable(cache_frame_84868f3939e76211b9442b2deb8b6841)) {
-        Py_XDECREF(cache_frame_84868f3939e76211b9442b2deb8b6841);
+    if (isFrameUnusable(cache_frame_a12fa97730e15e9497080c31276c7cd3)) {
+        Py_XDECREF(cache_frame_a12fa97730e15e9497080c31276c7cd3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_84868f3939e76211b9442b2deb8b6841 == NULL) {
+        if (cache_frame_a12fa97730e15e9497080c31276c7cd3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_84868f3939e76211b9442b2deb8b6841 = MAKE_FUNCTION_FRAME(tstate, codeobj_84868f3939e76211b9442b2deb8b6841, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_a12fa97730e15e9497080c31276c7cd3 = MAKE_FUNCTION_FRAME(tstate, codeobj_a12fa97730e15e9497080c31276c7cd3, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_84868f3939e76211b9442b2deb8b6841->m_type_description == NULL);
-    frame_84868f3939e76211b9442b2deb8b6841 = cache_frame_84868f3939e76211b9442b2deb8b6841;
+    assert(cache_frame_a12fa97730e15e9497080c31276c7cd3->m_type_description == NULL);
+    frame_a12fa97730e15e9497080c31276c7cd3 = cache_frame_a12fa97730e15e9497080c31276c7cd3;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_84868f3939e76211b9442b2deb8b6841);
-    assert(Py_REFCNT(frame_84868f3939e76211b9442b2deb8b6841) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_a12fa97730e15e9497080c31276c7cd3);
+    assert(Py_REFCNT(frame_a12fa97730e15e9497080c31276c7cd3) == 2);
 
     // Framed code:
     {
@@ -24396,7 +24396,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 651;
+            exception_lineno = 673;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24411,11 +24411,11 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 651;
+            exception_lineno = 673;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_84868f3939e76211b9442b2deb8b6841->m_frame.f_lineno = 651;
+        frame_a12fa97730e15e9497080c31276c7cd3->m_frame.f_lineno = 673;
         {
             PyObject *args[] = {tmp_kw_call_arg_value_0_1};
             PyObject *kw_values[1] = {tmp_kw_call_dict_value_0_1};
@@ -24429,7 +24429,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 651;
+            exception_lineno = 673;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24448,7 +24448,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 657;
+            exception_lineno = 679;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24483,7 +24483,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 659;
+            exception_lineno = 681;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24497,7 +24497,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 659;
+            exception_lineno = 681;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24514,7 +24514,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 659;
+                exception_lineno = 681;
                 type_description_1 = "ooo";
                 goto tuple_build_exception_1;
             }
@@ -24536,11 +24536,11 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_2);
 
-            exception_lineno = 659;
+            exception_lineno = 681;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
-        frame_84868f3939e76211b9442b2deb8b6841->m_frame.f_lineno = 659;
+        frame_a12fa97730e15e9497080c31276c7cd3->m_frame.f_lineno = 681;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_2, tmp_args_element_value_1);
         Py_DECREF(tmp_called_value_2);
         Py_DECREF(tmp_args_element_value_1);
@@ -24550,7 +24550,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 659;
+            exception_lineno = 681;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24571,7 +24571,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 662;
+            exception_lineno = 684;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24597,7 +24597,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 663;
+            exception_lineno = 685;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24618,7 +24618,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 664;
+                exception_lineno = 687;
                 type_description_1 = "ooo";
                 goto try_except_handler_2;
             }
@@ -24631,11 +24631,11 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 Py_DECREF(tmp_called_value_4);
 
-                exception_lineno = 664;
+                exception_lineno = 687;
                 type_description_1 = "ooo";
                 goto try_except_handler_2;
             }
-            frame_84868f3939e76211b9442b2deb8b6841->m_frame.f_lineno = 664;
+            frame_a12fa97730e15e9497080c31276c7cd3->m_frame.f_lineno = 687;
             tmp_iter_arg_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_4, tmp_args_element_value_3);
             Py_DECREF(tmp_called_value_4);
             Py_DECREF(tmp_args_element_value_3);
@@ -24645,7 +24645,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 664;
+                exception_lineno = 687;
                 type_description_1 = "ooo";
                 goto try_except_handler_2;
             }
@@ -24657,7 +24657,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 663;
+                exception_lineno = 685;
                 type_description_1 = "ooo";
                 goto try_except_handler_2;
             }
@@ -24686,7 +24686,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
 
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                     type_description_1 = "ooo";
-                    exception_lineno = 663;
+                    exception_lineno = 685;
                     goto try_except_handler_3;
                 }
             }
@@ -24730,7 +24730,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 663;
+                exception_lineno = 686;
                 type_description_1 = "ooo";
                 goto try_except_handler_3;
             }
@@ -24741,7 +24741,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 663;
+                exception_lineno = 686;
                 type_description_1 = "ooo";
                 goto try_except_handler_3;
             }
@@ -24759,7 +24759,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 663;
+                exception_lineno = 686;
                 type_description_1 = "ooo";
                 goto try_except_handler_3;
             }
@@ -24770,7 +24770,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 663;
+                exception_lineno = 685;
                 type_description_1 = "ooo";
                 goto try_except_handler_3;
             }
@@ -24781,7 +24781,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 663;
+            exception_lineno = 685;
             type_description_1 = "ooo";
             goto try_except_handler_3;
         }
@@ -24862,10 +24862,10 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
         NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
         return NULL;
         outline_exception_1:;
-        exception_lineno = 663;
+        exception_lineno = 685;
         goto frame_exception_exit_1;
         outline_result_1:;
-        frame_84868f3939e76211b9442b2deb8b6841->m_frame.f_lineno = 663;
+        frame_a12fa97730e15e9497080c31276c7cd3->m_frame.f_lineno = 685;
         tmp_call_result_2 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_3, tmp_args_element_value_2);
         Py_DECREF(tmp_called_value_3);
         Py_DECREF(tmp_args_element_value_2);
@@ -24875,7 +24875,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 663;
+            exception_lineno = 685;
             type_description_1 = "ooo";
             goto frame_exception_exit_1;
         }
@@ -24889,7 +24889,7 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 665;
+        exception_lineno = 689;
         type_description_1 = "ooo";
         goto frame_exception_exit_1;
     }
@@ -24913,14 +24913,14 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_84868f3939e76211b9442b2deb8b6841, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_84868f3939e76211b9442b2deb8b6841->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_84868f3939e76211b9442b2deb8b6841, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_a12fa97730e15e9497080c31276c7cd3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_a12fa97730e15e9497080c31276c7cd3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_a12fa97730e15e9497080c31276c7cd3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_84868f3939e76211b9442b2deb8b6841,
+        frame_a12fa97730e15e9497080c31276c7cd3,
         type_description_1,
         par_self,
         par_kind,
@@ -24929,16 +24929,16 @@ static PyObject *impl_psutil$_pssunos$$$function__43_connections(PyThreadState *
 
 
     // Release cached frame if used for exception.
-    if (frame_84868f3939e76211b9442b2deb8b6841 == cache_frame_84868f3939e76211b9442b2deb8b6841) {
+    if (frame_a12fa97730e15e9497080c31276c7cd3 == cache_frame_a12fa97730e15e9497080c31276c7cd3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_84868f3939e76211b9442b2deb8b6841);
-        cache_frame_84868f3939e76211b9442b2deb8b6841 = NULL;
+        Py_DECREF(cache_frame_a12fa97730e15e9497080c31276c7cd3);
+        cache_frame_a12fa97730e15e9497080c31276c7cd3 = NULL;
     }
 
-    assertFrameObject(frame_84868f3939e76211b9442b2deb8b6841);
+    assertFrameObject(frame_a12fa97730e15e9497080c31276c7cd3);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -25035,7 +25035,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     PyObject *tmp_tuple_unpack_1__element_6 = NULL;
     PyObject *tmp_tuple_unpack_1__element_7 = NULL;
     PyObject *tmp_tuple_unpack_1__source_iter = NULL;
-    struct Nuitka_FrameObject *frame_e7e897978e785cdf2fb7388cf8c4b8f0;
+    struct Nuitka_FrameObject *frame_3d73398a5b7137922308a827f69a9eb3;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
@@ -25084,7 +25084,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     PyObject *exception_keeper_value_9;
     PyTracebackObject *exception_keeper_tb_9;
     NUITKA_MAY_BE_UNUSED int exception_keeper_lineno_9;
-    static struct Nuitka_FrameObject *cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_3d73398a5b7137922308a827f69a9eb3 = NULL;
     PyObject *exception_keeper_type_10;
     PyObject *exception_keeper_value_10;
     PyTracebackObject *exception_keeper_tb_10;
@@ -25101,31 +25101,31 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
         var_toaddr = tmp_assign_source_1;
     }
     // Tried code:
-    if (isFrameUnusable(cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0)) {
-        Py_XDECREF(cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0);
+    if (isFrameUnusable(cache_frame_3d73398a5b7137922308a827f69a9eb3)) {
+        Py_XDECREF(cache_frame_3d73398a5b7137922308a827f69a9eb3);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0 == NULL) {
+        if (cache_frame_3d73398a5b7137922308a827f69a9eb3 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0 = MAKE_FUNCTION_FRAME(tstate, codeobj_e7e897978e785cdf2fb7388cf8c4b8f0, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
+        cache_frame_3d73398a5b7137922308a827f69a9eb3 = MAKE_FUNCTION_FRAME(tstate, codeobj_3d73398a5b7137922308a827f69a9eb3, module_psutil$_pssunos, sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_type_description == NULL);
-    frame_e7e897978e785cdf2fb7388cf8c4b8f0 = cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0;
+    assert(cache_frame_3d73398a5b7137922308a827f69a9eb3->m_type_description == NULL);
+    frame_3d73398a5b7137922308a827f69a9eb3 = cache_frame_3d73398a5b7137922308a827f69a9eb3;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_e7e897978e785cdf2fb7388cf8c4b8f0);
-    assert(Py_REFCNT(frame_e7e897978e785cdf2fb7388cf8c4b8f0) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_3d73398a5b7137922308a827f69a9eb3);
+    assert(Py_REFCNT(frame_3d73398a5b7137922308a827f69a9eb3) == 2);
 
     // Framed code:
     {
@@ -25140,7 +25140,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 676;
+            exception_lineno = 702;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -25173,7 +25173,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 679;
+            exception_lineno = 705;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_2;
         }
@@ -25184,7 +25184,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 679;
+            exception_lineno = 705;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_2;
         }
@@ -25197,13 +25197,13 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 679;
+            exception_lineno = 705;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_2;
         }
         CHECK_OBJECT(var_procfs_path);
         tmp_args_element_value_2 = var_procfs_path;
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 679;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 705;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_assign_source_4 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -25217,7 +25217,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 679;
+            exception_lineno = 705;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_2;
         }
@@ -25240,9 +25240,9 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     exception_preserved_1 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_1 == NULL) {
-        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = MAKE_TRACEBACK(frame_3d73398a5b7137922308a827f69a9eb3, exception_keeper_lineno_1);
     } else if (exception_keeper_lineno_1 != 0) {
-        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_keeper_lineno_1);
+        exception_keeper_tb_1 = ADD_TRACEBACK(exception_keeper_tb_1, frame_3d73398a5b7137922308a827f69a9eb3, exception_keeper_lineno_1);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_1, &exception_keeper_value_1, &exception_keeper_tb_1);
@@ -25290,7 +25290,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25306,7 +25306,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25317,7 +25317,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_2);
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25330,7 +25330,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25341,7 +25341,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25363,7 +25363,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25374,7 +25374,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 681;
+            exception_lineno = 707;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_4;
         }
@@ -25397,10 +25397,10 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     branch_no_2:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 691;
+        exception_lineno = 717;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame) frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_3d73398a5b7137922308a827f69a9eb3->m_frame) frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooooooooo";
     goto try_except_handler_4;
     branch_end_2:;
@@ -25438,10 +25438,10 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     branch_no_1:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 678;
+        exception_lineno = 704;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame) frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_3d73398a5b7137922308a827f69a9eb3->m_frame) frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooooooooo";
     goto try_except_handler_3;
     branch_end_1:;
@@ -25496,7 +25496,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 693;
+            exception_lineno = 719;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -25519,7 +25519,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
                 type_description_1 = "ooooooooooooooo";
-                exception_lineno = 693;
+                exception_lineno = 719;
                 goto try_except_handler_5;
             }
         }
@@ -25556,7 +25556,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 694;
+            exception_lineno = 720;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_6;
         }
@@ -25586,7 +25586,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25614,7 +25614,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25642,7 +25642,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25670,7 +25670,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25698,7 +25698,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25726,7 +25726,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25754,7 +25754,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
         {
@@ -25783,7 +25783,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
                     FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
                     type_description_1 = "ooooooooooooooo";
-                    exception_lineno = 694;
+                    exception_lineno = 720;
                     goto try_except_handler_7;
                 }
             }
@@ -25797,7 +25797,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             exception_tb = NULL;
 
             type_description_1 = "ooooooooooooooo";
-            exception_lineno = 694;
+            exception_lineno = 720;
             goto try_except_handler_7;
         }
     }
@@ -25980,7 +25980,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 695;
+            exception_lineno = 721;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -25990,7 +25990,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
         tmp_args_element_value_3 = var_addr;
         CHECK_OBJECT(var_addrsize);
         tmp_args_element_value_4 = var_addrsize;
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 695;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 721;
         {
             PyObject *call_args[] = {tmp_args_element_value_3, tmp_args_element_value_4};
             tmp_assign_source_25 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_2, call_args);
@@ -26002,7 +26002,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 695;
+            exception_lineno = 721;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26028,11 +26028,11 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 696;
+            exception_lineno = 722;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 696;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 722;
         tmp_operand_value_2 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_3, mod_consts[220]);
 
         Py_DECREF(tmp_called_value_3);
@@ -26042,7 +26042,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 696;
+            exception_lineno = 722;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26054,7 +26054,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 696;
+            exception_lineno = 722;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26087,7 +26087,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 698;
+            exception_lineno = 724;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_8;
         }
@@ -26098,7 +26098,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 698;
+            exception_lineno = 724;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_8;
         }
@@ -26116,7 +26116,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
                 NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(tstate, exception_value);
 
-                exception_lineno = 699;
+                exception_lineno = 725;
                 type_description_1 = "ooooooooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -26129,7 +26129,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 699;
+                exception_lineno = 725;
                 type_description_1 = "ooooooooooooooo";
                 goto tuple_build_exception_1;
             }
@@ -26154,11 +26154,11 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_4);
 
-            exception_lineno = 699;
+            exception_lineno = 725;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_8;
         }
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 698;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 724;
         tmp_assign_source_26 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_4, tmp_args_element_value_5);
         Py_DECREF(tmp_called_value_4);
         Py_DECREF(tmp_args_element_value_5);
@@ -26168,7 +26168,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 698;
+            exception_lineno = 724;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_8;
         }
@@ -26196,9 +26196,9 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     exception_preserved_2 = GET_CURRENT_EXCEPTION(tstate);
 
     if (exception_keeper_tb_6 == NULL) {
-        exception_keeper_tb_6 = MAKE_TRACEBACK(frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_keeper_lineno_6);
+        exception_keeper_tb_6 = MAKE_TRACEBACK(frame_3d73398a5b7137922308a827f69a9eb3, exception_keeper_lineno_6);
     } else if (exception_keeper_lineno_6 != 0) {
-        exception_keeper_tb_6 = ADD_TRACEBACK(exception_keeper_tb_6, frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_keeper_lineno_6);
+        exception_keeper_tb_6 = ADD_TRACEBACK(exception_keeper_tb_6, frame_3d73398a5b7137922308a827f69a9eb3, exception_keeper_lineno_6);
     }
 
     PUBLISH_CURRENT_EXCEPTION(tstate, &exception_keeper_type_6, &exception_keeper_value_6, &exception_keeper_tb_6);
@@ -26246,7 +26246,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 701;
+            exception_lineno = 728;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_10;
         }
@@ -26262,7 +26262,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_4);
 
-            exception_lineno = 701;
+            exception_lineno = 728;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_10;
         }
@@ -26273,7 +26273,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_cmp_expr_left_4);
 
-            exception_lineno = 701;
+            exception_lineno = 728;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_10;
         }
@@ -26286,7 +26286,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 701;
+            exception_lineno = 728;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_10;
         }
@@ -26316,7 +26316,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
                 NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
                 CHAIN_EXCEPTION(tstate, exception_value);
 
-                exception_lineno = 708;
+                exception_lineno = 735;
                 type_description_1 = "ooooooooooooooo";
                 goto tuple_build_exception_2;
             }
@@ -26329,7 +26329,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 708;
+                exception_lineno = 735;
                 type_description_1 = "ooooooooooooooo";
                 goto tuple_build_exception_2;
             }
@@ -26353,7 +26353,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 708;
+            exception_lineno = 735;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_10;
         }
@@ -26380,10 +26380,10 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     branch_no_5:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 711;
+        exception_lineno = 738;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame) frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_3d73398a5b7137922308a827f69a9eb3->m_frame) frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooooooooo";
     goto try_except_handler_10;
     branch_end_5:;
@@ -26418,10 +26418,10 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
     branch_no_4:;
     tmp_result = RERAISE_EXCEPTION(&exception_type, &exception_value, &exception_tb);
     if (unlikely(tmp_result == false)) {
-        exception_lineno = 697;
+        exception_lineno = 723;
     }
 
-    if (exception_tb && exception_tb->tb_frame == &frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame) frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = exception_tb->tb_lineno;
+    if (exception_tb && exception_tb->tb_frame == &frame_3d73398a5b7137922308a827f69a9eb3->m_frame) frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = exception_tb->tb_lineno;
     type_description_1 = "ooooooooooooooo";
     goto try_except_handler_9;
     branch_end_4:;
@@ -26471,7 +26471,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 712;
+            exception_lineno = 739;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26484,7 +26484,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 712;
+            exception_lineno = 739;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26502,7 +26502,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 712;
+            exception_lineno = 739;
             type_description_1 = "ooooooooooooooo";
             goto tuple_build_exception_3;
         }
@@ -26526,7 +26526,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
         goto try_except_handler_5;
         // Finished with no exception for tuple_build:
         tuple_build_noexception_3:;
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 712;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 739;
         tmp_call_result_1 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_5, tmp_args_element_value_6);
         Py_DECREF(tmp_called_value_5);
         Py_DECREF(tmp_args_element_value_6);
@@ -26536,7 +26536,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 712;
+            exception_lineno = 739;
             type_description_1 = "ooooooooooooooo";
             goto try_except_handler_5;
         }
@@ -26548,7 +26548,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
         FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-        exception_lineno = 693;
+        exception_lineno = 719;
         type_description_1 = "ooooooooooooooo";
         goto try_except_handler_5;
     }
@@ -26595,7 +26595,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 713;
+            exception_lineno = 740;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -26607,7 +26607,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 713;
+            exception_lineno = 740;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -26629,13 +26629,13 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 714;
+            exception_lineno = 741;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
 
         tmp_called_instance_1 = par_self;
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame.f_lineno = 714;
+        frame_3d73398a5b7137922308a827f69a9eb3->m_frame.f_lineno = 741;
         tmp_call_result_2 = CALL_METHOD_NO_ARGS(tstate, tmp_called_instance_1, mod_consts[167]);
         if (tmp_call_result_2 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
@@ -26643,7 +26643,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 714;
+            exception_lineno = 741;
             type_description_1 = "ooooooooooooooo";
             goto frame_exception_exit_1;
         }
@@ -26657,7 +26657,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
         NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
         CHAIN_EXCEPTION(tstate, exception_value);
 
-        exception_lineno = 715;
+        exception_lineno = 742;
         type_description_1 = "ooooooooooooooo";
         goto frame_exception_exit_1;
     }
@@ -26681,14 +26681,14 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_e7e897978e785cdf2fb7388cf8c4b8f0->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_e7e897978e785cdf2fb7388cf8c4b8f0, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_3d73398a5b7137922308a827f69a9eb3, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_3d73398a5b7137922308a827f69a9eb3->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_3d73398a5b7137922308a827f69a9eb3, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_e7e897978e785cdf2fb7388cf8c4b8f0,
+        frame_3d73398a5b7137922308a827f69a9eb3,
         type_description_1,
         par_self,
         var_toaddr,
@@ -26709,16 +26709,16 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps(PyThreadState *
 
 
     // Release cached frame if used for exception.
-    if (frame_e7e897978e785cdf2fb7388cf8c4b8f0 == cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0) {
+    if (frame_3d73398a5b7137922308a827f69a9eb3 == cache_frame_3d73398a5b7137922308a827f69a9eb3) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0);
-        cache_frame_e7e897978e785cdf2fb7388cf8c4b8f0 = NULL;
+        Py_DECREF(cache_frame_3d73398a5b7137922308a827f69a9eb3);
+        cache_frame_3d73398a5b7137922308a827f69a9eb3 = NULL;
     }
 
-    assertFrameObject(frame_e7e897978e785cdf2fb7388cf8c4b8f0);
+    assertFrameObject(frame_3d73398a5b7137922308a827f69a9eb3);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -26841,41 +26841,41 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
     // Local variable declarations.
     PyObject *par_start = python_pars[0];
     PyObject *par_end = python_pars[1];
-    struct Nuitka_FrameObject *frame_073de4b23d42b85d1a8fdfde9ce56b40;
+    struct Nuitka_FrameObject *frame_c957f35f8e4f432ba0f0914cdeffeb99;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_073de4b23d42b85d1a8fdfde9ce56b40 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_c957f35f8e4f432ba0f0914cdeffeb99 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_073de4b23d42b85d1a8fdfde9ce56b40)) {
-        Py_XDECREF(cache_frame_073de4b23d42b85d1a8fdfde9ce56b40);
+    if (isFrameUnusable(cache_frame_c957f35f8e4f432ba0f0914cdeffeb99)) {
+        Py_XDECREF(cache_frame_c957f35f8e4f432ba0f0914cdeffeb99);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_073de4b23d42b85d1a8fdfde9ce56b40 == NULL) {
+        if (cache_frame_c957f35f8e4f432ba0f0914cdeffeb99 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_073de4b23d42b85d1a8fdfde9ce56b40 = MAKE_FUNCTION_FRAME(tstate, codeobj_073de4b23d42b85d1a8fdfde9ce56b40, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_c957f35f8e4f432ba0f0914cdeffeb99 = MAKE_FUNCTION_FRAME(tstate, codeobj_c957f35f8e4f432ba0f0914cdeffeb99, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_073de4b23d42b85d1a8fdfde9ce56b40->m_type_description == NULL);
-    frame_073de4b23d42b85d1a8fdfde9ce56b40 = cache_frame_073de4b23d42b85d1a8fdfde9ce56b40;
+    assert(cache_frame_c957f35f8e4f432ba0f0914cdeffeb99->m_type_description == NULL);
+    frame_c957f35f8e4f432ba0f0914cdeffeb99 = cache_frame_c957f35f8e4f432ba0f0914cdeffeb99;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_073de4b23d42b85d1a8fdfde9ce56b40);
-    assert(Py_REFCNT(frame_073de4b23d42b85d1a8fdfde9ce56b40) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_c957f35f8e4f432ba0f0914cdeffeb99);
+    assert(Py_REFCNT(frame_c957f35f8e4f432ba0f0914cdeffeb99) == 2);
 
     // Framed code:
     {
@@ -26897,7 +26897,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 673;
+            exception_lineno = 698;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -26910,7 +26910,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 673;
+            exception_lineno = 698;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -26922,11 +26922,11 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 673;
+            exception_lineno = 698;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_073de4b23d42b85d1a8fdfde9ce56b40->m_frame.f_lineno = 673;
+        frame_c957f35f8e4f432ba0f0914cdeffeb99->m_frame.f_lineno = 698;
         tmp_tuple_element_1 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_1, mod_consts[224]);
 
         Py_DECREF(tmp_called_value_1);
@@ -26936,7 +26936,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 673;
+            exception_lineno = 698;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -26957,7 +26957,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 674;
+                exception_lineno = 699;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
@@ -26970,7 +26970,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 674;
+                exception_lineno = 699;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
@@ -26982,11 +26982,11 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 674;
+                exception_lineno = 699;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
-            frame_073de4b23d42b85d1a8fdfde9ce56b40->m_frame.f_lineno = 674;
+            frame_c957f35f8e4f432ba0f0914cdeffeb99->m_frame.f_lineno = 699;
             tmp_tuple_element_1 = CALL_FUNCTION_WITH_POSARGS1(tstate, tmp_called_value_2, mod_consts[224]);
 
             Py_DECREF(tmp_called_value_2);
@@ -26996,7 +26996,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 674;
+                exception_lineno = 699;
                 type_description_1 = "oo";
                 goto tuple_build_exception_1;
             }
@@ -27017,7 +27017,7 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 673;
+            exception_lineno = 697;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -27039,14 +27039,14 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_073de4b23d42b85d1a8fdfde9ce56b40, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_073de4b23d42b85d1a8fdfde9ce56b40->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_073de4b23d42b85d1a8fdfde9ce56b40, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_c957f35f8e4f432ba0f0914cdeffeb99, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_c957f35f8e4f432ba0f0914cdeffeb99->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_c957f35f8e4f432ba0f0914cdeffeb99, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_073de4b23d42b85d1a8fdfde9ce56b40,
+        frame_c957f35f8e4f432ba0f0914cdeffeb99,
         type_description_1,
         par_start,
         par_end
@@ -27054,16 +27054,16 @@ static PyObject *impl_psutil$_pssunos$$$function__44_memory_maps$$$function__1_t
 
 
     // Release cached frame if used for exception.
-    if (frame_073de4b23d42b85d1a8fdfde9ce56b40 == cache_frame_073de4b23d42b85d1a8fdfde9ce56b40) {
+    if (frame_c957f35f8e4f432ba0f0914cdeffeb99 == cache_frame_c957f35f8e4f432ba0f0914cdeffeb99) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_073de4b23d42b85d1a8fdfde9ce56b40);
-        cache_frame_073de4b23d42b85d1a8fdfde9ce56b40 = NULL;
+        Py_DECREF(cache_frame_c957f35f8e4f432ba0f0914cdeffeb99);
+        cache_frame_c957f35f8e4f432ba0f0914cdeffeb99 = NULL;
     }
 
-    assertFrameObject(frame_073de4b23d42b85d1a8fdfde9ce56b40);
+    assertFrameObject(frame_c957f35f8e4f432ba0f0914cdeffeb99);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -27108,41 +27108,41 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_3dd3648ff191ffbe90c7eb0dc07949bb;
+    struct Nuitka_FrameObject *frame_f2f7ef4acee3cd9657069a2fdedbc50d;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb = NULL;
+    static struct Nuitka_FrameObject *cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb)) {
-        Py_XDECREF(cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb);
+    if (isFrameUnusable(cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d)) {
+        Py_XDECREF(cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb == NULL) {
+        if (cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb = MAKE_FUNCTION_FRAME(tstate, codeobj_3dd3648ff191ffbe90c7eb0dc07949bb, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d = MAKE_FUNCTION_FRAME(tstate, codeobj_f2f7ef4acee3cd9657069a2fdedbc50d, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb->m_type_description == NULL);
-    frame_3dd3648ff191ffbe90c7eb0dc07949bb = cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb;
+    assert(cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d->m_type_description == NULL);
+    frame_f2f7ef4acee3cd9657069a2fdedbc50d = cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_3dd3648ff191ffbe90c7eb0dc07949bb);
-    assert(Py_REFCNT(frame_3dd3648ff191ffbe90c7eb0dc07949bb) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_f2f7ef4acee3cd9657069a2fdedbc50d);
+    assert(Py_REFCNT(frame_f2f7ef4acee3cd9657069a2fdedbc50d) == 2);
 
     // Framed code:
     {
@@ -27162,7 +27162,7 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 719;
+            exception_lineno = 746;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27179,7 +27179,7 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 719;
+                exception_lineno = 746;
                 type_description_1 = "o";
                 goto tuple_build_exception_1;
             }
@@ -27200,7 +27200,7 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 719;
+            exception_lineno = 746;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27212,7 +27212,7 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 719;
+            exception_lineno = 746;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27224,7 +27224,7 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 719;
+            exception_lineno = 746;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27246,30 +27246,30 @@ static PyObject *impl_psutil$_pssunos$$$function__45_num_fds(PyThreadState *tsta
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3dd3648ff191ffbe90c7eb0dc07949bb, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3dd3648ff191ffbe90c7eb0dc07949bb->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3dd3648ff191ffbe90c7eb0dc07949bb, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_f2f7ef4acee3cd9657069a2fdedbc50d, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_f2f7ef4acee3cd9657069a2fdedbc50d->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_f2f7ef4acee3cd9657069a2fdedbc50d, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3dd3648ff191ffbe90c7eb0dc07949bb,
+        frame_f2f7ef4acee3cd9657069a2fdedbc50d,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_3dd3648ff191ffbe90c7eb0dc07949bb == cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb) {
+    if (frame_f2f7ef4acee3cd9657069a2fdedbc50d == cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb);
-        cache_frame_3dd3648ff191ffbe90c7eb0dc07949bb = NULL;
+        Py_DECREF(cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d);
+        cache_frame_f2f7ef4acee3cd9657069a2fdedbc50d = NULL;
     }
 
-    assertFrameObject(frame_3dd3648ff191ffbe90c7eb0dc07949bb);
+    assertFrameObject(frame_f2f7ef4acee3cd9657069a2fdedbc50d);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -27310,41 +27310,41 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
 
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
-    struct Nuitka_FrameObject *frame_fc58ae7c1db01a685d88cc687ebe7279;
+    struct Nuitka_FrameObject *frame_ebbf4092cbe2b16eb0ca602fb5508be6;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_fc58ae7c1db01a685d88cc687ebe7279 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_fc58ae7c1db01a685d88cc687ebe7279)) {
-        Py_XDECREF(cache_frame_fc58ae7c1db01a685d88cc687ebe7279);
+    if (isFrameUnusable(cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6)) {
+        Py_XDECREF(cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_fc58ae7c1db01a685d88cc687ebe7279 == NULL) {
+        if (cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_fc58ae7c1db01a685d88cc687ebe7279 = MAKE_FUNCTION_FRAME(tstate, codeobj_fc58ae7c1db01a685d88cc687ebe7279, module_psutil$_pssunos, sizeof(void *));
+        cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6 = MAKE_FUNCTION_FRAME(tstate, codeobj_ebbf4092cbe2b16eb0ca602fb5508be6, module_psutil$_pssunos, sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_fc58ae7c1db01a685d88cc687ebe7279->m_type_description == NULL);
-    frame_fc58ae7c1db01a685d88cc687ebe7279 = cache_frame_fc58ae7c1db01a685d88cc687ebe7279;
+    assert(cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6->m_type_description == NULL);
+    frame_ebbf4092cbe2b16eb0ca602fb5508be6 = cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_fc58ae7c1db01a685d88cc687ebe7279);
-    assert(Py_REFCNT(frame_fc58ae7c1db01a685d88cc687ebe7279) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_ebbf4092cbe2b16eb0ca602fb5508be6);
+    assert(Py_REFCNT(frame_ebbf4092cbe2b16eb0ca602fb5508be6) == 2);
 
     // Framed code:
     {
@@ -27369,7 +27369,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 723;
+            exception_lineno = 750;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27380,7 +27380,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 723;
+            exception_lineno = 750;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27396,7 +27396,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_dircall_arg1_1);
 
-            exception_lineno = 724;
+            exception_lineno = 751;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27407,7 +27407,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_dircall_arg1_1);
 
-            exception_lineno = 724;
+            exception_lineno = 751;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27421,7 +27421,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             Py_DECREF(tmp_dircall_arg1_1);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 724;
+            exception_lineno = 751;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27436,11 +27436,11 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 724;
+            exception_lineno = 751;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
-        frame_fc58ae7c1db01a685d88cc687ebe7279->m_frame.f_lineno = 724;
+        frame_ebbf4092cbe2b16eb0ca602fb5508be6->m_frame.f_lineno = 751;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_dircall_arg2_1 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -27455,7 +27455,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_dircall_arg1_1);
 
-            exception_lineno = 724;
+            exception_lineno = 751;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27470,7 +27470,7 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 723;
+            exception_lineno = 750;
             type_description_1 = "o";
             goto frame_exception_exit_1;
         }
@@ -27492,30 +27492,30 @@ static PyObject *impl_psutil$_pssunos$$$function__46_num_ctx_switches(PyThreadSt
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_fc58ae7c1db01a685d88cc687ebe7279, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_fc58ae7c1db01a685d88cc687ebe7279->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_fc58ae7c1db01a685d88cc687ebe7279, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_ebbf4092cbe2b16eb0ca602fb5508be6, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_ebbf4092cbe2b16eb0ca602fb5508be6->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_ebbf4092cbe2b16eb0ca602fb5508be6, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_fc58ae7c1db01a685d88cc687ebe7279,
+        frame_ebbf4092cbe2b16eb0ca602fb5508be6,
         type_description_1,
         par_self
     );
 
 
     // Release cached frame if used for exception.
-    if (frame_fc58ae7c1db01a685d88cc687ebe7279 == cache_frame_fc58ae7c1db01a685d88cc687ebe7279) {
+    if (frame_ebbf4092cbe2b16eb0ca602fb5508be6 == cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_fc58ae7c1db01a685d88cc687ebe7279);
-        cache_frame_fc58ae7c1db01a685d88cc687ebe7279 = NULL;
+        Py_DECREF(cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6);
+        cache_frame_ebbf4092cbe2b16eb0ca602fb5508be6 = NULL;
     }
 
-    assertFrameObject(frame_fc58ae7c1db01a685d88cc687ebe7279);
+    assertFrameObject(frame_ebbf4092cbe2b16eb0ca602fb5508be6);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -27557,41 +27557,41 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
     // Local variable declarations.
     PyObject *par_self = python_pars[0];
     PyObject *par_timeout = python_pars[1];
-    struct Nuitka_FrameObject *frame_3c79f8d97db847293d9ce2226232e876;
+    struct Nuitka_FrameObject *frame_fc4459a46f4fac49c70276460d95b165;
     NUITKA_MAY_BE_UNUSED char const *type_description_1 = NULL;
     PyObject *tmp_return_value = NULL;
     PyObject *exception_type = NULL;
     PyObject *exception_value = NULL;
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
-    static struct Nuitka_FrameObject *cache_frame_3c79f8d97db847293d9ce2226232e876 = NULL;
+    static struct Nuitka_FrameObject *cache_frame_fc4459a46f4fac49c70276460d95b165 = NULL;
 
     // Actual function body.
-    if (isFrameUnusable(cache_frame_3c79f8d97db847293d9ce2226232e876)) {
-        Py_XDECREF(cache_frame_3c79f8d97db847293d9ce2226232e876);
+    if (isFrameUnusable(cache_frame_fc4459a46f4fac49c70276460d95b165)) {
+        Py_XDECREF(cache_frame_fc4459a46f4fac49c70276460d95b165);
 
 #if _DEBUG_REFCOUNTS
-        if (cache_frame_3c79f8d97db847293d9ce2226232e876 == NULL) {
+        if (cache_frame_fc4459a46f4fac49c70276460d95b165 == NULL) {
             count_active_frame_cache_instances += 1;
         } else {
             count_released_frame_cache_instances += 1;
         }
         count_allocated_frame_cache_instances += 1;
 #endif
-        cache_frame_3c79f8d97db847293d9ce2226232e876 = MAKE_FUNCTION_FRAME(tstate, codeobj_3c79f8d97db847293d9ce2226232e876, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
+        cache_frame_fc4459a46f4fac49c70276460d95b165 = MAKE_FUNCTION_FRAME(tstate, codeobj_fc4459a46f4fac49c70276460d95b165, module_psutil$_pssunos, sizeof(void *)+sizeof(void *));
 #if _DEBUG_REFCOUNTS
     } else {
         count_hit_frame_cache_instances += 1;
 #endif
     }
 
-    assert(cache_frame_3c79f8d97db847293d9ce2226232e876->m_type_description == NULL);
-    frame_3c79f8d97db847293d9ce2226232e876 = cache_frame_3c79f8d97db847293d9ce2226232e876;
+    assert(cache_frame_fc4459a46f4fac49c70276460d95b165->m_type_description == NULL);
+    frame_fc4459a46f4fac49c70276460d95b165 = cache_frame_fc4459a46f4fac49c70276460d95b165;
 
     // Push the new frame as the currently active one, and we should be exclusively
     // owning it.
-    pushFrameStackCompiledFrame(tstate, frame_3c79f8d97db847293d9ce2226232e876);
-    assert(Py_REFCNT(frame_3c79f8d97db847293d9ce2226232e876) == 2);
+    pushFrameStackCompiledFrame(tstate, frame_fc4459a46f4fac49c70276460d95b165);
+    assert(Py_REFCNT(frame_fc4459a46f4fac49c70276460d95b165) == 2);
 
     // Framed code:
     {
@@ -27614,7 +27614,7 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 728;
+            exception_lineno = 756;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -27625,7 +27625,7 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 728;
+            exception_lineno = 756;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -27638,7 +27638,7 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
             Py_DECREF(tmp_called_value_1);
 
-            exception_lineno = 728;
+            exception_lineno = 756;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -27654,11 +27654,11 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
             Py_DECREF(tmp_called_value_1);
             Py_DECREF(tmp_args_element_value_1);
 
-            exception_lineno = 728;
+            exception_lineno = 756;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
-        frame_3c79f8d97db847293d9ce2226232e876->m_frame.f_lineno = 728;
+        frame_fc4459a46f4fac49c70276460d95b165->m_frame.f_lineno = 756;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2, tmp_args_element_value_3};
             tmp_return_value = CALL_FUNCTION_WITH_ARGS3(tstate, tmp_called_value_1, call_args);
@@ -27673,7 +27673,7 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 728;
+            exception_lineno = 756;
             type_description_1 = "oo";
             goto frame_exception_exit_1;
         }
@@ -27695,14 +27695,14 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
 
 
     if (exception_tb == NULL) {
-        exception_tb = MAKE_TRACEBACK(frame_3c79f8d97db847293d9ce2226232e876, exception_lineno);
-    } else if (exception_tb->tb_frame != &frame_3c79f8d97db847293d9ce2226232e876->m_frame) {
-        exception_tb = ADD_TRACEBACK(exception_tb, frame_3c79f8d97db847293d9ce2226232e876, exception_lineno);
+        exception_tb = MAKE_TRACEBACK(frame_fc4459a46f4fac49c70276460d95b165, exception_lineno);
+    } else if (exception_tb->tb_frame != &frame_fc4459a46f4fac49c70276460d95b165->m_frame) {
+        exception_tb = ADD_TRACEBACK(exception_tb, frame_fc4459a46f4fac49c70276460d95b165, exception_lineno);
     }
 
     // Attaches locals to frame if any.
     Nuitka_Frame_AttachLocals(
-        frame_3c79f8d97db847293d9ce2226232e876,
+        frame_fc4459a46f4fac49c70276460d95b165,
         type_description_1,
         par_self,
         par_timeout
@@ -27710,16 +27710,16 @@ static PyObject *impl_psutil$_pssunos$$$function__47_wait(PyThreadState *tstate,
 
 
     // Release cached frame if used for exception.
-    if (frame_3c79f8d97db847293d9ce2226232e876 == cache_frame_3c79f8d97db847293d9ce2226232e876) {
+    if (frame_fc4459a46f4fac49c70276460d95b165 == cache_frame_fc4459a46f4fac49c70276460d95b165) {
 #if _DEBUG_REFCOUNTS
         count_active_frame_cache_instances -= 1;
         count_released_frame_cache_instances += 1;
 #endif
-        Py_DECREF(cache_frame_3c79f8d97db847293d9ce2226232e876);
-        cache_frame_3c79f8d97db847293d9ce2226232e876 = NULL;
+        Py_DECREF(cache_frame_fc4459a46f4fac49c70276460d95b165);
+        cache_frame_fc4459a46f4fac49c70276460d95b165 = NULL;
     }
 
-    assertFrameObject(frame_3c79f8d97db847293d9ce2226232e876);
+    assertFrameObject(frame_fc4459a46f4fac49c70276460d95b165);
 
     // Put the previous frame back on top.
     popFrameStack(tstate);
@@ -27764,7 +27764,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__10_net_if_stats() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ac64e73ce9fd8d555cb5e488f06411cc,
+        codeobj_ef4ba9b82cf132369c40b411a75db369,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27789,7 +27789,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__11_boot_time() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_e7bf45503ff91ff44824d8e6002e1ae0,
+        codeobj_9510cf340b52d666717f8da4ef7b6dc5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27814,7 +27814,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__12_users() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_14675a4b1f026c5f7ce1ae17b6177545,
+        codeobj_482dc889a4a2b5fa56eab1a3ec714d53,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27839,7 +27839,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__13_pids() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_b38130ca184ba469aa5cbcda2bf48fc5,
+        codeobj_a4007c869f8af086c5daa03d933c312d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27864,7 +27864,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__14_pid_exists() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_bd59ec509c3a8db1af9622fbb4eb16d6,
+        codeobj_1c900aed76b3104d65edeed2a758c1bf,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27889,7 +27889,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__15_wrap_exceptions() 
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_d317547b4dcb132440ba4ba320d9a6f0,
+        codeobj_ae42d6a95a97b3271cfc0b2aeae968e5,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27914,7 +27914,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__15_wrap_exceptions$$$
 #if PYTHON_VERSION >= 0x300
         mod_consts[108],
 #endif
-        codeobj_177fb5526a1ef92728282dbb1c5c0a29,
+        codeobj_6e96b0089268266ff4e98b5678cb789b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27939,7 +27939,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__16___init__() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[338],
 #endif
-        codeobj_e0e0555bd3ec9857008423fbe8586f57,
+        codeobj_f250d9965f1ee33d519894e2bf1be7f1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27964,7 +27964,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__17__assert_alive() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[339],
 #endif
-        codeobj_30a34450e18d76c388bc6b37c50503a0,
+        codeobj_8cfe7a877b2161028b8b6c6caf9efe99,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -27989,7 +27989,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__18_oneshot_enter() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[341],
 #endif
-        codeobj_961e60ef4fd8ad2d9865ca84bca44939,
+        codeobj_9e99b2dc39edf7dcc060d46f4e64e6bd,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28014,7 +28014,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__19_oneshot_exit() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[343],
 #endif
-        codeobj_54ed274d7985372492813cd3505e999a,
+        codeobj_b3030616ee2e73df8928ea92c0622e78,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28039,7 +28039,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__1_virtual_memory() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_ac4a27e8c4d8837a28fbd2557cbf6160,
+        codeobj_a1a76d18cb9dea48ff5942a7e5fe4390,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28064,7 +28064,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__20__proc_name_and_arg
 #if PYTHON_VERSION >= 0x300
         mod_consts[344],
 #endif
-        codeobj_1cc217bd1812d94d6853d8d43efc30c4,
+        codeobj_bac279a8624b815d2497380dd029da45,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28089,7 +28089,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__21__proc_basic_info()
 #if PYTHON_VERSION >= 0x300
         mod_consts[345],
 #endif
-        codeobj_7fb60b5430bb29d2c60f04330d29e465,
+        codeobj_13d1e9e122940c03e732ecf831da001e,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28114,7 +28114,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__22__proc_cred() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[346],
 #endif
-        codeobj_09a4d5f2263d020f0c85be2abd744c06,
+        codeobj_d08df6a25c4973f03d396129b5f7ecd2,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28139,7 +28139,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__23_name() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[347],
 #endif
-        codeobj_9ae311f86f7e0dc2682ac1b52246c090,
+        codeobj_ae2c5750e835120ebfd50abc70f5742c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28164,7 +28164,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__24_exe() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[349],
 #endif
-        codeobj_ce397c0ea09024ffb5e77a08d49ad00e,
+        codeobj_665fc2ee3b05178059351e5fba36bc5c,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28189,7 +28189,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__25_cmdline() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[350],
 #endif
-        codeobj_ba8662640dfc521b7ee8470c21141338,
+        codeobj_7135a20500bba001896a3f9052727be8,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28214,7 +28214,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__26_environ() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[351],
 #endif
-        codeobj_ba1d4c0dd1c5c0777cba58a2c5f62d8c,
+        codeobj_ee885307799e4f0bc9deab5403c04aa4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28239,7 +28239,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__27_create_time() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[352],
 #endif
-        codeobj_b9098b8a864723cfa072df1502674798,
+        codeobj_7a97f4837842de343df3c0db2de20f43,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28264,7 +28264,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__28_num_threads() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[353],
 #endif
-        codeobj_037784cdcef637e5fc51d92e19fa720a,
+        codeobj_4710f5cb11f0b888135b34396328af84,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28289,7 +28289,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__29_nice_get() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[355],
 #endif
-        codeobj_213d44dca8b4e5598787cc3a589e6ff9,
+        codeobj_07cba1cd7fe6b51afa77bb5af6273aa4,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28314,7 +28314,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__2_swap_memory() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_a476bbed8fdd73762c901309455e881f,
+        codeobj_44742a1b01bcea30a15d7eb50c7bd3a7,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28339,7 +28339,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__30_nice_set() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[357],
 #endif
-        codeobj_9bc7f8f462e3c94075ad05f3a2778683,
+        codeobj_cd31de1c02449f22994bb60fb234b201,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28364,7 +28364,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__31_ppid() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[358],
 #endif
-        codeobj_412f2e87176f47c0dada538deec377dc,
+        codeobj_376189636c587e3d62e2b3d5180bb5d3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28389,7 +28389,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__32_uids() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[360],
 #endif
-        codeobj_669ef695f972ab953d7fe7898ed0e7ee,
+        codeobj_285bdab126217a2d373c881ff19841c0,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28414,7 +28414,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__33_gids() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[362],
 #endif
-        codeobj_05ea36a55a6759ce2ed14909b1c0de1f,
+        codeobj_7be5c9e8d3783528b7a527851b0b643f,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28439,7 +28439,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__34_cpu_times() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[363],
 #endif
-        codeobj_f4f9dfd44e90817a21d95ceaaa1abbdd,
+        codeobj_aec0473e48b1faf5f4964f09235d9c97,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28464,7 +28464,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__35_cpu_num() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[365],
 #endif
-        codeobj_401a935459c1f348ce81688b8e9b8065,
+        codeobj_82db513a99ad7d540ececf3a94fa3c2b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28489,7 +28489,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__36_terminal() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[367],
 #endif
-        codeobj_0f406780b93400fdb870d96f37c40b38,
+        codeobj_35271d63e2a88dc94796bf32ca3cf3bd,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28514,7 +28514,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__37_cwd() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[369],
 #endif
-        codeobj_4d5e86138d93278a1339552d29819e7a,
+        codeobj_9b9986a92f42b00c1815b674dc361283,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28539,7 +28539,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__38_memory_info() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[371],
 #endif
-        codeobj_8ee908c9710a172531e029f307419ae6,
+        codeobj_a8da812569bb670b8509cd41a97b54c1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28564,7 +28564,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__39_status() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[373],
 #endif
-        codeobj_e9bb54db393c3018d7c05b364ac2b3c2,
+        codeobj_80446e79408330aa559ca453606ad41b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28589,7 +28589,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__3_cpu_times() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_37eb4932fec00db9635e8848e7471ddb,
+        codeobj_ed79a413d92211c6571b78b8dce9ef3b,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28614,7 +28614,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__40_threads() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[375],
 #endif
-        codeobj_79988fa6c0468337be881cf56567c488,
+        codeobj_2aadc8a41477c52cae3ea62518c3d367,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28639,7 +28639,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__41_open_files() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[377],
 #endif
-        codeobj_c0ff44a188b51147ce15b47bfd25f089,
+        codeobj_1195bc6d2b48251180302d60420528e1,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28664,7 +28664,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__42__get_unix_sockets(
 #if PYTHON_VERSION >= 0x300
         mod_consts[209],
 #endif
-        codeobj_8f37899c18d1b2104e043d5c4ec2d028,
+        codeobj_ddf3986baba37adb6f3a1003221ec780,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28689,7 +28689,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__43_connections(PyObje
 #if PYTHON_VERSION >= 0x300
         mod_consts[380],
 #endif
-        codeobj_84868f3939e76211b9442b2deb8b6841,
+        codeobj_a12fa97730e15e9497080c31276c7cd3,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28714,7 +28714,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__44_memory_maps() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[386],
 #endif
-        codeobj_e7e897978e785cdf2fb7388cf8c4b8f0,
+        codeobj_3d73398a5b7137922308a827f69a9eb3,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28739,7 +28739,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__44_memory_maps$$$func
 #if PYTHON_VERSION >= 0x300
         mod_consts[218],
 #endif
-        codeobj_073de4b23d42b85d1a8fdfde9ce56b40,
+        codeobj_c957f35f8e4f432ba0f0914cdeffeb99,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28764,7 +28764,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__45_num_fds() {
 #if PYTHON_VERSION >= 0x300
         mod_consts[388],
 #endif
-        codeobj_3dd3648ff191ffbe90c7eb0dc07949bb,
+        codeobj_f2f7ef4acee3cd9657069a2fdedbc50d,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28789,7 +28789,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__46_num_ctx_switches()
 #if PYTHON_VERSION >= 0x300
         mod_consts[390],
 #endif
-        codeobj_fc58ae7c1db01a685d88cc687ebe7279,
+        codeobj_ebbf4092cbe2b16eb0ca602fb5508be6,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28814,7 +28814,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__47_wait(PyObject *def
 #if PYTHON_VERSION >= 0x300
         mod_consts[393],
 #endif
-        codeobj_3c79f8d97db847293d9ce2226232e876,
+        codeobj_fc4459a46f4fac49c70276460d95b165,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28839,7 +28839,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__4_per_cpu_times() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_70bc4a541f8eac08154ba423079ff5c8,
+        codeobj_c55725ede457ff74c6b0bf54c0f25dbb,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28864,7 +28864,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__5_cpu_count_logical()
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_2214914e5e2d7dbe6c8f84df437bb0f2,
+        codeobj_e03734726b070aaae53d6549c3c215b9,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28889,7 +28889,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__6_cpu_count_cores() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_688a220b46cd8ece58d648940cee6c7b,
+        codeobj_e3b15664d0c42f3b3863d3479162c68a,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28914,7 +28914,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__7_cpu_stats() {
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_9c515c0f62398e7596505c673b7e1b47,
+        codeobj_f1b84e041d2044e9efb0b8b509dbbf27,
         NULL,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28939,7 +28939,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__8_disk_partitions(PyO
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_fa51d0cdd089b34f03099b48496a6419,
+        codeobj_bcaedd9cc226e916c6aa20269a02d6af,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -28964,7 +28964,7 @@ static PyObject *MAKE_FUNCTION_psutil$_pssunos$$$function__9_net_connections(PyO
 #if PYTHON_VERSION >= 0x300
         NULL,
 #endif
-        codeobj_0b2e333b8ffeebc478e39238f2f2b7d7,
+        codeobj_728a8a0bc9682e716fef472c8bebad29,
         defaults,
 #if PYTHON_VERSION >= 0x300
         NULL,
@@ -29363,9 +29363,9 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
     PyTracebackObject *exception_tb = NULL;
     NUITKA_MAY_BE_UNUSED int exception_lineno = 0;
     int tmp_res;
-    PyObject *locals_psutil$_pssunos$$$class__1_Process_373 = NULL;
+    PyObject *locals_psutil$_pssunos$$$class__1_Process_390 = NULL;
     PyObject *tmp_dictset_value;
-    struct Nuitka_FrameObject *frame_4fae01a9e38901f88fa98e702522d65b_2;
+    struct Nuitka_FrameObject *frame_2f8ca13bab2a127e540f8b2fe00aec1c_2;
     NUITKA_MAY_BE_UNUSED char const *type_description_2 = NULL;
     PyObject *exception_keeper_type_1;
     PyObject *exception_keeper_value_1;
@@ -32208,13 +32208,13 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 101;
+            exception_lineno = 102;
 
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_1 = mod_consts[42];
         tmp_call_arg_element_2 = MAKE_LIST4(mod_consts[311]);
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 101;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 102;
         {
             PyObject *call_args[] = {tmp_call_arg_element_1, tmp_call_arg_element_2};
             tmp_assign_source_41 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_1, call_args);
@@ -32227,7 +32227,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 101;
+            exception_lineno = 102;
 
             goto frame_exception_exit_1;
         }
@@ -32250,13 +32250,13 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 103;
+            exception_lineno = 104;
 
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_3 = mod_consts[158];
         tmp_call_arg_element_4 = MAKE_LIST4(mod_consts[312]);
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 103;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 104;
         {
             PyObject *call_args[] = {tmp_call_arg_element_3, tmp_call_arg_element_4};
             tmp_assign_source_42 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_2, call_args);
@@ -32269,7 +32269,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 103;
+            exception_lineno = 104;
 
             goto frame_exception_exit_1;
         }
@@ -32292,13 +32292,13 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 106;
+            exception_lineno = 108;
 
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_5 = mod_consts[7];
         tmp_call_arg_element_6 = MAKE_LIST5(mod_consts[313]);
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 106;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 108;
         {
             PyObject *call_args[] = {tmp_call_arg_element_5, tmp_call_arg_element_6};
             tmp_assign_source_43 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_3, call_args);
@@ -32311,7 +32311,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 106;
+            exception_lineno = 108;
 
             goto frame_exception_exit_1;
         }
@@ -32334,13 +32334,13 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 108;
+            exception_lineno = 110;
 
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_7 = mod_consts[172];
         tmp_call_arg_element_8 = MAKE_LIST2(mod_consts[169],mod_consts[171]);
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 108;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 110;
         {
             PyObject *call_args[] = {tmp_call_arg_element_7, tmp_call_arg_element_8};
             tmp_assign_source_44 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_4, call_args);
@@ -32353,7 +32353,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 108;
+            exception_lineno = 110;
 
             goto frame_exception_exit_1;
         }
@@ -32387,13 +32387,13 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 111;
+            exception_lineno = 113;
 
             goto frame_exception_exit_1;
         }
         tmp_call_arg_element_9 = mod_consts[315];
         tmp_call_arg_element_10 = MAKE_LIST4(mod_consts[316]);
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 111;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 113;
         {
             PyObject *call_args[] = {tmp_call_arg_element_9, tmp_call_arg_element_10};
             tmp_assign_source_46 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_5, call_args);
@@ -32406,7 +32406,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 111;
+            exception_lineno = 113;
 
             goto frame_exception_exit_1;
         }
@@ -32434,7 +32434,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 114;
+            exception_lineno = 117;
 
             goto frame_exception_exit_1;
         }
@@ -32455,7 +32455,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 115;
+            exception_lineno = 118;
 
             goto frame_exception_exit_1;
         }
@@ -32467,14 +32467,14 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 115;
+            exception_lineno = 118;
 
             goto frame_exception_exit_1;
         }
         tmp_args_element_value_2 = BINARY_OPERATION_ADD_OBJECT_UNICODE_UNICODE(tmp_add_expr_left_1, tmp_add_expr_right_1);
         Py_DECREF(tmp_add_expr_right_1);
         assert(!(tmp_args_element_value_2 == NULL));
-        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 114;
+        frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 117;
         {
             PyObject *call_args[] = {tmp_args_element_value_1, tmp_args_element_value_2};
             tmp_assign_source_47 = CALL_FUNCTION_WITH_ARGS2(tstate, tmp_called_value_6, call_args);
@@ -32487,7 +32487,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 114;
+            exception_lineno = 117;
 
             goto frame_exception_exit_1;
         }
@@ -32564,7 +32564,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 212;
+            exception_lineno = 224;
 
             goto frame_exception_exit_1;
         }
@@ -32575,7 +32575,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 212;
+            exception_lineno = 224;
 
             goto frame_exception_exit_1;
         }
@@ -32596,7 +32596,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 213;
+            exception_lineno = 225;
 
             goto frame_exception_exit_1;
         }
@@ -32607,7 +32607,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 213;
+            exception_lineno = 225;
 
             goto frame_exception_exit_1;
         }
@@ -32639,7 +32639,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 249;
+            exception_lineno = 262;
 
             goto frame_exception_exit_1;
         }
@@ -32650,7 +32650,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 249;
+            exception_lineno = 262;
 
             goto frame_exception_exit_1;
         }
@@ -32671,7 +32671,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 250;
+            exception_lineno = 263;
 
             goto frame_exception_exit_1;
         }
@@ -32682,7 +32682,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 250;
+            exception_lineno = 263;
 
             goto frame_exception_exit_1;
         }
@@ -32766,58 +32766,58 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             PyObject *tmp_set_locals_1;
             CHECK_OBJECT(tmp_class_creation_1__prepared);
             tmp_set_locals_1 = tmp_class_creation_1__prepared;
-            locals_psutil$_pssunos$$$class__1_Process_373 = tmp_set_locals_1;
+            locals_psutil$_pssunos$$$class__1_Process_390 = tmp_set_locals_1;
             Py_INCREF(tmp_set_locals_1);
         }
         tmp_dictset_value = mod_consts[330];
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[331], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[331], tmp_dictset_value);
         assert(!(tmp_res != 0));
         tmp_dictset_value = mod_consts[332];
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[230], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[230], tmp_dictset_value);
         assert(!(tmp_res != 0));
         tmp_dictset_value = mod_consts[333];
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[334], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[334], tmp_dictset_value);
         assert(!(tmp_res != 0));
         tmp_dictset_value = MAKE_LIST5(mod_consts[335]);
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[336], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[336], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
 
 
         tmp_dictset_value = MAKE_FUNCTION_psutil$_pssunos$$$function__16___init__();
 
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[337], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[337], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
 
 
         tmp_dictset_value = MAKE_FUNCTION_psutil$_pssunos$$$function__17__assert_alive();
 
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[167], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[167], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
 
 
         tmp_dictset_value = MAKE_FUNCTION_psutil$_pssunos$$$function__18_oneshot_enter();
 
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[340], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[340], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
 
 
         tmp_dictset_value = MAKE_FUNCTION_psutil$_pssunos$$$function__19_oneshot_exit();
 
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[342], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[342], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
         // Tried code:
         // Tried code:
-        frame_4fae01a9e38901f88fa98e702522d65b_2 = MAKE_CLASS_FRAME(tstate, codeobj_4fae01a9e38901f88fa98e702522d65b, module_psutil$_pssunos, NULL, sizeof(void *));
+        frame_2f8ca13bab2a127e540f8b2fe00aec1c_2 = MAKE_CLASS_FRAME(tstate, codeobj_2f8ca13bab2a127e540f8b2fe00aec1c, module_psutil$_pssunos, NULL, sizeof(void *));
 
         // Push the new frame as the currently active one, and we should be exclusively
         // owning it.
-        pushFrameStackCompiledFrame(tstate, frame_4fae01a9e38901f88fa98e702522d65b_2);
-        assert(Py_REFCNT(frame_4fae01a9e38901f88fa98e702522d65b_2) == 2);
+        pushFrameStackCompiledFrame(tstate, frame_2f8ca13bab2a127e540f8b2fe00aec1c_2);
+        assert(Py_REFCNT(frame_2f8ca13bab2a127e540f8b2fe00aec1c_2) == 2);
 
         // Framed code:
         {
@@ -32844,7 +32844,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 401;
+                exception_lineno = 418;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -32852,7 +32852,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_4 = MAKE_FUNCTION_psutil$_pssunos$$$function__20__proc_name_and_args();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 401;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 418;
             tmp_args_element_value_3 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_8, tmp_args_element_value_4);
             Py_DECREF(tmp_args_element_value_4);
             if (tmp_args_element_value_3 == NULL) {
@@ -32861,11 +32861,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 401;
+                exception_lineno = 418;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 400;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 417;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_7, tmp_args_element_value_3);
             Py_DECREF(tmp_args_element_value_3);
             if (tmp_dictset_value == NULL) {
@@ -32874,11 +32874,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 400;
+                exception_lineno = 417;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[125], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[125], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -32886,7 +32886,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 402;
+                exception_lineno = 419;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -32908,7 +32908,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 405;
+                exception_lineno = 422;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -32924,7 +32924,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 406;
+                exception_lineno = 423;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -32932,7 +32932,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_6 = MAKE_FUNCTION_psutil$_pssunos$$$function__21__proc_basic_info();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 406;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 423;
             tmp_args_element_value_5 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_10, tmp_args_element_value_6);
             Py_DECREF(tmp_args_element_value_6);
             if (tmp_args_element_value_5 == NULL) {
@@ -32941,11 +32941,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 406;
+                exception_lineno = 423;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 405;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 422;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_9, tmp_args_element_value_5);
             Py_DECREF(tmp_args_element_value_5);
             if (tmp_dictset_value == NULL) {
@@ -32954,11 +32954,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 405;
+                exception_lineno = 422;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[127], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[127], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -32966,7 +32966,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 407;
+                exception_lineno = 424;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -32988,7 +32988,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 415;
+                exception_lineno = 433;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33004,7 +33004,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 416;
+                exception_lineno = 434;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33012,7 +33012,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_8 = MAKE_FUNCTION_psutil$_pssunos$$$function__22__proc_cred();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 416;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 434;
             tmp_args_element_value_7 = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_12, tmp_args_element_value_8);
             Py_DECREF(tmp_args_element_value_8);
             if (tmp_args_element_value_7 == NULL) {
@@ -33021,11 +33021,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 416;
+                exception_lineno = 434;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 415;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 433;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_11, tmp_args_element_value_7);
             Py_DECREF(tmp_args_element_value_7);
             if (tmp_dictset_value == NULL) {
@@ -33034,11 +33034,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 415;
+                exception_lineno = 433;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[128], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[128], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33046,7 +33046,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 417;
+                exception_lineno = 435;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33066,7 +33066,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 420;
+                exception_lineno = 438;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33074,7 +33074,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_9 = MAKE_FUNCTION_psutil$_pssunos$$$function__23_name();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 420;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 438;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_13, tmp_args_element_value_9);
             Py_DECREF(tmp_args_element_value_9);
             if (tmp_dictset_value == NULL) {
@@ -33083,11 +33083,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 420;
+                exception_lineno = 438;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[222], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[222], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33095,7 +33095,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 421;
+                exception_lineno = 439;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33115,7 +33115,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 425;
+                exception_lineno = 443;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33123,7 +33123,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_10 = MAKE_FUNCTION_psutil$_pssunos$$$function__24_exe();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 425;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 443;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_14, tmp_args_element_value_10);
             Py_DECREF(tmp_args_element_value_10);
             if (tmp_dictset_value == NULL) {
@@ -33132,11 +33132,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 425;
+                exception_lineno = 443;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[348], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[348], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33144,7 +33144,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 426;
+                exception_lineno = 444;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33164,7 +33164,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 438;
+                exception_lineno = 457;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33172,7 +33172,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_11 = MAKE_FUNCTION_psutil$_pssunos$$$function__25_cmdline();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 438;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 457;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_15, tmp_args_element_value_11);
             Py_DECREF(tmp_args_element_value_11);
             if (tmp_dictset_value == NULL) {
@@ -33181,11 +33181,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 438;
+                exception_lineno = 457;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[137], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[137], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33193,7 +33193,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 439;
+                exception_lineno = 458;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33213,7 +33213,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 442;
+                exception_lineno = 461;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33221,7 +33221,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_12 = MAKE_FUNCTION_psutil$_pssunos$$$function__26_environ();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 442;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 461;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_16, tmp_args_element_value_12);
             Py_DECREF(tmp_args_element_value_12);
             if (tmp_dictset_value == NULL) {
@@ -33230,11 +33230,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 442;
+                exception_lineno = 461;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[16], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[16], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33242,7 +33242,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 443;
+                exception_lineno = 462;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33262,7 +33262,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 446;
+                exception_lineno = 465;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33270,7 +33270,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_13 = MAKE_FUNCTION_psutil$_pssunos$$$function__27_create_time();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 446;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 465;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_17, tmp_args_element_value_13);
             Py_DECREF(tmp_args_element_value_13);
             if (tmp_dictset_value == NULL) {
@@ -33279,11 +33279,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 446;
+                exception_lineno = 465;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[141], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[141], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33291,7 +33291,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 447;
+                exception_lineno = 466;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33311,7 +33311,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 450;
+                exception_lineno = 469;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33319,7 +33319,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_14 = MAKE_FUNCTION_psutil$_pssunos$$$function__28_num_threads();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 450;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 469;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_18, tmp_args_element_value_14);
             Py_DECREF(tmp_args_element_value_14);
             if (tmp_dictset_value == NULL) {
@@ -33328,11 +33328,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 450;
+                exception_lineno = 469;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[142], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[142], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33340,7 +33340,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 451;
+                exception_lineno = 470;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33360,7 +33360,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 454;
+                exception_lineno = 473;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33368,7 +33368,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_15 = MAKE_FUNCTION_psutil$_pssunos$$$function__29_nice_get();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 454;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 473;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_19, tmp_args_element_value_15);
             Py_DECREF(tmp_args_element_value_15);
             if (tmp_dictset_value == NULL) {
@@ -33377,11 +33377,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 454;
+                exception_lineno = 473;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[354], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[354], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33389,7 +33389,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 455;
+                exception_lineno = 474;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33409,7 +33409,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 461;
+                exception_lineno = 480;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33417,7 +33417,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_16 = MAKE_FUNCTION_psutil$_pssunos$$$function__30_nice_set();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 461;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 480;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_20, tmp_args_element_value_16);
             Py_DECREF(tmp_args_element_value_16);
             if (tmp_dictset_value == NULL) {
@@ -33426,11 +33426,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 461;
+                exception_lineno = 480;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[356], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[356], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33438,7 +33438,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 462;
+                exception_lineno = 481;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33458,7 +33458,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 471;
+                exception_lineno = 490;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33466,7 +33466,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_17 = MAKE_FUNCTION_psutil$_pssunos$$$function__31_ppid();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 471;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 490;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_21, tmp_args_element_value_17);
             Py_DECREF(tmp_args_element_value_17);
             if (tmp_dictset_value == NULL) {
@@ -33475,11 +33475,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 471;
+                exception_lineno = 490;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[147], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[147], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33487,7 +33487,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 472;
+                exception_lineno = 491;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33507,7 +33507,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 476;
+                exception_lineno = 495;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33515,7 +33515,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_18 = MAKE_FUNCTION_psutil$_pssunos$$$function__32_uids();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 476;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 495;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_22, tmp_args_element_value_18);
             Py_DECREF(tmp_args_element_value_18);
             if (tmp_dictset_value == NULL) {
@@ -33524,11 +33524,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 476;
+                exception_lineno = 495;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[359], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[359], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33536,7 +33536,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 477;
+                exception_lineno = 496;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33556,7 +33556,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 486;
+                exception_lineno = 505;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33564,7 +33564,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_19 = MAKE_FUNCTION_psutil$_pssunos$$$function__33_gids();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 486;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 505;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_23, tmp_args_element_value_19);
             Py_DECREF(tmp_args_element_value_19);
             if (tmp_dictset_value == NULL) {
@@ -33573,11 +33573,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 486;
+                exception_lineno = 505;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[361], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[361], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33585,7 +33585,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 487;
+                exception_lineno = 506;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33605,7 +33605,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 496;
+                exception_lineno = 515;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33613,7 +33613,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_20 = MAKE_FUNCTION_psutil$_pssunos$$$function__34_cpu_times();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 496;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 515;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_24, tmp_args_element_value_20);
             Py_DECREF(tmp_args_element_value_20);
             if (tmp_dictset_value == NULL) {
@@ -33622,11 +33622,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 496;
+                exception_lineno = 515;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[323], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[323], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33634,7 +33634,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 497;
+                exception_lineno = 516;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33654,7 +33654,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 514;
+                exception_lineno = 533;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33662,7 +33662,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_21 = MAKE_FUNCTION_psutil$_pssunos$$$function__35_cpu_num();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 514;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 533;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_25, tmp_args_element_value_21);
             Py_DECREF(tmp_args_element_value_21);
             if (tmp_dictset_value == NULL) {
@@ -33671,11 +33671,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 514;
+                exception_lineno = 533;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[364], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[364], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33683,7 +33683,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 515;
+                exception_lineno = 534;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33703,7 +33703,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 518;
+                exception_lineno = 537;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33711,7 +33711,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_22 = MAKE_FUNCTION_psutil$_pssunos$$$function__36_terminal();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 518;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 537;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_26, tmp_args_element_value_22);
             Py_DECREF(tmp_args_element_value_22);
             if (tmp_dictset_value == NULL) {
@@ -33720,11 +33720,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 518;
+                exception_lineno = 537;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[366], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[366], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33732,7 +33732,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 519;
+                exception_lineno = 538;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33752,7 +33752,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 535;
+                exception_lineno = 554;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33760,7 +33760,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_23 = MAKE_FUNCTION_psutil$_pssunos$$$function__37_cwd();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 535;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 554;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_27, tmp_args_element_value_23);
             Py_DECREF(tmp_args_element_value_23);
             if (tmp_dictset_value == NULL) {
@@ -33769,11 +33769,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 535;
+                exception_lineno = 554;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[368], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[368], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33781,7 +33781,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 536;
+                exception_lineno = 555;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33801,7 +33801,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 548;
+                exception_lineno = 567;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33809,7 +33809,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_24 = MAKE_FUNCTION_psutil$_pssunos$$$function__38_memory_info();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 548;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 567;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_28, tmp_args_element_value_24);
             Py_DECREF(tmp_args_element_value_24);
             if (tmp_dictset_value == NULL) {
@@ -33818,11 +33818,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 548;
+                exception_lineno = 567;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[370], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[370], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33830,12 +33830,12 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 549;
+                exception_lineno = 568;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
         }
-        tmp_dictset_value = DICT_GET_ITEM0(tstate, locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[370]);
+        tmp_dictset_value = DICT_GET_ITEM0(tstate, locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[370]);
 
         if (unlikely(tmp_dictset_value == NULL && CHECK_AND_CLEAR_KEY_ERROR_OCCURRED(tstate))) {
 
@@ -33843,7 +33843,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             NORMALIZE_EXCEPTION(tstate, &exception_type, &exception_value, &exception_tb);
             CHAIN_EXCEPTION(tstate, exception_value);
 
-            exception_lineno = 555;
+            exception_lineno = 574;
             type_description_2 = "o";
             goto frame_exception_exit_2;
         }
@@ -33854,11 +33854,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-            exception_lineno = 555;
+            exception_lineno = 574;
             type_description_2 = "o";
             goto frame_exception_exit_2;
         }
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[372], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[372], tmp_dictset_value);
         assert(!(tmp_res != 0));
         {
             PyObject *tmp_called_value_29;
@@ -33875,7 +33875,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 557;
+                exception_lineno = 576;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33883,7 +33883,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_25 = MAKE_FUNCTION_psutil$_pssunos$$$function__39_status();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 557;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 576;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_29, tmp_args_element_value_25);
             Py_DECREF(tmp_args_element_value_25);
             if (tmp_dictset_value == NULL) {
@@ -33892,11 +33892,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 557;
+                exception_lineno = 576;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[173], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[173], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33904,7 +33904,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 558;
+                exception_lineno = 577;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33924,7 +33924,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 563;
+                exception_lineno = 582;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33932,7 +33932,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_26 = MAKE_FUNCTION_psutil$_pssunos$$$function__40_threads();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 563;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 582;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_30, tmp_args_element_value_26);
             Py_DECREF(tmp_args_element_value_26);
             if (tmp_dictset_value == NULL) {
@@ -33941,11 +33941,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 563;
+                exception_lineno = 582;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[374], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[374], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -33953,7 +33953,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 564;
+                exception_lineno = 583;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33973,7 +33973,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 596;
+                exception_lineno = 616;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -33981,7 +33981,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_27 = MAKE_FUNCTION_psutil$_pssunos$$$function__41_open_files();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 596;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 616;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_31, tmp_args_element_value_27);
             Py_DECREF(tmp_args_element_value_27);
             if (tmp_dictset_value == NULL) {
@@ -33990,11 +33990,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 596;
+                exception_lineno = 616;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[376], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[376], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34002,7 +34002,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 597;
+                exception_lineno = 617;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34011,7 +34011,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
         tmp_dictset_value = MAKE_FUNCTION_psutil$_pssunos$$$function__42__get_unix_sockets();
 
-        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[208], tmp_dictset_value);
+        tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[208], tmp_dictset_value);
         Py_DECREF(tmp_dictset_value);
         assert(!(tmp_res != 0));
         {
@@ -34030,7 +34030,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 649;
+                exception_lineno = 671;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34040,7 +34040,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_28 = MAKE_FUNCTION_psutil$_pssunos$$$function__43_connections(tmp_defaults_3);
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 649;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 671;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_32, tmp_args_element_value_28);
             Py_DECREF(tmp_args_element_value_28);
             if (tmp_dictset_value == NULL) {
@@ -34049,11 +34049,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 649;
+                exception_lineno = 671;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[379], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[379], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34061,7 +34061,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 650;
+                exception_lineno = 672;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34080,11 +34080,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 667;
+                exception_lineno = 691;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 667;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 691;
             tmp_dictset_value = CALL_FUNCTION_WITH_POSARGS2(tstate, tmp_called_value_33, mod_consts[381]);
 
             if (tmp_dictset_value == NULL) {
@@ -34093,11 +34093,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 667;
+                exception_lineno = 691;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[382], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[382], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34105,7 +34105,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 667;
+                exception_lineno = 691;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34124,11 +34124,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 668;
+                exception_lineno = 692;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 668;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 692;
             tmp_dictset_value = CALL_FUNCTION_WITH_POSARGS2(tstate, tmp_called_value_34, mod_consts[383]);
 
             if (tmp_dictset_value == NULL) {
@@ -34137,11 +34137,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 668;
+                exception_lineno = 692;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[384], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[384], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34149,7 +34149,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 668;
+                exception_lineno = 692;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34169,7 +34169,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 670;
+                exception_lineno = 694;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34177,7 +34177,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_29 = MAKE_FUNCTION_psutil$_pssunos$$$function__44_memory_maps();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 670;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 694;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_35, tmp_args_element_value_29);
             Py_DECREF(tmp_args_element_value_29);
             if (tmp_dictset_value == NULL) {
@@ -34186,11 +34186,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 670;
+                exception_lineno = 694;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[385], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[385], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34198,7 +34198,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 671;
+                exception_lineno = 695;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34218,7 +34218,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 717;
+                exception_lineno = 744;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34226,7 +34226,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_30 = MAKE_FUNCTION_psutil$_pssunos$$$function__45_num_fds();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 717;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 744;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_36, tmp_args_element_value_30);
             Py_DECREF(tmp_args_element_value_30);
             if (tmp_dictset_value == NULL) {
@@ -34235,11 +34235,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 717;
+                exception_lineno = 744;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[387], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[387], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34247,7 +34247,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 718;
+                exception_lineno = 745;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34267,7 +34267,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 721;
+                exception_lineno = 748;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34275,7 +34275,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_31 = MAKE_FUNCTION_psutil$_pssunos$$$function__46_num_ctx_switches();
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 721;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 748;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_37, tmp_args_element_value_31);
             Py_DECREF(tmp_args_element_value_31);
             if (tmp_dictset_value == NULL) {
@@ -34284,11 +34284,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 721;
+                exception_lineno = 748;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[389], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[389], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34296,7 +34296,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 722;
+                exception_lineno = 749;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34317,7 +34317,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 726;
+                exception_lineno = 754;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34327,7 +34327,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
             tmp_args_element_value_32 = MAKE_FUNCTION_psutil$_pssunos$$$function__47_wait(tmp_defaults_4);
 
-            frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame.f_lineno = 726;
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame.f_lineno = 754;
             tmp_dictset_value = CALL_FUNCTION_WITH_SINGLE_ARG(tstate, tmp_called_value_38, tmp_args_element_value_32);
             Py_DECREF(tmp_args_element_value_32);
             if (tmp_dictset_value == NULL) {
@@ -34336,11 +34336,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 726;
+                exception_lineno = 754;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
-            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_373, mod_consts[392], tmp_dictset_value);
+            tmp_res = PyDict_SetItem(locals_psutil$_pssunos$$$class__1_Process_390, mod_consts[392], tmp_dictset_value);
             Py_DECREF(tmp_dictset_value);
             if (tmp_res != 0) {
                 assert(HAS_ERROR_OCCURRED(tstate));
@@ -34348,7 +34348,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 727;
+                exception_lineno = 755;
                 type_description_2 = "o";
                 goto frame_exception_exit_2;
             }
@@ -34363,21 +34363,21 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
 
 
         if (exception_tb == NULL) {
-            exception_tb = MAKE_TRACEBACK(frame_4fae01a9e38901f88fa98e702522d65b_2, exception_lineno);
-        } else if (exception_tb->tb_frame != &frame_4fae01a9e38901f88fa98e702522d65b_2->m_frame) {
-            exception_tb = ADD_TRACEBACK(exception_tb, frame_4fae01a9e38901f88fa98e702522d65b_2, exception_lineno);
+            exception_tb = MAKE_TRACEBACK(frame_2f8ca13bab2a127e540f8b2fe00aec1c_2, exception_lineno);
+        } else if (exception_tb->tb_frame != &frame_2f8ca13bab2a127e540f8b2fe00aec1c_2->m_frame) {
+            exception_tb = ADD_TRACEBACK(exception_tb, frame_2f8ca13bab2a127e540f8b2fe00aec1c_2, exception_lineno);
         }
 
         // Attaches locals to frame if any.
         Nuitka_Frame_AttachLocals(
-            frame_4fae01a9e38901f88fa98e702522d65b_2,
+            frame_2f8ca13bab2a127e540f8b2fe00aec1c_2,
             type_description_2,
             outline_0_var___class__
         );
 
 
 
-        assertFrameObject(frame_4fae01a9e38901f88fa98e702522d65b_2);
+        assertFrameObject(frame_2f8ca13bab2a127e540f8b2fe00aec1c_2);
 
         // Put the previous frame back on top.
         popFrameStack(tstate);
@@ -34402,11 +34402,11 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
             PyTuple_SET_ITEM0(tmp_args_value_1, 0, tmp_tuple_element_1);
             tmp_tuple_element_1 = mod_consts[394];
             PyTuple_SET_ITEM0(tmp_args_value_1, 1, tmp_tuple_element_1);
-            tmp_tuple_element_1 = locals_psutil$_pssunos$$$class__1_Process_373;
+            tmp_tuple_element_1 = locals_psutil$_pssunos$$$class__1_Process_390;
             PyTuple_SET_ITEM0(tmp_args_value_1, 2, tmp_tuple_element_1);
             CHECK_OBJECT(tmp_class_creation_1__class_decl_dict);
             tmp_kwargs_value_1 = tmp_class_creation_1__class_decl_dict;
-            frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 373;
+            frame_2e8ce0ddbf58a61d236cd7ae25a6ca3c->m_frame.f_lineno = 390;
             tmp_assign_source_70 = CALL_FUNCTION(tstate, tmp_called_value_39, tmp_args_value_1, tmp_kwargs_value_1);
             Py_DECREF(tmp_args_value_1);
             if (tmp_assign_source_70 == NULL) {
@@ -34415,7 +34415,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
                 FETCH_ERROR_OCCURRED(tstate, &exception_type, &exception_value, &exception_tb);
 
 
-                exception_lineno = 373;
+                exception_lineno = 390;
 
                 goto try_except_handler_3;
             }
@@ -34430,8 +34430,8 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
         return NULL;
         // Return handler code:
         try_return_handler_3:;
-        Py_DECREF(locals_psutil$_pssunos$$$class__1_Process_373);
-        locals_psutil$_pssunos$$$class__1_Process_373 = NULL;
+        Py_DECREF(locals_psutil$_pssunos$$$class__1_Process_390);
+        locals_psutil$_pssunos$$$class__1_Process_390 = NULL;
         goto try_return_handler_2;
         // Exception handler code:
         try_except_handler_3:;
@@ -34444,8 +34444,8 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
         exception_tb = NULL;
         exception_lineno = 0;
 
-        Py_DECREF(locals_psutil$_pssunos$$$class__1_Process_373);
-        locals_psutil$_pssunos$$$class__1_Process_373 = NULL;
+        Py_DECREF(locals_psutil$_pssunos$$$class__1_Process_390);
+        locals_psutil$_pssunos$$$class__1_Process_390 = NULL;
         // Re-raise.
         exception_type = exception_keeper_type_1;
         exception_value = exception_keeper_value_1;
@@ -34484,7 +34484,7 @@ PyObject *modulecode_psutil$_pssunos(PyThreadState *tstate, PyObject *module, st
         NUITKA_CANNOT_GET_HERE("Return statement must have exited already.");
         return NULL;
         outline_exception_1:;
-        exception_lineno = 373;
+        exception_lineno = 390;
         goto try_except_handler_1;
         outline_result_1:;
         UPDATE_STRING_DICT1(moduledict_psutil$_pssunos, (Nuitka_StringObject *)mod_consts[333], tmp_assign_source_69);

@@ -1,5 +1,5 @@
 /* Generated code for Python module 'pygame$cursors'
- * created by Nuitka version 1.9.6
+ * created by Nuitka version 1.9.7
  *
  * This code is in part copyright 2023 Kay Hayen.
  *
@@ -122,7 +122,7 @@ static PyObject *MAKE_GENERATOR_pygame$cursors$$$function__1___init__$$$genexpr_
 NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__2_complex_call_helper_star_list(PyThreadState *tstate, PyObject **python_pars);
 
 
-NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__12_complex_call_helper_star_dict(PyThreadState *tstate, PyObject **python_pars);
+NUITKA_CROSS_MODULE PyObject *impl___main__$$$function__5_complex_call_helper_star_dict(PyThreadState *tstate, PyObject **python_pars);
 
 
 static PyObject *MAKE_FUNCTION_pygame$cursors$$$function__10_set_cursor();
@@ -3640,7 +3640,7 @@ static PyObject *impl_pygame$cursors$$$function__10_set_cursor(PyThreadState *ts
 
         {
             PyObject *dir_call_args[] = {tmp_dircall_arg1_2, tmp_dircall_arg2_2};
-            tmp_call_result_1 = impl___main__$$$function__12_complex_call_helper_star_dict(tstate, dir_call_args);
+            tmp_call_result_1 = impl___main__$$$function__5_complex_call_helper_star_dict(tstate, dir_call_args);
         }
         if (tmp_call_result_1 == NULL) {
             assert(HAS_ERROR_OCCURRED(tstate));
